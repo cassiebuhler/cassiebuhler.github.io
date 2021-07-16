@@ -33,4 +33,4 @@ Classes I have tutored for at the University of Utah:
 - MATH 3070: Applied Statistics I
 - MATH 3080: Applied Statistics II
 
-I was also a tutor for the Utah Prison Education Project (UPEP). I tutored a Salt Lake Community College course, MATH 1030: Intro to Quantitative Reasoning, for students at the Timpanogos Women's Correctional Facility. To learn more about UPEP,  please visit their [website.](https://prisoneducationproject.utah.edu/)
+I was also a tutor for the Utah Prison Education Project (UPEP). To learn more about UPEP,  please visit their [website.](https://prisoneducationproject.utah.edu/)
