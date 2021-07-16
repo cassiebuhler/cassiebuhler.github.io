@@ -7,7 +7,7 @@ redirect_from:
   - /teaching
 ---
 
-<a href="/files/BuhlerTeachingStatement.pdf" target="_blank">My teaching statement can be accessed here. </a>
+My teaching statement can be accessed <a href="/files/BuhlerTeachingStatement.pdf" target="_blank"> here. </a>
 
 Classes I've instructed at Drexel:
 - MIS 200: Management Information Systems
