@@ -7,4 +7,30 @@ redirect_from:
   - /teaching
 ---
 
-- <a href="/files/BuhlerTeachingStatment.pdf" target="_blank">Click here to view my teaching statement!</a>
+- <a href="/files/BuhlerTeachingStatement.pdf" target="_blank">Click here to view my teaching statement!</a>
+
+Classes I've instructed at Drexel:
+- MIS 200: Management Information Systems
+- Click to read my scathing reviews from  <a href="/files/MIS-200_Fall2019.pdf" target="_blank">Fall 2019</a>,  <a href="/files/MIS-200_Fall2020.pdf" target="_blank">Fall 2020</a>, and <a href="/files/MIS-200_Winter2021.pdf" target="_blank">Winter 2021</a>. 
+
+Classes I have TA'd for at Drexel:
+- BSAN 360: Programming for Data Analytics
+- OPM 200: Operations Management
+- OPM 341: Supply Chain Management
+- OPR 320: Linear Models for Decision Making
+- STAT 201: Intro to Business Statistics
+- STAT 202: Business Statistics II
+- STAT 205: Statistical Inference I
+- STAT 206: Statistical Inference II
+
+Classes I have tutored for at the University of Utah:
+- MATH 1010: Intermediate Algebra
+- MATH 1050: College Algebra
+- MATH 1210: Calculus I 
+- MATH 1220: Calculus II
+- MATH 2210: Calculus III
+- MATH 2270: Linear Algebra
+- MATH 3070: Applied Statistics I
+- MATH 3080: Applied Statistics II
+
+I was also a tutor for the Utah Prison Education Project (UPEP). I tutored a Salt Lake Community College course, MATH 1030: Intro to Quantitative Reasoning, for students at the Timpanogos Women's Correctional Facility. To learn more about UPEP,  please visit their [website.](https://prisoneducationproject.utah.edu/)
