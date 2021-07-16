@@ -3,11 +3,14 @@ main:
   - title: "Home"
     url: /
 
-  - title: "CV"
-    url: /cv/
-
   - title: "Research"
     url: /research/
         
   - title: "Teaching"
     url: /teaching/
+
+  - title: "Software"
+    url: /software/
+
+  - title: "CV"
+    url: /cv/
