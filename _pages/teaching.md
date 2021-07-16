@@ -7,11 +7,11 @@ redirect_from:
   - /teaching
 ---
 
-- <a href="/files/BuhlerTeachingStatement.pdf" target="_blank">Click here to view my teaching statement!</a>
+<a href="/files/BuhlerTeachingStatement.pdf" target="_blank">My teaching statement can be accessed here. </a>
 
 Classes I've instructed at Drexel:
 - MIS 200: Management Information Systems
-- Click to read my scathing reviews from  <a href="/files/MIS-200_Fall2019.pdf" target="_blank">Fall 2019</a>,  <a href="/files/MIS-200_Fall2020.pdf" target="_blank">Fall 2020</a>, and <a href="/files/MIS-200_Winter2021.pdf" target="_blank">Winter 2021</a>. 
+- Students can read my teaching evaluations from <a href="/files/MIS-200_Fall2019.pdf" target="_blank">Fall 2019</a>,  <a href="/files/MIS-200_Fall2020.pdf" target="_blank">Fall 2020</a>, and <a href="/files/MIS-200_Winter2021.pdf" target="_blank">Winter 2021</a>. 
 
 Classes I have TA'd for at Drexel:
 - BSAN 360: Programming for Data Analytics
