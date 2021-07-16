@@ -14,8 +14,9 @@ redirect_from:
 
 - Buhler C. K., Benson H. Y. (2020). "Efficient solution of portfolio optimization problems via dimension reduction and sparsification''. Technical Report. Drexel University, Philadelphia PA, USA.
 
-- Buhler C. K., Terry R. S., Link K. G., Adler F. R. (2019). ["Mathematical modeling of adaptive therapy in prostate cancer'".](https://our.utah.edu/wp-content/uploads/sites/19/2019/05/buhler.pdf) *Undergraduate Research Journal*.
+- Buhler C. K., Terry R. S., Link K. G., Adler F. R. (2019). "Mathematical modeling of adaptive therapy in prostate cancer". *Undergraduate Research Journal*. [Available online.](https://our.utah.edu/wp-content/uploads/sites/19/2019/05/buhler.pdf)
 
 ## Software
+
 
 ---
