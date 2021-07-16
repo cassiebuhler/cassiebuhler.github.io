@@ -12,7 +12,7 @@ redirect_from:
 
 - Buhler C. K., Benson H. Y., Shanno D. F. (2021). "Regularized step directions in conjugate gradient minimization for machine learning''. In preparation for submission to *INFORMS Journal on Optimization*.
 
-- Buhler C. K., Benson H. Y. (2020). "Efficient solution of portfolio optimization problems via dimension reduction and sparsification''. Technical Report. Drexel University, Philadelphia PA, USA.  <a href="/files/PortfolioOpt_notfinal.pdf" target="_blank">Working paper available here.</a>,
+- Buhler C. K., Benson H. Y. (2020). "Efficient solution of portfolio optimization problems via dimension reduction and sparsification''. Technical Report. Drexel University, Philadelphia PA, USA.  <a href="/files/PortfolioOpt_notfinal.pdf" target="_blank">Working paper available here.</a>
 
 - Buhler C. K., Terry R. S., Link K. G., Adler F. R. (2019). "Mathematical modeling of adaptive therapy in prostate cancer". *Undergraduate Research Journal*. [Available online.](https://our.utah.edu/wp-content/uploads/sites/19/2019/05/buhler.pdf)
 
