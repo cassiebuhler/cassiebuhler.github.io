@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Software"
-permalink: /software/
+title: "Research"
+permalink: /research/
 author_profile: true
 redirect_from:
-  - /software
+  - /research
 ---
 
 
