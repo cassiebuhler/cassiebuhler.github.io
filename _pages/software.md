@@ -1,8 +1,10 @@
 ---
 layout: archive
-title: "Software "
+title: "Software"
 permalink: /software/
 author_profile: true
+redirect_from:
+  - /software
 ---
 
 
