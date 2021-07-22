@@ -7,7 +7,7 @@ redirect_from:
   - /software
 ---
 
-The software used in the paper "Regularized Step Directions in Conjugate Gradient Minimization for Machine Learning" is available here for open source download.
+The software used in the paper  <a href="/files/RegularizedCGMforML_v1.pdf" target="_blank">Regularized Step Directions in Conjugate Gradient Minimization for Machine Learning</a> is available here for open source download.
 
 We have reimplemented conjugate gradient method of Conmin in C and connected it to AMPL.  In our C implementation, we have omitted the BFGS method also implemented in the original Conmin distribution, and we will call our new code *Conmin-CG*. The cubic regularization scheme proposed in our paper as Algorithm 2 was implemented and tested by modifying this software, and is called *Conmin-CG with Cubic Regularization*.
 
