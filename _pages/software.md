@@ -14,5 +14,9 @@ We have reimplemented conjugate gradient method of Conmin in C and connected it 
 - <a href="/files/Conmin-CG.zip" target="_blank">Click to download Conmin-CG </a>
 - <a href="/files/Conmin-CG with Cubic Regularization.zip" target="_blank">Click to download Conmin-CG with Cubic Regularization</a>
 
+In addition, we implemented the same code in MATLAB to compare to ADMM. 
 
+- <a href="/files/Conmin-CG_MatlabVersion.zip" target="_blank">Click to download Conmin-CG with and without Cubic Regularization in MATLAB </a>
+
+ 
 ---
