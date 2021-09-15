@@ -1,0 +1,131 @@
+-------------------------------
+Cubic
+
+Elapsed time is 0.050474 seconds.
+Iters = 6, inCubic = 1
+Elapsed time is 0.038543 seconds.
+Iters = 6, inCubic = 1
+Elapsed time is 0.038741 seconds.
+Iters = 6, inCubic = 1
+Elapsed time is 0.037364 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.043359 seconds.
+Iters = 6, inCubic = 1
+Elapsed time is 0.043276 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.042931 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.038767 seconds.
+Iters = 6, inCubic = 1
+Elapsed time is 0.046082 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.035294 seconds.
+Iters = 6, inCubic = 1
+Elapsed time is 0.045558 seconds.
+Iters = 6, inCubic = 1
+Elapsed time is 0.042141 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.033143 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.035045 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.024460 seconds.
+Iters = 6, inCubic = 1
+Elapsed time is 0.024502 seconds.
+Iters = 6, inCubic = 1
+Elapsed time is 0.030228 seconds.
+Iters = 6, inCubic = 1
+Elapsed time is 0.033030 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.024517 seconds.
+Iters = 6, inCubic = 1
+Elapsed time is 0.030571 seconds.
+Iters = 7, inCubic = 1
+
+-------------------------------
+CG
+
+Elapsed time is 0.040087 seconds.
+Iters = 9, inPowell = 1
+Elapsed time is 0.037649 seconds.
+Iters = 9, inPowell = 1
+Elapsed time is 0.026279 seconds.
+Iters = 9, inPowell = 1
+Elapsed time is 0.035120 seconds.
+Iters = 9, inPowell = 1
+Elapsed time is 0.032275 seconds.
+Iters = 9, inPowell = 1
+Elapsed time is 0.027560 seconds.
+Iters = 9, inPowell = 1
+Elapsed time is 0.028644 seconds.
+Iters = 9, inPowell = 1
+Elapsed time is 0.028691 seconds.
+Iters = 9, inPowell = 1
+Elapsed time is 0.023898 seconds.
+Iters = 9, inPowell = 1
+Elapsed time is 0.026044 seconds.
+Iters = 9, inPowell = 1
+Elapsed time is 0.029321 seconds.
+Iters = 9, inPowell = 1
+Elapsed time is 0.033486 seconds.
+Iters = 9, inPowell = 1
+Elapsed time is 0.036100 seconds.
+Iters = 9, inPowell = 1
+Elapsed time is 0.027547 seconds.
+Iters = 9, inPowell = 1
+Elapsed time is 0.048638 seconds.
+Iters = 9, inPowell = 1
+Elapsed time is 0.032755 seconds.
+Iters = 9, inPowell = 1
+Elapsed time is 0.029379 seconds.
+Iters = 9, inPowell = 1
+Elapsed time is 0.030400 seconds.
+Iters = 9, inPowell = 1
+Elapsed time is 0.035114 seconds.
+Iters = 9, inPowell = 1
+Elapsed time is 0.034772 seconds.
+Iters = 9, inPowell = 1
+
+-------------------------------
+ADMM
+
+Elapsed time is 0.052630 seconds.
+iter = 7
+Elapsed time is 0.048712 seconds.
+iter = 7
+Elapsed time is 0.049515 seconds.
+iter = 7
+Elapsed time is 0.051011 seconds.
+iter = 7
+Elapsed time is 0.052192 seconds.
+iter = 7
+Elapsed time is 0.056557 seconds.
+iter = 7
+Elapsed time is 0.054713 seconds.
+iter = 7
+Elapsed time is 0.057476 seconds.
+iter = 7
+Elapsed time is 0.053994 seconds.
+iter = 7
+Elapsed time is 0.055520 seconds.
+iter = 7
+Elapsed time is 0.054386 seconds.
+iter = 7
+Elapsed time is 0.053316 seconds.
+iter = 7
+Elapsed time is 0.055565 seconds.
+iter = 7
+Elapsed time is 0.052023 seconds.
+iter = 7
+Elapsed time is 0.049795 seconds.
+iter = 7
+Elapsed time is 0.051788 seconds.
+iter = 7
+Elapsed time is 0.049625 seconds.
+iter = 7
+Elapsed time is 0.055712 seconds.
+iter = 7
+Elapsed time is 0.057856 seconds.
+iter = 7
+Elapsed time is 0.053775 seconds.
+iter = 7

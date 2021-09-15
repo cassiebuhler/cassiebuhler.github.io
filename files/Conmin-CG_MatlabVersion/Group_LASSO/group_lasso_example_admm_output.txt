@@ -1,0 +1,200 @@
+Elapsed time is 0.013499 seconds.
+n = 267, iter = 13
+Elapsed time is 0.410041 seconds.
+n = 1319, iter = 150
+Elapsed time is 0.001164 seconds.
+n = 89, iter = 16
+Elapsed time is 0.011868 seconds.
+n = 392, iter = 19
+Elapsed time is 0.285342 seconds.
+n = 1276, iter = 110
+Elapsed time is 0.031439 seconds.
+n = 619, iter = 21
+Elapsed time is 1.050503 seconds.
+n = 1613, iter = 213
+Elapsed time is 0.064536 seconds.
+n = 785, iter = 30
+Elapsed time is 0.643767 seconds.
+n = 1749, iter = 130
+Elapsed time is 0.669399 seconds.
+n = 1706, iter = 141
+Elapsed time is 0.039061 seconds.
+n = 705, iter = 26
+Elapsed time is 0.210621 seconds.
+n = 1204, iter = 84
+Elapsed time is 0.031197 seconds.
+n = 635, iter = 24
+Elapsed time is 0.601494 seconds.
+n = 1808, iter = 100
+Elapsed time is 0.137340 seconds.
+n = 1022, iter = 53
+Elapsed time is 0.069834 seconds.
+n = 761, iter = 48
+Elapsed time is 0.023051 seconds.
+n = 575, iter = 20
+Elapsed time is 0.637549 seconds.
+n = 1444, iter = 219
+Elapsed time is 0.060154 seconds.
+n = 813, iter = 31
+Elapsed time is 0.001802 seconds.
+n = 142, iter = 17
+Elapsed time is 0.430567 seconds.
+n = 1367, iter = 158
+Elapsed time is 0.175667 seconds.
+n = 1123, iter = 77
+Elapsed time is 0.163127 seconds.
+n = 1106, iter = 69
+Elapsed time is 0.166071 seconds.
+n = 1112, iter = 71
+Elapsed time is 0.046457 seconds.
+n = 756, iter = 26
+Elapsed time is 0.567759 seconds.
+n = 1375, iter = 214
+Elapsed time is 0.664816 seconds.
+n = 1455, iter = 228
+Elapsed time is 0.998564 seconds.
+n = 1516, iter = 244
+Elapsed time is 0.125143 seconds.
+n = 928, iter = 70
+Elapsed time is 0.004294 seconds.
+n = 278, iter = 15
+Elapsed time is 0.806174 seconds.
+n = 1648, iter = 176
+Elapsed time is 0.224665 seconds.
+n = 1205, iter = 87
+Elapsed time is 0.140323 seconds.
+n = 1068, iter = 61
+Elapsed time is 0.043872 seconds.
+n = 736, iter = 26
+Elapsed time is 0.948121 seconds.
+n = 1513, iter = 227
+Elapsed time is 0.021312 seconds.
+n = 551, iter = 19
+Elapsed time is 0.094825 seconds.
+n = 954, iter = 43
+Elapsed time is 0.027201 seconds.
+n = 520, iter = 31
+Elapsed time is 0.321956 seconds.
+n = 1274, iter = 120
+Elapsed time is 0.087450 seconds.
+n = 867, iter = 55
+Elapsed time is 0.409445 seconds.
+n = 1329, iter = 153
+Elapsed time is 0.027681 seconds.
+n = 543, iter = 29
+Elapsed time is 0.005613 seconds.
+n = 235, iter = 20
+Elapsed time is 0.077693 seconds.
+n = 920, iter = 40
+Elapsed time is 0.298717 seconds.
+n = 1262, iter = 116
+Elapsed time is 0.075782 seconds.
+n = 896, iter = 39
+Elapsed time is 0.480932 seconds.
+n = 1333, iter = 189
+Elapsed time is 0.987127 seconds.
+n = 1574, iter = 211
+Elapsed time is 0.138201 seconds.
+n = 1073, iter = 58
+Elapsed time is 0.573042 seconds.
+n = 1691, iter = 118
+Elapsed time is 0.087449 seconds.
+n = 828, iter = 55
+Elapsed time is 0.097478 seconds.
+n = 992, iter = 45
+Elapsed time is 0.918672 seconds.
+n = 1600, iter = 210
+Elapsed time is 0.822371 seconds.
+n = 1449, iter = 294
+Elapsed time is 0.152616 seconds.
+n = 989, iter = 80
+Elapsed time is 0.185577 seconds.
+n = 1157, iter = 77
+Elapsed time is 0.526277 seconds.
+n = 1783, iter = 104
+Elapsed time is 0.027001 seconds.
+n = 591, iter = 20
+Elapsed time is 0.049223 seconds.
+n = 763, iter = 30
+Elapsed time is 0.070545 seconds.
+n = 908, iter = 38
+Elapsed time is 0.260078 seconds.
+n = 1212, iter = 92
+Elapsed time is 0.042820 seconds.
+n = 618, iter = 38
+Elapsed time is 0.120317 seconds.
+n = 1048, iter = 57
+Elapsed time is 0.075616 seconds.
+n = 887, iter = 37
+Elapsed time is 0.124383 seconds.
+n = 924, iter = 78
+Elapsed time is 0.078436 seconds.
+n = 844, iter = 50
+Elapsed time is 0.414216 seconds.
+n = 1342, iter = 153
+Elapsed time is 0.086190 seconds.
+n = 963, iter = 41
+Elapsed time is 0.245145 seconds.
+n = 1207, iter = 96
+Elapsed time is 0.003102 seconds.
+n = 204, iter = 20
+Elapsed time is 0.094747 seconds.
+n = 957, iter = 46
+Elapsed time is 0.115652 seconds.
+n = 1006, iter = 54
+Elapsed time is 0.024456 seconds.
+n = 492, iter = 29
+Elapsed time is 0.364224 seconds.
+n = 1332, iter = 132
+Elapsed time is 0.671588 seconds.
+n = 1423, iter = 236
+Elapsed time is 0.057973 seconds.
+n = 827, iter = 34
+Elapsed time is 0.069470 seconds.
+n = 881, iter = 39
+Elapsed time is 0.084992 seconds.
+n = 918, iter = 40
+Elapsed time is 0.040236 seconds.
+n = 648, iter = 24
+Elapsed time is 0.309432 seconds.
+n = 1296, iter = 119
+Elapsed time is 0.070613 seconds.
+n = 840, iter = 35
+Elapsed time is 0.038534 seconds.
+n = 690, iter = 24
+Elapsed time is 0.074630 seconds.
+n = 923, iter = 39
+Elapsed time is 0.015085 seconds.
+n = 449, iter = 16
+Elapsed time is 0.225542 seconds.
+n = 1191, iter = 93
+Elapsed time is 0.546880 seconds.
+n = 1406, iter = 191
+Elapsed time is 0.092894 seconds.
+n = 979, iter = 48
+Elapsed time is 0.786992 seconds.
+n = 1593, iter = 175
+Elapsed time is 0.075598 seconds.
+n = 886, iter = 37
+Elapsed time is 0.004321 seconds.
+n = 290, iter = 13
+Elapsed time is 0.205895 seconds.
+n = 1185, iter = 88
+Elapsed time is 2.601403 seconds.
+n = 1539, iter = 296
+Elapsed time is 0.006452 seconds.
+n = 184, iter = 11
+Elapsed time is 0.262128 seconds.
+n = 1020, iter = 58
+Elapsed time is 0.214228 seconds.
+n = 976, iter = 48
+Elapsed time is 0.051465 seconds.
+n = 501, iter = 32
+Elapsed time is 1.408015 seconds.
+n = 1687, iter = 142
+Elapsed time is 0.087492 seconds.
+n = 592, iter = 37
+Elapsed time is 0.229394 seconds.
+n = 935, iter = 42
+Elapsed time is 0.698682 seconds.
+n = 1287, iter = 131

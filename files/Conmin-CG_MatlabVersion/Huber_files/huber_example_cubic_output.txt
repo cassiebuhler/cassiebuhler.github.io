@@ -1,0 +1,200 @@
+Elapsed time is 0.050474 seconds.
+Iters = 6, inCubic = 1
+Elapsed time is 0.038543 seconds.
+Iters = 6, inCubic = 1
+Elapsed time is 0.038741 seconds.
+Iters = 6, inCubic = 1
+Elapsed time is 0.037364 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.043359 seconds.
+Iters = 6, inCubic = 1
+Elapsed time is 0.043276 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.042931 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.038767 seconds.
+Iters = 6, inCubic = 1
+Elapsed time is 0.046082 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.035294 seconds.
+Iters = 6, inCubic = 1
+Elapsed time is 0.045558 seconds.
+Iters = 6, inCubic = 1
+Elapsed time is 0.042141 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.033143 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.035045 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.024460 seconds.
+Iters = 6, inCubic = 1
+Elapsed time is 0.024502 seconds.
+Iters = 6, inCubic = 1
+Elapsed time is 0.030228 seconds.
+Iters = 6, inCubic = 1
+Elapsed time is 0.033030 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.024517 seconds.
+Iters = 6, inCubic = 1
+Elapsed time is 0.030571 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.037265 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.047174 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.040347 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.032315 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.034922 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.034308 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.038477 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.042975 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.037867 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.028593 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.040592 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.024710 seconds.
+Iters = 6, inCubic = 1
+Elapsed time is 0.032396 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.036385 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.032732 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.031388 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.036484 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.029817 seconds.
+Iters = 6, inCubic = 1
+Elapsed time is 0.035037 seconds.
+Iters = 6, inCubic = 1
+Elapsed time is 0.043718 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.042569 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.033596 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.033292 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.032205 seconds.
+Iters = 6, inCubic = 1
+Elapsed time is 0.024720 seconds.
+Iters = 6, inCubic = 1
+Elapsed time is 0.034162 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.028475 seconds.
+Iters = 6, inCubic = 1
+Elapsed time is 0.028779 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.028317 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.033435 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.031408 seconds.
+Iters = 6, inCubic = 1
+Elapsed time is 0.038260 seconds.
+Iters = 6, inCubic = 1
+Elapsed time is 0.033646 seconds.
+Iters = 6, inCubic = 1
+Elapsed time is 0.050862 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.042596 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.035019 seconds.
+Iters = 6, inCubic = 1
+Elapsed time is 0.048917 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.043437 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.036074 seconds.
+Iters = 6, inCubic = 1
+Elapsed time is 0.047065 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.041837 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.042764 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.043514 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.037970 seconds.
+Iters = 6, inCubic = 1
+Elapsed time is 0.043506 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.029354 seconds.
+Iters = 6, inCubic = 1
+Elapsed time is 0.049387 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.036722 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.039707 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.038765 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.031173 seconds.
+Iters = 6, inCubic = 1
+Elapsed time is 0.039045 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.040342 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.041625 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.043089 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.040137 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.031487 seconds.
+Iters = 6, inCubic = 1
+Elapsed time is 0.039513 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.037397 seconds.
+Iters = 6, inCubic = 1
+Elapsed time is 0.038469 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.057591 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.041069 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.041843 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.042074 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.042452 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.037547 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.042106 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.025870 seconds.
+Iters = 6, inCubic = 1
+Elapsed time is 0.046865 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.037782 seconds.
+Iters = 6, inCubic = 1
+Elapsed time is 0.042257 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.034478 seconds.
+Iters = 6, inCubic = 1
+Elapsed time is 0.030935 seconds.
+Iters = 6, inCubic = 1
+Elapsed time is 0.034104 seconds.
+Iters = 6, inCubic = 1
+Elapsed time is 0.034874 seconds.
+Iters = 6, inCubic = 1
+Elapsed time is 0.044388 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.030005 seconds.
+Iters = 7, inCubic = 1
+Elapsed time is 0.028641 seconds.
+Iters = 6, inCubic = 1
+Elapsed time is 0.028262 seconds.
+Iters = 6, inCubic = 1
+Elapsed time is 0.030670 seconds.
+Iters = 7, inCubic = 1
