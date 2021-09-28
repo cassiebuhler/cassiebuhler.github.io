@@ -9,7 +9,7 @@ redirect_from:
 ## Papers 
 - Cassidy K. Buhler, Rebecca S. Terry, Kathryn G. Link, Frederick R. Adler. Do mechanisms matter? Comparing cancer treatment strategies across mathematical models and outcome objectives[J]. Mathematical Biosciences and Engineering, 2021, 18(5): 6305-6327. doi: 10.3934/mbe.2021315. [Available online.](https://www.aimspress.com/article/doi/10.3934/mbe.2021315)
 
-- Buhler C. K., Benson H. Y., Shanno D. F. (2021). "Regularized step directions in conjugate gradient minimization for machine learning''. In preparation for submission to *INFORMS Journal on Optimization*. <a href="/files/RegularizedCGMforML_v1.pdf" target="_blank">Working paper available here.</a>
+- Buhler C. K., Benson H. Y., Shanno D. F. (2021). "Regularized step directions in conjugate gradient minimization for machine learning''. Under first round of review at *INFORMS Journal on Optimization*. <a href="/files/RegularizedCGMforML_v1.pdf" target="_blank">Working paper available here.</a>
 
 - Buhler C. K., Benson H. Y. (2020). "Efficient solution of portfolio optimization problems via dimension reduction and sparsification''. Technical Report. Drexel University, Philadelphia PA, USA.  <a href="/files/SparsePortfolioOpt_v1.pdf" target="_blank">Working paper available here.</a>
 
