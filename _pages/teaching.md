@@ -9,10 +9,13 @@ redirect_from:
 
 My teaching statement can be accessed <a href="/files/BuhlerTeachingStatement.pdf" target="_blank"> here. </a>
 
+I am thrilled to be teaching BSAN 360: Programming for Data Analytics in the Winter 2021 quarter! 
+
 Classes I have instructed at Drexel University:
 - Ph.D. Programming Bootcamp
+	- 2-day programming workshop for incoming Business Ph.D. students.
 - MIS 200: Management Information Systems
-- Students can read my teaching evaluations from <a href="/files/MIS-200_Fall2019.pdf" target="_blank">Fall 2019</a>,  <a href="/files/MIS-200_Fall2020.pdf" target="_blank">Fall 2020</a>, and <a href="/files/MIS-200_Winter2021.pdf" target="_blank">Winter 2021</a>. 
+	- Students can read my teaching evaluations from <a href="/files/MIS-200_Fall2019.pdf" target="_blank">Fall 2019</a>,  <a href="/files/MIS-200_Fall2020.pdf" target="_blank">Fall 2020</a>, and <a href="/files/MIS-200_Winter2021.pdf" target="_blank">Winter 2021</a>. 
 
 Classes I was a TA for at Drexel University:
 - BSAN 360: Programming for Data Analytics
