@@ -13,6 +13,3 @@ I am a Ph.D. candidate in the [Decision Sciences & MIS Department](https://www.l
 
 
 I completed my B.S. in Mathematics at the [University of Utah](https://www.math.utah.edu/) where I worked on mathematical models for treating prostate cancer. My undergraduate research advisor is [Frederick R. Adler](https://faculty.utah.edu/u0028684-FREDERICK_R_ADLER/hm/index.hml) 
-
-To cope with the stress of grad school, I enjoy watching reality tv and ghostwriting posts for my geriatric dogs' Instagram account: [@picklestheolddog](https://www.instagram.com/picklestheolddog/). 
-
