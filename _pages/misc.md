@@ -19,7 +19,7 @@ This is a collection of projects I worked on during my undergraduate and graduat
 - Using a fish's fin flapping frequency, distance between fins, and lateral force, we used machine learning to predict a fish's phase difference and thrust. 
 -  <a href="/files/FishSwim-BuhlerKadapa.pdf" target="_blank">Report available here.</a>
 
-### Predicting Top 10 Songs on Billboard Hot 100 Chart
+### Forecasting Top 10 Songs on Billboard Hot 100 Chart
 - Class: DSCI 521 (Data Analysis and Interpretation)  @ Drexel 
 - I used the Spotify's API to collect the Billboard Hot 100 songs from 2010-2020. There are about 1100 songs with the corresponding audio features. More information on the data features can be found [here](https://developer.spotify.com/documentation/web-api/reference/#/operations/get-several-audio-features). Data can be provided upon request. 
 -  <a href="/files/BillboardHot100-Buhler.pdf" target="_blank">Presentation available here.</a>
