@@ -12,7 +12,7 @@ This is a collection of projects I worked on during my undergraduate and graduat
 
 ### Finding Waldo 
 - Class: OPR 922 (Operations Research Methods I) @ Drexel 
-- Inspired by [Randal Olsen's work](http://www.randalolson.com/2015/02/03/heres-waldo-computing-the-optimal-search-strategy-for-finding-waldo/), I apply K-means clustering, ant colony optimization, genetic algorithms, and nearest neighbors to look for an "optimal" search path to find Waldo. 
+- Inspired by [Randal Olsen's work](http://www.randalolson.com/2015/02/03/heres-waldo-computing-the-optimal-search-strategy-for-finding-waldo/), I apply k-means clustering, ant colony optimization, genetic algorithms, and nearest neighbors to look for "optimal" search paths to find Waldo. 
 -  <a href="/files/FindingWaldo-Buhler.pdf" target="_blank">Report available here.</a>
 
 ### Predicting How Fish Swim with Neural Networks
@@ -26,19 +26,19 @@ This is a collection of projects I worked on during my undergraduate and graduat
 -  <a href="/files/BillboardHot100-Buhler.pdf" target="_blank">Presentation available here.</a>
 
 ###  Am I the Asshole? 
-- Class: DSCI 511(Data Acquisition and Pre-Processing) @ Drexel 
-- The objective of this project was to create a dataset. I used Reddit’s API to collect responses from the [Am I The Asshole subreddit on Reddit](https://www.reddit.com/r/AmItheAsshole/). Data can be provided upon request. 
+- Class: DSCI 511 (Data Acquisition and Pre-Processing) @ Drexel 
+- The objective of this project was to create a dataset. I used Reddit’s API to collect responses from the [r/AmITheAsshole subreddit](https://www.reddit.com/r/AmItheAsshole/). Data can be provided upon request. 
 -  <a href="/files/AITA-Buhler.pdf" target="_blank">Presentation available here.</a>
 
 ### How Donald Trump Engages Twitter
 - Class: CS 5140 (Data Mining) @ University of Utah
-- We collected data from Donald Trump's tweets and studied the characteristics of the popular tweets. I am most proud of the photoshopped Twitter logo. 
+- We collected data from Donald Trump's Twitter account to study the type of tweets that get the most interactions. The photoshopped Twitter logo is one of my best works of art. (I am open to commissions!)
 -  <a href="/files/HowDonaldTrumpEngagesTwitter.pdf" target="_blank">Poster available here.</a>
 
 ### Divine Nature, Individual Worth, Virtue and its Harmful Effects on Young Women in the LDS Church
 - Class: GNDR 3960 (Mormonism and Gender) @ University of Utah 
-- Despite the abundance of grammatical and spelling errors, this essay is one of my favorites. 
-- *"The reason why the women are important is because of their future contributions to the Celestial Kingdom. It is not because of whom they are a person. It is not because of their love for themselves. It is because of what they have to “offer” to their Heavenly Father. According to the church, these young women are in debt to their religion. It’s not about what they can do for themselves; it’s not about them as a person at all. The LDS Church believes that these thoughts are selfish. The women of the LDS church’s lives are supposed to be about their husbands and their children and most importantly—their Heavenly Father."* 
--  <a href="/files/GenderMormonism-Buhler.pdf" target="_blank">Full essay available here.</a>
+- Despite the abundance of grammatical and formatting errors, this essay is one of my favorites. The paper itself isn't well written, but it's raw and genuine, and I like it. 
+- *"The reason why the women are important is because of their future contributions to the Celestial Kingdom. It is not because of whom they are as a person. It is not because of their love for themselves. It is because of what they have to “offer” to their Heavenly Father... The women of the LDS church’s lives are supposed to be about their husbands and their children and most importantly—their Heavenly Father."* 
+-  <a href="/files/GenderMormonism-Buhler.pdf" target="_blank">Essay available here.</a>
 
 ---
