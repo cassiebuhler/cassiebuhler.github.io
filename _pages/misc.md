@@ -6,8 +6,7 @@ author_profile: true
 redirect_from:
   - /misc
 ---
-## Passion(?) Projects 
-This is a collection of projects I worked on during my undergraduate and graduate classes. Although these projects are not at the same caliber as research papers, these projects provided a space for me to grow and develop as a researcher and deserve mentioning. 
+This is a collection of projects I worked on during my undergraduate and graduate classes. Although this work is not at the same caliber as research papers, these projects provided a space for me to grow and develop as a researcher and deserve mentioning. 
 
 ### Finding Waldo 
 - Class: OPR 922 (Operations Research Methods I) @ Drexel 
