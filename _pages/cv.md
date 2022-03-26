@@ -8,5 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
-<a href="/files/ckbuhler_cv.pdf" target="_blank">Click here to download my CV.</a>
-<embed src="/files/ckbuhler_cv.pdf" width="720px" height="1000px" />
+
+<object data= "/files/ckbuhler_cv.pdf" type="application/pdf" width="720px" height="1280px">
+    <embed  src="/files/ckbuhler_cv.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/files/ckbuhler_cv.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
