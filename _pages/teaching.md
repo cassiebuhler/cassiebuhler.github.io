@@ -13,11 +13,11 @@ Classes I have instructed at Drexel University:
 - BSAN 360: Programming for Data Analytics
 	- Teaching evaluations from <a href="/files/BSAN-360_Winter2022.pdf" target="_blank">Winter 2022</a>.
 - Ph.D. Programming Bootcamp
-	- 2-day programming workshop for incoming Business Ph.D. students.
+	- 2-day Python workshop for incoming Ph.D. students in the College of Business.
 - MIS 200: Management Information Systems
 	- Teaching evaluations from <a href="/files/MIS-200_Fall2019.pdf" target="_blank">Fall 2019</a>,  <a href="/files/MIS-200_Fall2020.pdf" target="_blank">Fall 2020</a>, and <a href="/files/MIS-200_Winter2021.pdf" target="_blank">Winter 2021</a>. 
 
-Classes I was a TA for at Drexel University:
+Classes I have been a TA for at Drexel University:
 - BSAN 360: Programming for Data Analytics
 - OPM 200: Operations Management
 - OPM 341: Supply Chain Management

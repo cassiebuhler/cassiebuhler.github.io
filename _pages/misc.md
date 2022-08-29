@@ -21,7 +21,7 @@ This is a collection of projects I worked on during my undergraduate and graduat
 -  <a href="/files/BillboardHot100-Buhler.pdf" target="_blank">Presentation available here.</a>
 
 ###  Am I the Asshole? 
-- The objective of this project was to create a dataset. I used Reddit’s API to collect responses from the [r/AmITheAsshole subreddit](https://www.reddit.com/r/AmItheAsshole/). Data can be provided upon request. 
+- The objective of this project was to create a dataset. I used Reddit’s API to collect responses from [r/AmITheAsshole](https://www.reddit.com/r/AmItheAsshole/). Data can be provided upon request. 
 -  <a href="/files/AITA-Buhler.pdf" target="_blank">Presentation available here.</a>
 
 ### How Donald Trump Engages Twitter
