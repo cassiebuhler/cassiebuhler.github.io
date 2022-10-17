@@ -21,6 +21,7 @@ Classes I have been a TA for at Drexel University:
 - BSAN 360: Programming for Data Analytics
 - OPM 200: Operations Management
 - OPM 341: Supply Chain Management
+- OPM 344: Revenue Management
 - OPR 320: Linear Models for Decision Making
 - STAT 201: Intro to Business Statistics
 - STAT 202: Business Statistics II
