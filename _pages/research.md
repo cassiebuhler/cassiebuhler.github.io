@@ -7,7 +7,6 @@ redirect_from:
   - /research
 ---
 ## Papers 
-- 
 
 - Buhler C. K., Benson H. Y. (2023). "Optimal land conservation decisions for multiple species." 
 Proceedings of the Northeast Decision Sciences Institute Conference, Washington D.C., March 2023. 
