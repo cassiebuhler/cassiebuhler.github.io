@@ -7,6 +7,12 @@ redirect_from:
   - /research
 ---
 ## Papers 
+- 
+
+- Buhler C. K., Benson H. Y. (2023). "Optimal land conservation decisions for multiple species." 
+Proceedings of the Northeast Decision Sciences Institute Conference, Washington D.C., March 2023. 
+<a href="/files/NEDSI_2023.pdf" target="_blank">Paper available here.</a>
+
 - Cassidy K. Buhler, Rebecca S. Terry, Kathryn G. Link, Frederick R. Adler. Do mechanisms matter? Comparing cancer treatment strategies across mathematical models and outcome objectives[J]. Mathematical Biosciences and Engineering, 2021, 18(5): 6305-6327. doi: 10.3934/mbe.2021315. [Available online.](https://www.aimspress.com/article/doi/10.3934/mbe.2021315)
 
 - Buhler C. K., Benson H. Y., Shanno D. F. (2021). "Regularized step directions in conjugate gradient minimization for machine learning''. Under first round of review at *INFORMS Journal on Optimization*. [Working paper available here](https://arxiv.org/abs/2110.06308)
