@@ -9,15 +9,20 @@ redirect_from:
 
 My teaching statement can be accessed <a href="/files/BuhlerTeachingStatement.pdf" target="_blank"> here. </a> 
 
-Classes I have instructed at Drexel University:
+### Instructor - Drexel University 
+Responsible for all lectures, course materials, and grading.
 - BSAN 360: Programming for Data Analytics
 	- Teaching evaluations from <a href="/files/BSAN-360_Winter2022.pdf" target="_blank">Winter 2022</a>.
 - Ph.D. Programming Bootcamp
 	- 2-day Python workshop for incoming Ph.D. students in the College of Business.
+
+### Recitation Instructor - Drexel University
+Responsible for delivering a weekly 2-hour lecture, preparing lecture material, and grading. Similar to a lab section, the recitation section is focused on learning technical skills in the computer lab.
 - MIS 200: Management Information Systems
 	- Teaching evaluations from <a href="/files/MIS-200_Fall2019.pdf" target="_blank">Fall 2019</a>,  <a href="/files/MIS-200_Fall2020.pdf" target="_blank">Fall 2020</a>, and <a href="/files/MIS-200_Winter2021.pdf" target="_blank">Winter 2021</a>. 
 
-Classes I have been a TA for at Drexel University:
+### Teaching Assistant - Drexel University
+Assists primary instructor with duties such as holding office hours, preparing assignments, and grading.
 - BSAN 360: Programming for Data Analytics
 - OPM 200: Operations Management
 - OPM 341: Supply Chain Management
@@ -29,7 +34,8 @@ Classes I have been a TA for at Drexel University:
 - STAT 206: Statistical Inference II
 - STAT 642: Data Mining for Business Analytics
 
-Classes I have tutored for at the University of Utah:
+### Tutor - University of Utah & Utah Prison Education Project (UPEP)
+Provided math and programming assistance at the T. Benny Rushing Mathematics Student Center.
 - MATH 1010: Intermediate Algebra
 - MATH 1050: College Algebra
 - MATH 1210: Calculus I 
@@ -38,5 +44,8 @@ Classes I have tutored for at the University of Utah:
 - MATH 2270: Linear Algebra
 - MATH 3070: Applied Statistics I
 - MATH 3080: Applied Statistics II
+- Languages: MATLAB, Python, and R
 
-I was also a tutor for the Utah Prison Education Project (UPEP). To learn more about UPEP,  please visit their [website.](https://prisoneducationproject.utah.edu/)
+Tutored students who are incarcerated in a Salt Lake Community College math course.
+- MATH 1030: Intro to Quantitative Reasoning 
+- To learn more about UPEP,  please visit their [website.](https://prisoneducationproject.utah.edu/)
