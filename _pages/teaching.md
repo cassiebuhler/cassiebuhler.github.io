@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 My teaching statement can be accessed <a href="/files/BuhlerTeachingStatement.pdf" target="_blank" rel="noopener noreferrer"> here. </a> 
+
 ---
 
 ## Instructor
@@ -39,7 +40,7 @@ Assists primary instructor with duties such as holding office hours, preparing a
 
 ---
 
-## Tutor
+## Other
 ### University of Utah
 Provided math and programming assistance at the T. Benny Rushing Mathematics Student Center.
 - MATH 1010: Intermediate Algebra
