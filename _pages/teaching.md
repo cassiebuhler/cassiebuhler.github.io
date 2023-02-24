@@ -8,23 +8,23 @@ redirect_from:
 ---
 
 My teaching statement can be accessed <a href="/files/BuhlerTeachingStatement.pdf" target="_blank" rel="noopener noreferrer"> here. </a> 
+---
 
 ## Instructor
-### Drexel University 
 Responsible for all lectures, course materials, and grading.
 - BSAN 360: Programming for Data Analytics
 	- Teaching evaluations from <a href="/files/BSAN-360_Winter2022.pdf" target="_blank" rel="noopener noreferrer">Winter 2022</a>.
 - Ph.D. Programming Bootcamp
 	- 2-day Python workshop for incoming Ph.D. students in the College of Business.
 
+
 ## Recitation Instructor
-### Drexel University
 Responsible for delivering a weekly 2-hour lecture, preparing lecture material, and grading. Similar to a lab section, the recitation section is focused on learning technical skills in the computer lab.
 - MIS 200: Management Information Systems
 	- Teaching evaluations from <a href="/files/MIS-200_Fall2019.pdf" target="_blank" rel="noopener noreferrer">Fall 2019</a>,  <a href="/files/MIS-200_Fall2020.pdf" target="_blank" rel="noopener noreferrer">Fall 2020</a>, and <a href="/files/MIS-200_Winter2021.pdf" target="_blank" rel="noopener noreferrer">Winter 2021</a>. 
 
+
 ## Teaching Assistant
-### Drexel University
 Assists primary instructor with duties such as holding office hours, preparing assignments, and grading.
 - BSAN 360: Programming for Data Analytics
 - OPM 200: Operations Management
@@ -37,8 +37,10 @@ Assists primary instructor with duties such as holding office hours, preparing a
 - STAT 206: Statistical Inference II
 - STAT 642: Data Mining for Business Analytics
 
+---
+
 ## Tutor
-### University of Utah 
+### University of Utah
 Provided math and programming assistance at the T. Benny Rushing Mathematics Student Center.
 - MATH 1010: Intermediate Algebra
 - MATH 1050: College Algebra

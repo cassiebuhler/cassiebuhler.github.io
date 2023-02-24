@@ -9,7 +9,7 @@ redirect_from:
 This is a collection of projects I worked on during my undergraduate and graduate classes. This work is not at the same caliber as my research, however, these projects provided a space for me to grow and develop as a researcher and deserve mentioning. 
 
 ### Finding Waldo 
-- Inspired by [Randal Olsen's work](http://www.randalolson.com/2015/02/03/heres-waldo-computing-the-optimal-search-strategy-for-finding-waldo/), I apply k-means clustering, ant colony optimization, genetic algorithms, and nearest neighbors to look for "optimal" search paths to find Waldo. 
+- Inspired by <a href="http://www.randalolson.com/2015/02/03/heres-waldo-computing-the-optimal-search-strategy-for-finding-waldo/" target="_blank" rel="noopener noreferrer">Randal Olsen's work</a>, I apply k-means clustering, ant colony optimization, genetic algorithms, and nearest neighbors to look for "optimal" search paths to find Waldo. 
 -  <a href="/files/FindingWaldo-Buhler.pdf" target="_blank" rel="noopener noreferrer">Report available here.</a>
 
 ### Predicting How Fish Swim with Neural Networks
