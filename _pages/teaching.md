@@ -27,6 +27,7 @@ Classes I have been a TA for at Drexel University:
 - STAT 202: Business Statistics II
 - STAT 205: Statistical Inference I
 - STAT 206: Statistical Inference II
+- STAT 642: Data Mining for Business Analytics
 
 Classes I have tutored for at the University of Utah:
 - MATH 1010: Intermediate Algebra
