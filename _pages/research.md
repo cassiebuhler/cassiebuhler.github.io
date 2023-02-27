@@ -24,7 +24,7 @@ Proceedings of the Northeast Decision Sciences Institute Conference, Washington 
 
 - Buhler C. K., Benson H. Y. (2020). "Efficient solution of portfolio optimization problems via dimension reduction and sparsification''. In preparation. Targeted to *Computational Optimization & Applications*   <a href="/files/SparsePortfolioOpt.pdf" target="_blank"  rel="noopener noreferrer">Working paper available here.</a>
 
-- Buhler C. K., Benson H. Y. (2023). "Black-box optimization for biodiversity reserve design''. In preparation. 
+- Buhler C. K., Benson H. Y. (2023). "Black-box optimization for reserve design in biodiversity conservation''. In preparation. 
 
 - Buhler C. K., Benson H. Y. (2023). "Regularized nonlinear conjugate gradient methods for machine learning''. In preparation. 
 
