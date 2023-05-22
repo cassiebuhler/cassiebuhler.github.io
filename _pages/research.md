@@ -22,7 +22,7 @@ Proceedings of the Northeast Decision Sciences Institute Conference, Washington 
 
 - Buhler C. K., Benson H. Y., Shanno D. F. (2021). "Regularized step directions in nonlinear conjugate gradient methods''. Under first round of review at *Mathematical Programming Computation*. <a href="https://arxiv.org/abs/2110.06308" target="_blank" rel="noopener noreferrer">Working paper available here.</a>
 
-- Buhler C. K., Benson H. Y. (2020). "Efficient solution of portfolio optimization problems via dimension reduction and sparsification''. In preparation. Targeted to *Computational Optimization & Applications*   <a href="/files/SparsePortfolioOpt.pdf" target="_blank"  rel="noopener noreferrer">Working paper available here.</a>
+- Buhler C. K., Benson H. Y. (2020). "Efficient solution of portfolio optimization problems via dimension reduction and sparsification''. In preparation. Targeted to *Computational Optimization & Applications*. <a href="/files/SparsePortfolioOpt.pdf" target="_blank"  rel="noopener noreferrer">Working paper available here.</a>
 
 - Buhler C. K., Benson H. Y. (2023). "Black-box optimization for reserve design in biodiversity conservation''. In preparation. 
 
