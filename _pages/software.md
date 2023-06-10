@@ -6,7 +6,8 @@ author_profile: true
 redirect_from:
   - /software
 ---
-## Conmin-CG
+
+## Conmin-CG *(Hybrid Cubic Regularization of Conjugate Gradient Minimization Method)*
 
 Conmin-CG is available for open source download on Github. <a href="https://github.com/cassiebuhler/ConminCG" target="_blank" rel="noopener noreferrer">Linked here</a>.
 
