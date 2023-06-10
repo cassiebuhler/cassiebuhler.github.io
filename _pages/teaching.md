@@ -7,46 +7,58 @@ redirect_from:
   - /teaching
 ---
 
-Higher education should be accessible and inclusive. The belief that some people are "gifted" is a toxic and elitist mindset that inhibits education as a whole. 
+I have taught and assisted dozens of courses in the LeBow College of Business at Drexel University. My students come from a wide array of majors, each with unique backgrounds and experiences. 
 
-I have taught and assisted dozens of courses at the LeBow College of Business. My students come from a wide array of majors, each with unique backgrounds and experiences. I aim to demystify STEM topics (e.g. coding) by providing a safe environment to make mistakes and ask questions. My goal is not to make every student a data scientist. My goal is to provide students with more tools in their toolbox as they continue on in their careers. 
+I aim to demystify STEM topics (e.g. coding) by providing a safe environment to make mistakes and ask questions. My goal isn't to push students to become statisticians or data scientists. My goal is to provide students with more tools in their toolbox as they pursue their chosen careers. 
+
 
 My full teaching statement can be read <a href="/files/BuhlerTeachingStatement.pdf" target="_blank" rel="noopener noreferrer"> here. </a> 
 
 ---
 
 ## Instructor
-Responsible for all lectures, course materials, and grading.
-- BSAN 360: Programming for Data Analytics
+*Responsible for all lectures, course materials, and grading.*
+- **BSAN 360: Programming for Data Analytics**
 	- Teaching evaluations from <a href="/files/BSAN-360_Winter2022.pdf" target="_blank" rel="noopener noreferrer">Winter 2022</a>.
-- Ph.D. Programming Bootcamp
-	- 2-day Python workshop for incoming Ph.D. students in the College of Business.
+	- Language: R
 
 
-## Recitation Instructor
-Responsible for delivering a weekly 2-hour lecture, preparing lecture material, and grading. Similar to a lab section, the recitation section is focused on learning technical skills in the computer lab.
-- MIS 200: Management Information Systems
+- **Ph.D. Programming Bootcamp**
+	- Workshop for incoming Ph.D. students during Summer 2021 and Summer 2022
+	- Language: Python 
+
+- **MIS 200: Management Information Systems (Recitation Section)**
+
 	- Teaching evaluations from <a href="/files/MIS-200_Fall2019.pdf" target="_blank" rel="noopener noreferrer">Fall 2019</a>,  <a href="/files/MIS-200_Fall2020.pdf" target="_blank" rel="noopener noreferrer">Fall 2020</a>, and <a href="/files/MIS-200_Winter2021.pdf" target="_blank" rel="noopener noreferrer">Winter 2021</a>. 
-
+	-  Tools: Excel, Microsoft Access, and HTML
+	
+---
 
 ## Teaching Assistant
 Assists primary instructor with duties such as holding office hours, preparing assignments, and grading.
-- BSAN 360: Programming for Data Analytics
-- OPM 200: Operations Management
-- OPM 341: Supply Chain Management
-- OPM 344: Revenue Management
-- OPR 320: Linear Models for Decision Making
-- STAT 201: Intro to Business Statistics
-- STAT 202: Business Statistics II
-- STAT 205: Statistical Inference I
-- STAT 206: Statistical Inference II
-- STAT 642: Data Mining for Business Analytics
+| Course                                       | Quarter                                   |
+|----------------------------------------------|-------------------------------------------|
+| BSAN 360: Programming for Data Analytics     | Sp2021                                    |
+| OPM 200: Operations Management               | Sp2020, Fa2021, Sp2023                    |
+| OPM 341: Supply Chain Management             | Sp2021, Sp2022, Fa2022                    |
+| OPM 344: Revenue Management                  | Fa2022                                    |
+| OPR 320: Linear Models for Decision Making   | Su2020, Sp2021                            |
+| STAT 201: Intro to Business Statistics       | Wi2020, Sp2020, Fa2021,<br>Su2022, Sp2023 |
+| STAT 202: Business Statistics II             | Su2021, Sp2023                            |
+| STAT 205: Statistical Inference I            | Sp2020, Fa2021                            |
+| STAT 206: Statistical Inference II           | Su2021                                    |
+| STAT 642: Data Mining for Business Analytics | Wi2023                                    |
+  
+*Fall (Fa), Winter (Wi), Spring (Sp), Summer (Su)* <td colspan=1>
 
 ---
+
 
 ## Other
 ### University of Utah
 Provided math and programming assistance at the T. Benny Rushing Mathematics Student Center.
+
+- Languages: MATLAB, Python, and R
 - MATH 1010: Intermediate Algebra
 - MATH 1050: College Algebra
 - MATH 1210: Calculus I 
@@ -55,7 +67,6 @@ Provided math and programming assistance at the T. Benny Rushing Mathematics Stu
 - MATH 2270: Linear Algebra
 - MATH 3070: Applied Statistics I
 - MATH 3080: Applied Statistics II
-- Languages: MATLAB, Python, and R
 
 ### Utah Prison Education Project (UPEP)
 Tutored students who are incarcerated in a Salt Lake Community College math course.
