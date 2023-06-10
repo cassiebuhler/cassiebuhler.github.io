@@ -7,7 +7,11 @@ redirect_from:
   - /teaching
 ---
 
-My teaching statement can be accessed <a href="/files/BuhlerTeachingStatement.pdf" target="_blank" rel="noopener noreferrer"> here. </a> 
+Higher education should be accessible and inclusive. The belief that some people are "gifted" is a toxic and elitist mindset that inhibits education as a whole. 
+
+I have taught and assisted dozens of courses at the LeBow College of Business. My students come from a wide array of majors, each with unique backgrounds and experiences. I aim to demystify STEM topics (e.g. coding) by providing a safe environment to make mistakes and ask questions. My goal is not to make every student a data scientist. My goal is to provide students with more tools in their toolbox as they continue on in their careers. 
+
+My full teaching statement can be read <a href="/files/BuhlerTeachingStatement.pdf" target="_blank" rel="noopener noreferrer"> here. </a> 
 
 ---
 
