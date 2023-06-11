@@ -46,7 +46,7 @@ To appear in 2023 Northeast Decision Science Institute Conference Proceedings.
 -  <a href="/files/FindingWaldo-Buhler.pdf" target="_blank" rel="noopener noreferrer">Report available here.</a>
 
 **Forecasting Top 10 Songs on Billboard Hot 100 Chart**
-- I used Spotify's API to collect the Billboard Hot 100 songs from 2010-2020. There are about 1100 songs with the corresponding audio features. Given these audio features, I use machine learning to predict which songs will be in the top 10. The features are collected using the Spotify API. 
+- I used APIs for Spotify and Billboard to collect audio features for the Billboard Hot 100 songs from 2010-2020. Given these audio features, I utilized shallow neural networks and feature selection to predict which songs will be in the top 10.
 - <a href="https://github.com/cassiebuhler/ForecastingBillboardHot100" target="_blank" rel="noopener noreferrer">Code and data are published on Github.</a>
 
 **Predicting How Fish Swim with Neural Networks**
