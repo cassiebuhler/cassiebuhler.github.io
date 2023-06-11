@@ -38,58 +38,21 @@ My full teaching statement can be read <a href="/files/BuhlerTeachingStatement.p
 Assists primary instructor with duties such as holding office hours, preparing assignments, and grading.
 
 
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0pky">Course</th>
-    <th class="tg-0pky">Quarter</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0pky">BSAN 360: Programming for Data Analytics</td>
-    <td class="tg-0pky">Sp2021</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">OPM 200: Operations Management</td>
-    <td class="tg-0pky">Sp2020, Fa2021, Sp2023</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">OPM 341: Supply Chain Management</td>
-    <td class="tg-0pky">Sp2021, Sp2022, Fa2022</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">OPM 344: Revenue Management</td>
-    <td class="tg-0pky">Fa2022</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">OPR 320: Linear Models for Decision Making</td>
-    <td class="tg-0pky">Su2020, Sp2021</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">STAT 201: Intro to Business Statistics</td>
-    <td class="tg-0pky">Wi2020, Sp2020, Fa2021, Su2022, Sp2023</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">STAT 202: Business Statistics II</td>
-    <td class="tg-0pky">Su2021, Sp2023</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">STAT 205: Statistical Inference I</td>
-    <td class="tg-0pky">Sp2020, Fa2021</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">STAT 206: Statistical Inference II</td>
-    <td class="tg-0pky">Su2021</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">STAT 642: Data Mining for Business Analytics</td>
-    <td class="tg-0pky">Wi2023</td>
-  </tr>
-</tbody>
-</table>
-  
+| Course | Quarter |
+| --- | --- |
+| BSAN 360: Programming for Data Analytics | Sp2021 |
+| OPM 200: Operations Management | Sp2020, Fa2021, Sp2023 |
+| OPM 341: Supply Chain Management | Sp2021, Sp2022, Fa2022 |
+| OPM 344: Revenue Management | Fa2022 |
+| OPR 320: Linear Models for Decision Making | Su2020, Sp2021 |
+| OPM 344: STAT 201: Intro to Business Statistics | Wi2020, Sp2020, Fa2021, Su2022, Sp2023 |
+| STAT 202: Business Statistics II | Su2021, Sp2023 |
+| STAT 205: Statistical Inference I | Sp2020, Fa2021 |
+| STAT 202: STAT 206: Statistical Inference II | Su2021 |
+| STAT 642: Data Mining for Business Analytics | Wi2023 |
+
 *Fall (Fa), Winter (Wi), Spring (Sp), Summer (Su)*
+
 
 ---
 
