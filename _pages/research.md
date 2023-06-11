@@ -49,6 +49,11 @@ To appear in 2023 Northeast Decision Science Institute Conference Proceedings.
 - I used Spotify's API to collect the Billboard Hot 100 songs from 2010-2020. There are about 1100 songs with the corresponding audio features. Using these audio features, I try to predict which songs will be in the top 10. The features are collected using Spotify API. 
 - <a href="https://github.com/cassiebuhler/ForecastingBillboardHot100" target="_blank" rel="noopener noreferrer">Code and data are published on Github.</a>
 
+####  Am I the Asshole? 
+- The objective of this project was to create a dataset. I used Reddit’s API to collect responses from [r/AmITheAsshole](https://www.reddit.com/r/AmItheAsshole/). 
+- <a href="https://github.com/cassiebuhler/AmITheAsshole-DataCollection" target="_blank" rel="noopener noreferrer">Code and data are published on Github.</a>
+
+
 #### How Donald Trump Engages Twitter
 - We collected data from Donald Trump's Twitter account to study the type of tweets that get the most interactions. I am most proud of the photoshopped Twitter logo, as it is clear evidence of underutilized artistic prowess. 
 -  <a href="/files/HowDonaldTrumpEngagesTwitter.pdf" target="_blank" rel="noopener noreferrer">Poster available here.</a>
