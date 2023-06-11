@@ -37,7 +37,7 @@ To appear in 2023 Northeast Decision Science Institute Conference Proceedings.
 
 ---
 
-### Miscellaneous - Cool Projects 
+## Miscellaneous - Cool Projects 
 *Here are some fun projects I did in my undergraduate and graduate classes.*
 
 
