@@ -36,7 +36,7 @@ My full teaching statement can be read <a href="/files/BuhlerTeachingStatement.p
 Assists primary instructor with duties such as holding office hours, preparing assignments, and grading.
 
 
-|   <div style="width:288px">Course</div> |  <div style="width:250px">Quarter</div>  |
+| Course | Quarter |
 | --- | --- |
 | BSAN 360: Programming for Data Analytics | Sp2021 |
 | OPM 200: Operations Management | Sp2020, Fa2021, Sp2023 |
