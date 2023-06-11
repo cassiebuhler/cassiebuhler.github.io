@@ -35,10 +35,11 @@ My full teaching statement can be read <a href="/files/BuhlerTeachingStatement.p
 ## Teaching Assistant
 Assists primary instructor with duties such as holding office hours, preparing assignments, and grading.
 
+
 <table>
     <tr>
-	<td><div style='width: 150px;'>Course</div></td>
-        <td><div style='width: 150px;'>Quarter</div></td>
+        <td>Course  <br>________________________________________</td>
+        <td>Quarter  <br>______________________________________</td>
     </tr>
     <tr>
         <td>BSAN 360: Programming for Data Analytics</td>
@@ -84,9 +85,7 @@ Assists primary instructor with duties such as holding office hours, preparing a
 
 *Fall (Fa), Winter (Wi), Spring (Sp), Summer (Su)*
 
-
 ---
-
 
 ## Other
 ### University of Utah
