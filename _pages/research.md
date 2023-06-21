@@ -16,20 +16,20 @@ redirect_from:
 ### Refereed Conference Proceedings
 
 - Buhler C. K., Benson H. Y. "Optimal land conservation decisions for multiple species". 
-To appear in 2023 Northeast Decision Science Institute Conference Proceedings.
-<a href="/files/NEDSI_2023.pdf" target="_blank" rel="noopener noreferrer">Link.</a>
+To appear in 2023 Northeast Decision Science Institute Conference Proceedings. Link to 
+<a href="/files/NEDSI_2023.pdf" target="_blank" rel="noopener noreferrer">paper.</a>
 
 ### Under Review
 
-- C. K. Buhler, H. Y. Benson, and D. F. Shanno, "Regularized step directions in nonlinear conjugate gradient methods,'' 2021, Under first round of review at *Mathematical Programming Computation*. <a href="https://arxiv.org/abs/2110.06308" target="_blank" rel="noopener noreferrer">Link.</a>
+- C. K. Buhler, H. Y. Benson, and D. F. Shanno, "Regularized step directions in nonlinear conjugate gradient methods,'' 2021, Under first round of review at *Mathematical Programming Computation*. Link to <a href="https://arxiv.org/abs/2110.06308" target="_blank" rel="noopener noreferrer">paper</a> and <a href="https://github.com/cassiebuhler/ConminCG" target="_blank" rel="noopener noreferrer">code</a>.
 
 ### In Progress
 
-- C. K. Buhler and H. Y. Benson, "Efficient solution of portfolio optimization problems via dimension reduction and sparsification'' 2020, Targeted to *Computational Optimization & Applications*. <a href="/files/SparsePortfolioOpt.pdf" target="_blank"  rel="noopener noreferrer">Link.</a>
+- C. K. Buhler and H. Y. Benson, "Efficient solution of portfolio optimization problems via dimension reduction and sparsification'' 2020. Link to <a href="/files/SparsePortfolioOpt.pdf" target="_blank"  rel="noopener noreferrer">paper</a> and <a href="https://github.com/cassiebuhler/PODS" target="_blank"  rel="noopener noreferrer">code</a>.
 
 - C. K. Buhler and H. Y. Benson, "Black-box optimization for reserve design in biodiversity conservation," 2023.
 
-- C. K. Buhler and H. Y. Benson, "Regularized nonlinear conjugate gradient methods for machine learning," 2023.
+- C. K. Buhler and H. Y. Benson, "Regularized nonlinear conjugate gradient methods for machine learning," 2023. Link to <a href="https://github.com/cassiebuhler/ConminCG" target="_blank" rel="noopener noreferrer">code</a>.
 
 ### Non Refereed Journal Articles
 
