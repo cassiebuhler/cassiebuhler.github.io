@@ -25,7 +25,7 @@ To appear in 2023 Northeast Decision Science Institute Conference Proceedings. L
 
 ### In Progress
 
-- C. K. Buhler and H. Y. Benson, "Efficient solution of portfolio optimization problems via dimension reduction and sparsification'' 2020. Link to <a href="/files/SparsePortfolioOpt.pdf" target="_blank"  rel="noopener noreferrer">paper</a> and <a href="https://github.com/cassiebuhler/PODS" target="_blank"  rel="noopener noreferrer">code</a>.
+- C. K. Buhler and H. Y. Benson, "Efficient solution of portfolio optimization problems via dimension reduction and sparsification'' 2020. Link to <a href="/files/PODS.pdf" target="_blank"  rel="noopener noreferrer">paper</a> and <a href="https://github.com/cassiebuhler/PODS" target="_blank"  rel="noopener noreferrer">code</a>.
 
 - C. K. Buhler and H. Y. Benson, "Black-box optimization for reserve design in biodiversity conservation," 2023.
 
