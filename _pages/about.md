@@ -8,11 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-My full name is Cassidy but please call me Cassie. My pronouns are she/her. 
 
 I am a Ph.D. candidate in the Decision Sciences & MIS Department at Drexel University.
-
-## Research Interests  
 
 I'm interested in how optimization models can be applied to environmental problems, specifically for conservation and natural resource management decisions. The <a href="https://conservationcorridor.org/what-is-30x30/" target="_blank" rel="noopener noreferrer">30x30</a> initative&mdash;preserving 30% of the earth's land and sea by 2030&mdash;is a particular interest of mine and I'd love to explore the situations where optimization and machine learning could responsibly support this goal. 
 
