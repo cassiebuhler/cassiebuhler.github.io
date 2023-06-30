@@ -10,7 +10,7 @@ redirect_from:
 
 My full name is Cassidy but please call me Cassie. My pronouns are she/her. 
 
-I am a Ph.D. candidate in the <a href="https://www.lebow.drexel.edu/faculty-and-research/disciplines/decision-sciences-and-mis" target="_blank" rel="noopener noreferrer"> Decision Sciences & MIS Department</a> at Drexel University advised by <a href="https://www.lebow.drexel.edu/people/handebenson" target="_blank" rel="noopener noreferrer"> Hande Benson</a>.
+I am a Ph.D. candidate in the Decision Sciences & MIS Department at Drexel University.
 
 ## Research Interests  
 
@@ -20,8 +20,8 @@ I'm interested in how optimization models can be applied to environmental proble
 
 ## Background 
 
-My background is in operations research, where I focus on continuous and mixed-integer programming, particularly in solving large-scale optimization problems with applications in machine learning and computational sustainability. The bulk of my dissertation work was developing a quasi-Newton algorithm to solve large-scale nonlinear optimization problems more efficiently. This algorithm is applicable to problems that require a fast solution when optimizing over big&mdash;and often messy&mdash;datasets (e.g. training neural networks).
+My background is in operations research, where I focus on continuous and mixed-integer programming, particularly in solving large-scale optimization problems with applications in machine learning and computational sustainability.  I am advised by <a href="https://www.lebow.drexel.edu/people/handebenson" target="_blank" rel="noopener noreferrer"> Hande Benson</a>. The bulk of my dissertation work was developing a quasi-Newton algorithm to solve large-scale nonlinear optimization problems more efficiently. This algorithm is applicable to problems that require a fast solution when optimizing over big&mdash;and often messy&mdash;datasets (e.g. training neural networks).
 
-In addition to my Ph.D. studies, I will earn a graduate minor in Computational Data Science and am a member of the <a href="http://theory.cs.drexel.edu/index.html" target="_blank" rel="noopener noreferrer"> Drexel CS Theory Reading Group</a>, led by <a href="https://www.cs.drexel.edu/~gkatz/" target="_blank" rel="noopener noreferrer">Vasilis Gkatzelis</a>.  Prior to this, I did math biology research as an undergraduate with <a href="https://faculty.utah.edu/u0028684-FREDERICK_R_ADLER/hm/index.hml" target="_blank" rel="noopener noreferrer">Fred Adler</a> at the University of Utah and worked on math models for treating prostate cancer. 
+In addition to my Ph.D. studies, I will earn a graduate minor in Computational Data Science and am a member of the <a href="http://theory.cs.drexel.edu/index.html" target="_blank" rel="noopener noreferrer"> Drexel CS Theory Reading Group</a>.  Prior to this, I did math biology research as an undergraduate with <a href="https://faculty.utah.edu/u0028684-FREDERICK_R_ADLER/hm/index.hml" target="_blank" rel="noopener noreferrer">Fred Adler</a> at the University of Utah and worked on math models for treating prostate cancer. 
 
 
