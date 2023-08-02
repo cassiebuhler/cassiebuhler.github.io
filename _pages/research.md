@@ -16,20 +16,21 @@ redirect_from:
 ### Refereed Conference Proceedings
 
 - Buhler C. K., Benson H. Y. "Optimal land conservation decisions for multiple species". 
-To appear in 2023 Northeast Decision Science Institute Conference Proceedings. Link to 
- <a href="https://arxiv.org/pdf/2307.11863.pdf" target="_blank"  rel="noopener noreferrer">paper</a>.
+To appear in 2023 Northeast Decision Science Institute Conference Proceedings. 
+ <a href="https://arxiv.org/pdf/2307.11863.pdf" target="_blank"  rel="noopener noreferrer">arXiv preprint arXiv:2307.11863</a>.
 
 ### Under Review
 
-- C. K. Buhler, H. Y. Benson, and D. F. Shanno, "Regularized step directions in nonlinear conjugate gradient methods,'' 2021, Under first round of review at *Mathematical Programming Computation*. Link to <a href="https://arxiv.org/abs/2110.06308" target="_blank" rel="noopener noreferrer">paper</a> and <a href="https://github.com/cassiebuhler/ConminCG" target="_blank" rel="noopener noreferrer">code</a>.
+- C. K. Buhler, H. Y. Benson, and D. F. Shanno, "Regularized step directions in nonlinear conjugate gradient methods,'' 2021, Under first round of review at *Mathematical Programming Computation*. <a href="https://arxiv.org/abs/2110.06308" target="_blank" rel="noopener noreferrer">*arXiv preprint arXiv:2110.06308*</a>. Link to <a href="https://github.com/cassiebuhler/ConminCG" target="_blank" rel="noopener noreferrer">code</a>.
 
-- C. K. Buhler and H. Y. Benson, "Efficient solution of portfolio optimization problems via dimension reduction and sparsification'' Submitted to *The International Journal of Data Science and Analytics*. Link to <a href="https://arxiv.org/abs/2306.12639" target="_blank"  rel="noopener noreferrer">paper</a> and <a href="https://github.com/cassiebuhler/PODS" target="_blank"  rel="noopener noreferrer">code</a>.
 
 ### In Progress
 
 - C. K. Buhler and H. Y. Benson, "Black-box optimization for reserve design in biodiversity conservation," 2023.
 
 - C. K. Buhler and H. Y. Benson, "Regularized nonlinear conjugate gradient methods for machine learning," 2023. Link to <a href="https://github.com/cassiebuhler/ConminCG" target="_blank" rel="noopener noreferrer">code</a>.
+
+- C. K. Buhler and H. Y. Benson, "Efficient solution of portfolio optimization problems via dimension reduction and sparsification''.  <a href="https://arxiv.org/abs/2306.12639" target="_blank"  rel="noopener noreferrer">*arXiv preprint arXiv:2306.12639*</a>. Link to <a href="https://github.com/cassiebuhler/PODS" target="_blank"  rel="noopener noreferrer">code</a>.
 
 ### Non Refereed Journal Articles
 
