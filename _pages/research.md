@@ -26,7 +26,7 @@ To appear in 2023 Northeast Decision Science Institute Conference Proceedings.
 
 ### In Progress
 
-- C. K. Buhler and H. Y. Benson, "Black-box optimization for reserve design in biodiversity conservation," 2023.
+- C. K. Buhler and H. Y. Benson, "Decision-making for land conservation: A derivative-free optimization framework with nonlinear inputs," 2023. Link to <a href="https://github.com/cassiebuhler/BBLand" target="_blank"  rel="noopener noreferrer">code</a>.
 
 - C. K. Buhler and H. Y. Benson, "Regularized nonlinear conjugate gradient methods for machine learning," 2023. Link to <a href="https://github.com/cassiebuhler/ConminCG" target="_blank" rel="noopener noreferrer">code</a>.
 
