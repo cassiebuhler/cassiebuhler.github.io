@@ -7,11 +7,18 @@ redirect_from:
   - /software
 ---
 
-## Conmin-CG *(Hybrid Cubic Regularization of Conjugate Gradient Minimization Method)*
+## BBLand: Decision-Making for Land Conservation: A Derivative-Free Optimization Framework
 
-Conmin-CG is available for open source download on Github. <a href="https://github.com/cassiebuhler/ConminCG" target="_blank" rel="noopener noreferrer">Linked here</a>.
+*A mathematical programming tool for conservationists that allows for linear and nonlinear inputs, continuous and discrete variables, and can be paired with existing ecological software.*
+- <a href="https://github.com/cassiebuhler/BBLand" target="_blank" rel="noopener noreferrer"> Download on GitHub </a>
 
-This software was used in the papers <a href="https://arxiv.org/abs/2110.06308" target="_blank" rel="noopener noreferrer">Regularized Step Directions in Nonlinear Conjugate Gradient Methods</a> and Regularized Nonlinear Conjugate Gradient Methods for Machine Learning. We have implemented Conmin-CG in C, MATLAB, and Python. 
+
+## Conmin-CG: Hybrid Cubic Regularization of Conjugate Gradient Minimization Method
+
+*An optimization algorithm with memoryless and matrix-free properties that solves large-scale problems more efficiently by improving step quality with cubic regularization.*
+- Implemented Conmin-CG in C, MATLAB, and Python.
+- This software was used in the papers <a href="https://arxiv.org/abs/2110.06308" target="_blank" rel="noopener noreferrer">Regularized Step Directions in Nonlinear Conjugate Gradient Methods</a> and Regularized Nonlinear Conjugate Gradient Methods for Machine Learning. 
+- <a href="https://github.com/cassiebuhler/ConminCG" target="_blank" rel="noopener noreferrer">Download on GitHub</a>
 
 
 
