@@ -21,30 +21,28 @@ To appear in 2023 Northeast Decision Science Institute Conference Proceedings.
 
 ### Under Review
 
-C. K. Buhler, H. Y. Benson, and D. F. Shanno, "Regularized step directions in nonlinear conjugate gradient methods,'' 2021, Under first round of review at *Mathematical Programming Computation*. <a href="https://arxiv.org/abs/2110.06308" target="_blank" rel="noopener noreferrer">*arXiv preprint arXiv:2110.06308*</a>. 
-- <a href="https://github.com/cassiebuhler/ConminCG" target="_blank" rel="noopener noreferrer">Code available on GitHub</a>
+C. K. Buhler, H. Y. Benson, and D. F. Shanno, "Regularized step directions in nonlinear conjugate gradient methods,'' 2021, Under first round of review at *Mathematical Programming Computation*. <a href="https://arxiv.org/abs/2110.06308" target="_blank" rel="noopener noreferrer">*arXiv preprint arXiv:2110.06308*</a>. <a href="https://github.com/cassiebuhler/ConminCG" target="_blank" rel="noopener noreferrer">Code available on GitHub</a>
 
 
 ### In Progress
 
-C. K. Buhler and H. Y. Benson, "Decision-making for land conservation: A derivative-free optimization framework with nonlinear inputs," 2023.
-  - <a href="https://github.com/cassiebuhler/BBLand" target="_blank"  rel="noopener noreferrer">Code available on GitHub</a>.
+C. K. Buhler and H. Y. Benson, "Decision-making for land conservation: A derivative-free optimization framework with nonlinear inputs," 2023. <a href="https://github.com/cassiebuhler/BBLand" target="_blank"  rel="noopener noreferrer">Code available on GitHub</a>.
 
-C. K. Buhler and H. Y. Benson, "Regularized nonlinear conjugate gradient methods for machine learning," 2023.
-  - <a href="https://github.com/cassiebuhler/ConminCG" target="_blank" rel="noopener noreferrer">Code available on GitHub</a>
+C. K. Buhler and H. Y. Benson, "Regularized nonlinear conjugate gradient methods for machine learning," 2023. <a href="https://github.com/cassiebuhler/ConminCG" target="_blank" rel="noopener noreferrer">Code available on GitHub</a>
 
-C. K. Buhler and H. Y. Benson, "Efficient solution of portfolio optimization problems via dimension reduction and sparsification''.  <a href="https://arxiv.org/abs/2306.12639" target="_blank"  rel="noopener noreferrer">*arXiv preprint arXiv:2306.12639*</a>.
-  - <a href="https://github.com/cassiebuhler/PODS" target="_blank"  rel="noopener noreferrer"> Code available on GitHub</a>
+C. K. Buhler and H. Y. Benson, "Efficient solution of portfolio optimization problems via dimension reduction and sparsification''.  <a href="https://arxiv.org/abs/2306.12639" target="_blank"  rel="noopener noreferrer">*arXiv preprint arXiv:2306.12639*</a>. <a href="https://github.com/cassiebuhler/PODS" target="_blank"  rel="noopener noreferrer"> Code available on GitHub</a>
+
+
+---
+
+## Other
 
 ### REU Research Project
 C. K. Buhler, R. S. Terry, K. G. Link, F. R. Adler, "Mathematical modeling of adaptive therapy in prostate cancer," *Undergraduate Research Journal*, 2019. <a href="https://our.utah.edu/undergraduate-research-journal/undergraduate-research-journal-2019/" target="_blank" rel="noopener noreferrer">Available online.</a>
 - Using the Lotka-Volterra model, we studied how the timing and duration of hormone therapy impact the cancer cell burden when treating prostate cancer. 
 - This project was the foundation of later work which delved deeper into cancer cell responses to treatment with various mathematical models.
 
----
-
-## Other Projects
-
+### Class Projects
 
 **Finding Waldo** 
 - Inspired by <a href="http://www.randalolson.com/2015/02/03/heres-waldo-computing-the-optimal-search-strategy-for-finding-waldo/" target="_blank" rel="noopener noreferrer">Randal Olsen's work</a>, I apply k-means clustering, ant colony optimization, genetic algorithms, and nearest neighbors to look for "optimal" search paths to find Waldo. 
