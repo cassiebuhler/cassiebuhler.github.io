@@ -62,7 +62,7 @@ Tutored students who are incarcerated in a Salt Lake Community College math cour
 - To learn more about UPEP,  please visit their <a href="https://prisoneducationproject.utah.edu/" target="_blank" rel="noopener noreferrer">website.</a>
 
 
-### Math \& Computer Lab Assistant  
+### Math & Computer Lab Assistant  
 Provided math and programming assistance at the University of Utah Math Center 
 
 - Languages: MATLAB, Python, and R 
