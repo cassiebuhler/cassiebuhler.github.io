@@ -10,27 +10,27 @@ redirect_from:
 
 ### Journal Articles
 
-Cassidy K. Buhler, Rebecca S. Terry, Kathryn G. Link, Frederick R. Adler. Do mechanisms matter? Comparing cancer treatment strategies across mathematical models and outcome objectives[J]. Mathematical Biosciences and Engineering, 2021, 18(5): 6305-6327. doi: 10.3934/mbe.2021315
-<a href="https://www.aimspress.com/article/doi/10.3934/mbe.2021315" target="_blank" rel="noopener noreferrer">Available online.</a>
+Cassidy K. Buhler, Rebecca S. Terry, Kathryn G. Link, Frederick R. Adler. Do mechanisms matter? Comparing cancer treatment strategies across mathematical models and outcome objectives[J]. Mathematical Biosciences and Engineering, 2021, 18(5): 6305-6327. doi: 
+<a href="https://www.aimspress.com/article/doi/10.3934/mbe.2021315" target="_blank" rel="noopener noreferrer">10.3934/mbe.2021315</a>
 
 ### Conference Proceedings
 
-Buhler C. K., Benson H. Y. "Optimal land conservation decisions for multiple species".  <a href="https://arxiv.org/pdf/2307.11863.pdf" target="_blank"  rel="noopener noreferrer">arXiv preprint arXiv:2307.11863</a>. To appear in 2023 Northeast Decision Science Institute Conference Proceedings. 
+Buhler C. K., Benson H. Y. "Optimal land conservation decisions for multiple species." To appear in Northeast Decision Science Institute Conference Proceedings, Washington, D.C., March 2023. doi: <a href="https://arxiv.org/pdf/2307.11863.pdf" target="_blank"  rel="noopener noreferrer"> 10.48550/arXiv.2307.11863</a>
 
 
 ### Under Review
-C. K. Buhler and H. Y. Benson, "Decision-making for land conservation: A derivative-free optimization framework with nonlinear inputs," <a href="https://arxiv.org/abs/2308.11549" target="_blank" rel="noopener noreferrer">*arXiv preprint arXiv:2308.11549*</a>. 2023. <a href="https://github.com/cassiebuhler/BBLand" target="_blank"  rel="noopener noreferrer">Code available on GitHub.</a>
+C. K. Buhler and H. Y. Benson, "Decision-making for land conservation: A derivative-free optimization framework with nonlinear inputs." <a href="https://arxiv.org/abs/2308.11549" target="_blank" rel="noopener noreferrer">*arXiv preprint arXiv:2308.11549* </a> (2023).  <a href="https://github.com/cassiebuhler/BBLand" target="_blank"  rel="noopener noreferrer">Code available on GitHub.</a>
 
-C. K. Buhler, H. Y. Benson, and D. F. Shanno, "Regularized step directions in nonlinear conjugate gradient methods,''  <a href="https://arxiv.org/abs/2110.06308" target="_blank" rel="noopener noreferrer">*arXiv preprint arXiv:2110.06308*</a>, 2021. Under first round of review at *Mathematical Programming Computation*. <a href="https://github.com/cassiebuhler/ConminCG" target="_blank" rel="noopener noreferrer">Code available on GitHub.</a>
+
+Buhler, Cassidy K., Hande Y. Benson, and David F. Shanno. "Regularized Step Directions in Conjugate Gradient Minimization for Machine Learning." <a href="https://arxiv.org/abs/2110.06308" target="_blank" rel="noopener noreferrer">*arXiv preprint arXiv:2110.06308*</a> (2021). Under first round of review at *Mathematical Programming Computation*. <a href="https://github.com/cassiebuhler/ConminCG" target="_blank" rel="noopener noreferrer">Code available on GitHub.</a>
 
 
 
 ### In Progress
 
+C. K. Buhler and H. Y. Benson, "Regularized nonlinear conjugate gradient methods for machine learning." <a href="https://github.com/cassiebuhler/ConminCG" target="_blank" rel="noopener noreferrer">Code available on GitHub.</a>
 
-C. K. Buhler and H. Y. Benson, "Regularized nonlinear conjugate gradient methods for machine learning" <a href="https://github.com/cassiebuhler/ConminCG" target="_blank" rel="noopener noreferrer">Code available on GitHub.</a>
-
-C. K. Buhler and H. Y. Benson, "Efficient solution of portfolio optimization problems via dimension reduction and sparsification''.  <a href="https://arxiv.org/abs/2306.12639" target="_blank"  rel="noopener noreferrer">*arXiv preprint arXiv:2306.12639*</a>. <a href="https://github.com/cassiebuhler/PODS" target="_blank"  rel="noopener noreferrer"> Code available on GitHub</a>
+C. K. Buhler and H. Y. Benson, "Efficient solution of portfolio optimization problems via dimension reduction and sparsification.''  <a href="https://arxiv.org/abs/2306.12639" target="_blank"  rel="noopener noreferrer">*arXiv preprint arXiv:2306.12639*</a>. <a href="https://github.com/cassiebuhler/PODS" target="_blank"  rel="noopener noreferrer"> Code available on GitHub</a>
 
 
 ---
