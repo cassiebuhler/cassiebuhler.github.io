@@ -55,21 +55,27 @@ Assists primary instructor with duties such as holding office hours, preparing a
 
 ---
 
-## Other
-### University of Utah
-Provided math and programming assistance at the T. Benny Rushing Mathematics Student Center.
-
-- Languages: MATLAB, Python, and R
-- MATH 1010: Intermediate Algebra
-- MATH 1050: College Algebra
-- MATH 1210: Calculus I 
-- MATH 1220: Calculus II
-- MATH 2210: Calculus III
-- MATH 2270: Linear Algebra
-- MATH 3070: Applied Statistics I
-- MATH 3080: Applied Statistics II
-
-### Utah Prison Education Project (UPEP)
+# Other
+### Volunteer - Utah Prison Education Project (UPEP) 
 Tutored students who are incarcerated in a Salt Lake Community College math course.
-- MATH 1030: Intro to Quantitative Reasoning 
+- MATH 1030: Intro to Quantitative Reasoning (Su2019)
 - To learn more about UPEP,  please visit their <a href="https://prisoneducationproject.utah.edu/" target="_blank" rel="noopener noreferrer">website.</a>
+
+
+### Math \& Computer Lab Assistant  
+Provided math and programming assistance at the University of Utah Math Center 
+
+- Languages: MATLAB, Python, and R 
+
+| Course | Level | Semester |
+| ---- | --- | --- |
+| MATH 1010: Intermediate Algebra | U | Fa2020, Sp2019 |
+| MATH 1030: Intro to Quantitative Reasoning| U | Fa2020, Sp2019 |
+| MATH 1050: College Algebra | U | Fa2020, Sp2019 |
+| MATH 1210: Calculus I | U | Fa2020, Sp2019 |
+| MATH 1220: Calculus II | U | Fa2020, Sp2019 |
+| MATH 2210: Calculus III | U | Fa2020, Sp2019 |
+| MATH 2270: Linear Algebra | U | Fa2020, Sp2019 |
+| MATH 3070: Applied Statistics I  | U | Fa2020, Sp2019 |
+| MATH 3080: Applied Statistics II| U | Sp2019 |
+
