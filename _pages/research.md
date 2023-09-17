@@ -51,7 +51,3 @@ Predicting How Fish Swim with Neural Networks (2021)
 - Given a fish's fin flapping frequency, distance between fins, and lateral force, we used machine learning to predict a fish's phase difference and thrust. 
 -  <a href="/files/FishSwim-BuhlerKadapa.pdf" target="_blank" rel="noopener noreferrer">Report available here.</a>
 
-Forecasting Top 10 Songs on Billboard Hot 100 Chart (2021)
-- I used APIs for Spotify and Billboard to collect audio features for the Billboard Hot 100 songs from 2010-2020. Given these audio features, I utilized shallow neural networks and feature selection to predict which songs would be in the top 10.
-- <a href="https://github.com/cassiebuhler/ForecastingBillboardHot100" target="_blank" rel="noopener noreferrer">Code and data are published on Github.</a>
-
