@@ -36,10 +36,13 @@ C. K. Buhler and H. Y. Benson, "Efficient solution of portfolio optimization pro
 
 # Other
 
-### REU Research Project
-C. K. Buhler, R. S. Terry, K. G. Link, F. R. Adler, "Mathematical modeling of adaptive therapy in prostate cancer," *Undergraduate Research Journal*, 2019. <a href="https://our.utah.edu/undergraduate-research-journal/undergraduate-research-journal-2019/" target="_blank" rel="noopener noreferrer">Available online.</a>
+### REU Project
+Mathematical modeling of adaptive therapy in prostate cancer (2019)
+
+*Mentors: Rebecca S. Terry, Kathryn G. Link, Frederick R. Adler*
 - Using the Lotka-Volterra model, we studied how the timing and duration of hormone therapy impact the cancer cell burden when treating prostate cancer. 
 - This project was the foundation of later work which delved deeper into cancer cell responses to treatment with various mathematical models.
+- <a href="https://our.utah.edu/undergraduate-research-journal/undergraduate-research-journal-2019/" target="_blank" rel="noopener noreferrer">Available online.</a>
 
 ### Class Projects 
 
