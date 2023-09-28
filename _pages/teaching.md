@@ -38,6 +38,7 @@ Assists primary instructor with duties such as holding office hours, preparing a
 | Course | Level | Quarter |
 | ---- | --- | --- |
 | BSAN 360: Programming for Data Analytics | U | Sp2021 |
+| MIS 612: Aligning Information Systems and Business Strategies | G (Executive MBA & MBA) | Fa2023 |
 | OPM 200: Operations Management | U | Sp2020, Fa2021, Sp2023 |
 | OPM 341: Supply Chain Management | U | Sp2021, Sp2022, Fa2022 |
 | OPM 344: Revenue Management | U | Fa2022 |
