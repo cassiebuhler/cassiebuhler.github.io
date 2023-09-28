@@ -48,7 +48,7 @@ Assists primary instructor with duties such as holding office hours, preparing a
 | STAT 205: Statistical Inference I  | U | p2020, Fa2021 |
 | STAT 206: Statistical Inference II | U | Su2021 |
 | STAT 510: Introduction to Statistics for Business Analytics | G (MBA) | Su2023 |
-| STAT 642: Data Mining for Business Analytics  | G (MS, PhD) | Wi2023 |
+| STAT 642: Data Mining for Business Analytics  | G (MS & PhD) | Wi2023 |
 
 *Undergraduate (U), Graduate (G)*
 
