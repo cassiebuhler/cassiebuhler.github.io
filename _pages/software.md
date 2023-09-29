@@ -16,7 +16,7 @@ redirect_from:
 ## Conmin-CG: Hybrid Cubic Regularization of Conjugate Gradient Minimization Method
 
 *An optimization algorithm with memoryless and matrix-free properties that solves large-scale problems more efficiently by improving step quality with cubic regularization.*
-- Implemented Conmin-CG in C, MATLAB, and Python.
+- Implemented in C, MATLAB, and Python.
 - This software was used in the papers <a href="https://arxiv.org/abs/2110.06308" target="_blank" rel="noopener noreferrer">Regularized Step Directions in Nonlinear Conjugate Gradient Methods</a> and Regularized Nonlinear Conjugate Gradient Methods for Machine Learning. 
 - <a href="https://github.com/cassiebuhler/ConminCG" target="_blank" rel="noopener noreferrer">Available on GitHub</a>
 
