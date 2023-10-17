@@ -21,9 +21,10 @@ My background is in operations research where the bulk of my dissertation work w
 In addition to my Ph.D. studies, I will earn a graduate minor in Computational Data Science and am a member of the Drexel CS Theory Reading Group. Prior to this, I received a B.S. in Mathematics from the University of Utah where I studied mathematical models for treating prostate cancer with Dr. Fred Adler.
 
 Read more about my 
-- [Research](https://cassiebuhler.github.io/research/)
-- [Teaching](https://cassiebuhler.github.io/teaching/)
-- [Software](https://cassiebuhler.github.io/software/)
 
-Or download my [CV](https://cassiebuhler.github.io/cv/)!
+- <a href="https://cassiebuhler.github.io/research/" target="_blank" rel="noopener noreferrer">Research</a>
+- <a href="https://cassiebuhler.github.io/teaching/" target="_blank" rel="noopener noreferrer">Teaching</a>
+- <a href="https://cassiebuhler.github.io/software/" target="_blank" rel="noopener noreferrer">Software</a>
+
+Or download my <a href="https://cassiebuhler.github.io/cv/" target="_blank" rel="noopener noreferrer">CV</a>!
 
