@@ -19,3 +19,11 @@ My research is at the boundary of optimization and machine learning, focusing on
 My background is in operations research where the bulk of my dissertation work was developing a quasi-Newton algorithm to solve large-scale nonlinear optimization problems more efficiently.  This algorithm is applicable to problems that require a fast solution when optimizing over big—and often messy—datasets (e.g. training neural networks). I am advised by Dr. Hande Benson. 
 
 In addition to my Ph.D. studies, I will earn a graduate minor in Computational Data Science and am a member of the Drexel CS Theory Reading Group. Prior to this, I received a B.S. in Mathematics from the University of Utah where I studied mathematical models for treating prostate cancer with Dr. Fred Adler.
+
+Read more about my 
+- [Research](https://cassiebuhler.github.io/research/)
+- [Teaching](https://cassiebuhler.github.io/teaching/)
+- [Software](https://cassiebuhler.github.io/software/)
+
+Or download my [CV](https://cassiebuhler.github.io/cv/)!
+
