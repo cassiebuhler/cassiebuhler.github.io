@@ -15,11 +15,6 @@ My research is at the boundary of optimization and machine learning, focusing on
 
 **I am currently on the job market and am looking for a postdoctoral research position.** I am especially interested in positions at inclusive and diverse interdisciplinary labs. 
 
-## Background 
-My background is in operations research where the bulk of my dissertation work was developing a quasi-Newton algorithm to solve large-scale nonlinear optimization problems more efficiently.  This algorithm is applicable to problems that require a fast solution when optimizing over big—and often messy—datasets (e.g. training neural networks). I am advised by Dr. Hande Benson. 
-
-In addition to my Ph.D. studies, I will earn a graduate minor in Computational Data Science and am a member of the Drexel CS Theory Reading Group. Prior to this, I received a B.S. in Mathematics from the University of Utah where I studied mathematical models for treating prostate cancer with Dr. Fred Adler.
-
 Read more about my 
 
 - <a href="https://cassiebuhler.github.io/research/" target="_blank" rel="noopener noreferrer">Research</a>
@@ -27,4 +22,10 @@ Read more about my
 - <a href="https://cassiebuhler.github.io/software/" target="_blank" rel="noopener noreferrer">Software</a>
 
 Or download my <a href="https://cassiebuhler.github.io/cv/" target="_blank" rel="noopener noreferrer">CV</a>!
+
+## Background 
+My background is in operations research where the bulk of my dissertation work was developing a quasi-Newton algorithm to solve large-scale nonlinear optimization problems more efficiently.  This algorithm is applicable to problems that require a fast solution when optimizing over big—and often messy—datasets (e.g. training neural networks). I am advised by Dr. Hande Benson. 
+
+In addition to my Ph.D. studies, I will earn a graduate minor in Computational Data Science and am a member of the Drexel CS Theory Reading Group. Prior to this, I received a B.S. in Mathematics from the University of Utah where I studied mathematical models for treating prostate cancer with Dr. Fred Adler.
+
 
