@@ -19,10 +19,9 @@ C. K. Buhler and H. Y. Benson, "Optimal land conservation decisions for multiple
 
 
 ### Under Review
-Buhler, C. K. and Benson, H. Y. (2023). Decision-making for land conservation: A derivative-free optimization framework with nonlinear inputs. <a href="https://arxiv.org/abs/2308.11549" target="_blank" rel="noopener noreferrer">*arXiv preprint arXiv:2308.11549.* </a> <a href="https://github.com/cassiebuhler/BBLand" target="_blank"  rel="noopener noreferrer">Code available on GitHub.</a>
+Buhler, C. K. and Benson, H. Y. Decision-making for land conservation: A derivative-free optimization framework with nonlinear inputs. <a href="https://arxiv.org/abs/2308.11549" target="_blank" rel="noopener noreferrer">*arXiv preprint arXiv:2308.11549.* </a> <a href="https://github.com/cassiebuhler/BBLand" target="_blank"  rel="noopener noreferrer">Code available on GitHub.</a>
 
-Buhler, C. K., Benson, H. Y., and Shanno, D. F. (2021). Regularized step directions in conjugate gradient minimization for machine learning. <a href="https://arxiv.org/abs/2110.06308" target="_blank" rel="noopener noreferrer">*arXiv preprint arXiv:2110.06308*</a> Under 2nd round of review at *Mathematical Programming Computation*. <a href="https://github.com/cassiebuhler/ConminCG" target="_blank" rel="noopener noreferrer">Code available on GitHub.</a>
-
+Buhler, C. K., Benson, H. Y., and Shanno, D. F. Regularized step directions in conjugate gradient minimization for machine learning. <a href="https://arxiv.org/abs/2110.06308" target="_blank" rel="noopener noreferrer">*arXiv preprint arXiv:2110.06308*</a> Under 2nd round of review at *Mathematical Programming Computation*. <a href="https://github.com/cassiebuhler/ConminCG" target="_blank" rel="noopener noreferrer">Code available on GitHub.</a>
 
 
 ### In Progress
