@@ -14,12 +14,13 @@ Cassidy K. Buhler, Rebecca S. Terry, Kathryn G. Link, Frederick R. Adler. Do mec
 <a href="https://www.aimspress.com/article/doi/10.3934/mbe.2021315" target="_blank" rel="noopener noreferrer">10.3934/mbe.2021315</a>
 
 ### Conference Proceedings
+Buhler, C. K. and Benson, H. Y. Decision-making for land conservation: A derivative-free optimization framework with nonlinear inputs. To appear in *Proceedings of the 38th AAAI Conference on Artificial Intelligence, Special Track on AI for Social Impact*, 2024. <a href="https://arxiv.org/abs/2308.11549" target="_blank" rel="noopener noreferrer">*arXiv preprint arXiv:2308.11549.* </a>  <a href="https://github.com/cassiebuhler/BBLand" target="_blank"  rel="noopener noreferrer">Code available on GitHub.</a>
 
-C. K. Buhler and H. Y. Benson, "Optimal land conservation decisions for multiple species," To appear in *Northeast Decision Science Institute 2023 Annual Conference Proceedings*, Washington, DC, March 2023. doi: <a href="https://arxiv.org/abs/2307.11863" target="_blank" rel="noopener noreferrer"> 10.48550/arXiv.2307.11863</a>
+C. K. Buhler and H. Y. Benson, "Optimal land conservation decisions for multiple species," In *Proceedings of the 52nd Northeast Decision Science Institute Annual Conference*, Washington, DC, March 2023. doi: <a href="https://arxiv.org/abs/2307.11863" target="_blank" rel="noopener noreferrer"> 10.48550/arXiv.2307.11863</a>
 
 
 ### Under Review
-Buhler, C. K. and Benson, H. Y. Decision-making for land conservation: A derivative-free optimization framework with nonlinear inputs. <a href="https://arxiv.org/abs/2308.11549" target="_blank" rel="noopener noreferrer">*arXiv preprint arXiv:2308.11549.* </a> <a href="https://github.com/cassiebuhler/BBLand" target="_blank"  rel="noopener noreferrer">Code available on GitHub.</a>
+
 
 Buhler, C. K., Benson, H. Y., and Shanno, D. F. Regularized step directions in conjugate gradient minimization for machine learning. <a href="https://arxiv.org/abs/2110.06308" target="_blank" rel="noopener noreferrer">*arXiv preprint arXiv:2110.06308*</a> Under 2nd round of review at *Mathematical Programming Computation*. <a href="https://github.com/cassiebuhler/ConminCG" target="_blank" rel="noopener noreferrer">Code available on GitHub.</a>
 
