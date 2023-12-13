@@ -7,10 +7,10 @@ redirect_from:
   - /software
 ---
 
-## BBLand: Decision-Making for Land Conservation: A Derivative-Free Optimization Framework
+## Decision-Making for Land Conservation: A Derivative-Free Optimization Framework
 
 *A mathematical programming tool for conservationists that allows for linear and nonlinear inputs, continuous and discrete variables, and can be paired with existing ecological software.*
-- <a href="https://github.com/cassiebuhler/BBLand" target="_blank" rel="noopener noreferrer"> Available on GitHub </a>
+- <a href="https://github.com/cassiebuhler/conservation-dfo" target="_blank" rel="noopener noreferrer"> Available on GitHub </a>
 
 
 ## Conmin-CG: Hybrid Cubic Regularization of Conjugate Gradient Minimization Method
