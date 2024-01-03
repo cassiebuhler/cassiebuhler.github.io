@@ -16,7 +16,8 @@ Cassidy K. Buhler, Rebecca S. Terry, Kathryn G. Link, Frederick R. Adler. Do mec
 ### Conference Proceedings
 Buhler, C. K. and Benson, H. Y. Decision-making for land conservation: A derivative-free optimization framework with nonlinear inputs. To appear in *Proceedings of the 38th AAAI Conference on Artificial Intelligence*, 2024. Forthcoming. *arXiv preprint* <a href="https://arxiv.org/abs/2308.11549" target="_blank" rel="noopener noreferrer">*arXiv:2308.11549.* </a> Code available on <a href="https://github.com/cassiebuhler/conservation-dfo" target="_blank"  rel="noopener noreferrer">GitHub.</a>
 
-[PDF](https://arxiv.org/abs/2308.11549){: .btn--research}
+[Preprint](https://arxiv.org/abs/2308.11549){: .btn--research} 
+<a href="https://github.com/cassiebuhler/conservation-dfo" target="_blank"  rel="noopener noreferrer">Code</a>{: .btn--research}
 
 C. K. Buhler and H. Y. Benson, "Optimal land conservation decisions for multiple species," In *Proceedings of the 52nd Northeast Decision Science Institute Annual Conference*, Washington, DC, March 2023. doi: <a href="https://arxiv.org/abs/2307.11863" target="_blank" rel="noopener noreferrer"> 10.48550/arXiv.2307.11863</a>
 
