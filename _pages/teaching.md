@@ -12,7 +12,7 @@ I have taught and assisted dozens of courses in the LeBow College of Business at
 
 My full teaching statement can be read <a href="/files/BuhlerTeachingStatement.pdf" target="_blank" rel="noopener noreferrer"> here. </a> 
 
----
+
 
 ## Instructor
 *Responsible for all lectures, course materials, and grading.*
@@ -30,7 +30,7 @@ My full teaching statement can be read <a href="/files/BuhlerTeachingStatement.p
 	- Teaching evaluations from <a href="/files/MIS-200_Fall2019.pdf" target="_blank" rel="noopener noreferrer">Fall 2019</a>,  <a href="/files/MIS-200_Fall2020.pdf" target="_blank" rel="noopener noreferrer">Fall 2020</a>, and <a href="/files/MIS-200_Winter2021.pdf" target="_blank" rel="noopener noreferrer">Winter 2021</a>. 
 	-  Tools: Excel, Microsoft Access, and HTML
 	
----
+
 
 ## Teaching Assistant
 Assists primary instructor with duties such as holding office hours, preparing assignments, and grading.
@@ -55,7 +55,7 @@ Assists primary instructor with duties such as holding office hours, preparing a
 
 *Fall (Fa), Winter (Wi), Spring (Sp), Summer (Su)*
 
----
+
 
 # Other
 ### Volunteer - Utah Prison Education Project (UPEP) 
