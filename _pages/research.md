@@ -18,7 +18,6 @@ Buhler, C. K. and Benson, H. Y. Decision-making for land conservation: A derivat
 
 [PDF](https://arxiv.org/abs/2308.11549){: .btn--research}
 
-
 C. K. Buhler and H. Y. Benson, "Optimal land conservation decisions for multiple species," In *Proceedings of the 52nd Northeast Decision Science Institute Annual Conference*, Washington, DC, March 2023. doi: <a href="https://arxiv.org/abs/2307.11863" target="_blank" rel="noopener noreferrer"> 10.48550/arXiv.2307.11863</a>
 
 
