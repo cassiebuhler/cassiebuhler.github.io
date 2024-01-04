@@ -14,6 +14,7 @@ redirect_from:
 
 <a href="https://www.aimspress.com/article/doi/10.3934/mbe.2021315" target="_blank" rel="noopener noreferrer">Article</a>{: .btn--research}
 
+---
 
 ## Conference Proceedings
 ### Decision-making for land conservation: A derivative-free optimization framework with nonlinear inputs
@@ -29,6 +30,7 @@ redirect_from:
 
 <a href="https://arxiv.org/abs/2307.11863" target="_blank" rel="noopener noreferrer">Preprint</a>{: .btn--research}
 
+---
 
 ## Under Review
 
@@ -38,6 +40,7 @@ redirect_from:
 <a href="https://arxiv.org/abs/2110.06308" target="_blank" rel="noopener noreferrer">Preprint</a>{: .btn--research}
 <a href="https://github.com/cassiebuhler/ConminCG" target="_blank" rel="noopener noreferrer">Code</a>{: .btn--research}
 
+---
 
 ## In Progress
 
@@ -66,14 +69,14 @@ Mathematical modeling of adaptive therapy in prostate cancer (2019)
   
 <a href="https://our.utah.edu/undergraduate-research-journal/undergraduate-research-journal-2019/" target="_blank" rel="noopener noreferrer">Online</a>{: .btn--research}
 
-## Class Projects 
+### Class Projects 
 
-### Finding Waldo
+#### Finding Waldo
 >Inspired by <a href="http://www.randalolson.com/2015/02/03/heres-waldo-computing-the-optimal-search-strategy-for-finding-waldo/" target="_blank" rel="noopener noreferrer">Randal Olsen's work</a>, I apply k-means clustering, ant colony optimization, genetic algorithms, and nearest neighbors to look for "optimal" search paths to find Waldo. 
 
 <a href="/files/FindingWaldo-Buhler.pdf" target="_blank" rel="noopener noreferrer">Report</a>{: .btn--research}
 
-### Predicting How Fish Swim with Neural Networks
+#### Predicting How Fish Swim with Neural Networks
 >Given a fish's fin flapping frequency, distance between fins, and lateral force, we used machine learning to predict a fish's phase difference and thrust. 
 
 <a href="/files/FishSwim-BuhlerKadapa.pdf" target="_blank" rel="noopener noreferrer">Report</a>{: .btn--research}
