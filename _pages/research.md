@@ -23,26 +23,29 @@ redirect_from:
 <a href="https://arxiv.org/abs/2308.11549" target="_blank" rel="noopener noreferrer">Preprint</a> {: .btn--research} 
 <a href="https://github.com/cassiebuhler/conservation-dfo" target="_blank"  rel="noopener noreferrer">Code</a>{: .btn--research}
 
-C. K. Buhler and H. Y. Benson, "Optimal land conservation decisions for multiple species," In *Proceedings of the 52nd Northeast Decision Science Institute Annual Conference*, Washington, DC, March 2023. 
+### Optimal land conservation decisions for multiple species
+>C. K. Buhler and H. Y. Benson, "Optimal land conservation decisions for multiple species," In *Proceedings of the 52nd Northeast Decision Science Institute Annual Conference*, Washington, DC, March 2023. 
+
 <a href="https://arxiv.org/abs/2307.11863" target="_blank" rel="noopener noreferrer">Preprint</a>{: .btn--research}
 
 
-### Under Review
+## Under Review
 
-
-Buhler, C. K., Benson, H. Y., and Shanno, D. F. Regularized step directions in conjugate gradient minimization for machine learning. Under 2nd round of review at *Mathematical Programming Computation*. 
+### Regularized step directions in conjugate gradient minimization for machine learning
+>Buhler, C. K., Benson, H. Y., and Shanno, D. F. Regularized step directions in conjugate gradient minimization for machine learning. Under 2nd round of review at *Mathematical Programming Computation*. 
 
 <a href="https://arxiv.org/abs/2110.06308" target="_blank" rel="noopener noreferrer">Preprint</a>{: .btn--research}
 <a href="https://github.com/cassiebuhler/ConminCG" target="_blank" rel="noopener noreferrer">Code</a>{: .btn--research}
 
 
-### In Progress
+## In Progress
 
-C. K. Buhler and H. Y. Benson, "Regularized nonlinear conjugate gradient methods for machine learning," 
+### Regularized nonlinear conjugate gradient methods for machine learning
+>C. K. Buhler and H. Y. Benson, "Regularized nonlinear conjugate gradient methods for machine learning," 
 <a href="https://github.com/cassiebuhler/ConminCG" target="_blank" rel="noopener noreferrer">Code</a>{: .btn--research}
 
-
-C. K. Buhler and H. Y. Benson, "Efficient solution of portfolio optimization problems via dimension reduction and sparsification," 
+### Efficient solution of portfolio optimization problems via dimension reduction and sparsification
+>C. K. Buhler and H. Y. Benson, "Efficient solution of portfolio optimization problems via dimension reduction and sparsification," 
 <a href="https://arxiv.org/abs/2306.12639" target="_blank"  rel="noopener noreferrer">Working Paper</a>{: .btn--research} 
 <a href="https://github.com/cassiebuhler/PODS" target="_blank"  rel="noopener noreferrer">Code</a>{: .btn--research}
 
@@ -58,13 +61,16 @@ Mathematical modeling of adaptive therapy in prostate cancer (2019)
 - Using the Lotka-Volterra model, we studied how the timing and duration of hormone therapy impact the cancer cell burden when treating prostate cancer. 
 - This project was the foundation of later work which delved deeper into cancer cell responses to treatment with various mathematical models.
 <a href="https://our.utah.edu/undergraduate-research-journal/undergraduate-research-journal-2019/" target="_blank" rel="noopener noreferrer">Online</a>{: .btn--research}
-### Class Projects 
 
-Finding Waldo (2021)
-- Inspired by <a href="http://www.randalolson.com/2015/02/03/heres-waldo-computing-the-optimal-search-strategy-for-finding-waldo/" target="_blank" rel="noopener noreferrer">Randal Olsen's work</a>, I apply k-means clustering, ant colony optimization, genetic algorithms, and nearest neighbors to look for "optimal" search paths to find Waldo. 
+## Class Projects 
+
+### Finding Waldo
+>Inspired by <a href="http://www.randalolson.com/2015/02/03/heres-waldo-computing-the-optimal-search-strategy-for-finding-waldo/" target="_blank" rel="noopener noreferrer">Randal Olsen's work</a>, I apply k-means clustering, ant colony optimization, genetic algorithms, and nearest neighbors to look for "optimal" search paths to find Waldo. 
+
 <a href="/files/FindingWaldo-Buhler.pdf" target="_blank" rel="noopener noreferrer">Report</a>{: .btn--research}
 
-Predicting How Fish Swim with Neural Networks (2021)
-- Given a fish's fin flapping frequency, distance between fins, and lateral force, we used machine learning to predict a fish's phase difference and thrust. 
+### Predicting How Fish Swim with Neural Networks
+>Given a fish's fin flapping frequency, distance between fins, and lateral force, we used machine learning to predict a fish's phase difference and thrust. 
+
 <a href="/files/FishSwim-BuhlerKadapa.pdf" target="_blank" rel="noopener noreferrer">Report</a>{: .btn--research}
 
