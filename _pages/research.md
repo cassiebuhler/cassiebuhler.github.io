@@ -60,24 +60,24 @@ redirect_from:
 
 # Other
 
-### REU Project
+## REU Project
 Mathematical modeling of adaptive therapy in prostate cancer (2019)
 
 *Mentors: Rebecca S. Terry, Kathryn G. Link, Frederick R. Adler*
 - Using the Lotka-Volterra model, we studied how the timing and duration of hormone therapy impact the cancer cell burden when treating prostate cancer. 
 - This project was the foundation of later work which delved deeper into cancer cell responses to treatment with various mathematical models.
   
-<a href="https://our.utah.edu/undergraduate-research-journal/undergraduate-research-journal-2019/" target="_blank" rel="noopener noreferrer">Online</a>{: .btn--research}
+<a href="https://our.utah.edu/undergraduate-research-journal/undergraduate-research-journal-2019/" target="_blank" rel="noopener noreferrer">Abstract</a>{: .btn--research}
 
-### Class Projects 
+## Class Projects 
 
-#### Finding Waldo
+Finding Waldo (2021)
 >Inspired by <a href="http://www.randalolson.com/2015/02/03/heres-waldo-computing-the-optimal-search-strategy-for-finding-waldo/" target="_blank" rel="noopener noreferrer">Randal Olsen's work</a>, I apply k-means clustering, ant colony optimization, genetic algorithms, and nearest neighbors to look for "optimal" search paths to find Waldo. 
 
-<a href="/files/FindingWaldo-Buhler.pdf" target="_blank" rel="noopener noreferrer">Report</a>{: .btn--research}
+<a href="/files/FindingWaldo-Buhler.pdf" target="_blank" rel="noopener noreferrer">Paper</a>{: .btn--research}
 
-#### Predicting How Fish Swim with Neural Networks
+Predicting How Fish Swim with Neural Networks (2021)
 >Given a fish's fin flapping frequency, distance between fins, and lateral force, we used machine learning to predict a fish's phase difference and thrust. 
 
-<a href="/files/FishSwim-BuhlerKadapa.pdf" target="_blank" rel="noopener noreferrer">Report</a>{: .btn--research}
+<a href="/files/FishSwim-BuhlerKadapa.pdf" target="_blank" rel="noopener noreferrer">Paper</a>{: .btn--research}
 
