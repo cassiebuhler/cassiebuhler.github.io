@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Publications
+title: "Publications"
 permalink: /research/
 author_profile: true
 redirect_from:
@@ -21,7 +21,7 @@ redirect_from:
 >Buhler, C. K. and Benson, H. Y. Decision-making for land conservation: A derivative-free optimization framework with nonlinear inputs. To appear in *Proceedings of the 38th AAAI Conference on Artificial Intelligence*, 2024. Forthcoming.
 
 
-<a href="https://arxiv.org/abs/2308.11549" target="_blank" rel="noopener noreferrer">Preprint</a> {: .btn--research} 
+<a href="https://arxiv.org/abs/2308.11549" target="_blank" rel="noopener noreferrer">Preprint</a>{: .btn--research} 
 <a href="https://github.com/cassiebuhler/conservation-dfo" target="_blank"  rel="noopener noreferrer">Code</a>{: .btn--research}
 
 ### Optimal land conservation decisions for multiple species
@@ -42,11 +42,13 @@ redirect_from:
 ## In Progress
 
 ### Regularized nonlinear conjugate gradient methods for machine learning
->C. K. Buhler and H. Y. Benson, "Regularized nonlinear conjugate gradient methods for machine learning," 
+>C. K. Buhler and H. Y. Benson, "Regularized nonlinear conjugate gradient methods for machine learning,"
+
 <a href="https://github.com/cassiebuhler/ConminCG" target="_blank" rel="noopener noreferrer">Code</a>{: .btn--research}
 
 ### Efficient solution of portfolio optimization problems via dimension reduction and sparsification
->C. K. Buhler and H. Y. Benson, "Efficient solution of portfolio optimization problems via dimension reduction and sparsification," 
+>C. K. Buhler and H. Y. Benson, "Efficient solution of portfolio optimization problems via dimension reduction and sparsification,"
+
 <a href="https://arxiv.org/abs/2306.12639" target="_blank"  rel="noopener noreferrer">Working Paper</a>{: .btn--research} 
 <a href="https://github.com/cassiebuhler/PODS" target="_blank"  rel="noopener noreferrer">Code</a>{: .btn--research}
 
@@ -61,6 +63,7 @@ Mathematical modeling of adaptive therapy in prostate cancer (2019)
 *Mentors: Rebecca S. Terry, Kathryn G. Link, Frederick R. Adler*
 - Using the Lotka-Volterra model, we studied how the timing and duration of hormone therapy impact the cancer cell burden when treating prostate cancer. 
 - This project was the foundation of later work which delved deeper into cancer cell responses to treatment with various mathematical models.
+  
 <a href="https://our.utah.edu/undergraduate-research-journal/undergraduate-research-journal-2019/" target="_blank" rel="noopener noreferrer">Online</a>{: .btn--research}
 
 ## Class Projects 
