@@ -72,12 +72,12 @@ Mathematical modeling of adaptive therapy in prostate cancer (2019)
 ## Class Projects 
 
 Finding Waldo (2021)
->Inspired by <a href="http://www.randalolson.com/2015/02/03/heres-waldo-computing-the-optimal-search-strategy-for-finding-waldo/" target="_blank" rel="noopener noreferrer">Randal Olsen's work</a>, I apply k-means clustering, ant colony optimization, genetic algorithms, and nearest neighbors to look for "optimal" search paths to find Waldo. 
+- Inspired by <a href="http://www.randalolson.com/2015/02/03/heres-waldo-computing-the-optimal-search-strategy-for-finding-waldo/" target="_blank" rel="noopener noreferrer">Randal Olsen's work</a>, I apply k-means clustering, ant colony optimization, genetic algorithms, and nearest neighbors to look for "optimal" search paths to find Waldo. 
 
 <a href="/files/FindingWaldo-Buhler.pdf" target="_blank" rel="noopener noreferrer">Paper</a>{: .btn--research}
 
 Predicting How Fish Swim with Neural Networks (2021)
->Given a fish's fin flapping frequency, distance between fins, and lateral force, we used machine learning to predict a fish's phase difference and thrust. 
+- Given a fish's fin flapping frequency, distance between fins, and lateral force, we used machine learning to predict a fish's phase difference and thrust. 
 
 <a href="/files/FishSwim-BuhlerKadapa.pdf" target="_blank" rel="noopener noreferrer">Paper</a>{: .btn--research}
 
