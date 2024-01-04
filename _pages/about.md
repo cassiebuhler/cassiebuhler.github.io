@@ -15,13 +15,14 @@ My research is at the boundary of optimization and machine learning, focusing on
 
 **I am currently on the job market and am looking for a postdoctoral research position.** I am especially interested in positions at inclusive and diverse interdisciplinary labs. 
 
+<a href="/files/ckbuhler_cv.pdf" target="_blank">Download CV</a>{: .btn--research}
+
 Read more about my 
 
 - <a href="https://cassiebuhler.github.io/research/" target="_blank" rel="noopener noreferrer">Research</a>
 - <a href="https://cassiebuhler.github.io/teaching/" target="_blank" rel="noopener noreferrer">Teaching</a>
 - <a href="https://cassiebuhler.github.io/software/" target="_blank" rel="noopener noreferrer">Software</a>
 
-Or download my <a href="https://cassiebuhler.github.io/cv/" target="_blank" rel="noopener noreferrer">CV</a>!
 
 ## Background 
 My background is in operations research where the bulk of my dissertation work was developing a quasi-Newton algorithm to solve large-scale nonlinear optimization problems more efficiently.  This algorithm is applicable to problems that require a fast solution when optimizing over big—and often messy—datasets (e.g. training neural networks). I am advised by Dr. Hande Benson. 
