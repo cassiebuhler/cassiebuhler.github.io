@@ -1,5 +1,6 @@
 ---
 layout: archive
+title: Curriculum Vitae
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,8 +10,9 @@ redirect_from:
 {% include base_path %}
 
 
-<object data= "/files/ckbuhler_cv.pdf" type="application/pdf" width="720px" height="1280px">
-    <embed  src="/files/ckbuhler_cv.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/files/ckbuhler_cv.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+
+
+
+<p id = "message">Click the link below to view my CV as a PDF in a new tab.</p>
+
+<a id = "button" href="/files/ckbuhler_cv.pdf" target="_blank">Download CV</a>{: .btn--research}

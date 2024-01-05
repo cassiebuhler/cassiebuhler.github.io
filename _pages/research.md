@@ -1,14 +1,17 @@
 ---
 layout: archive
 permalink: /research/
+title: "Research"
+excerpt: "Research"
 author_profile: true
 redirect_from:
   - /research
 ---
 <style type='text/css'>
-  h1 {
-font-weight:normal;
+  h2 {
     color: #609162;
+margin-bottom: -1em;
+
   }
   h3 {
 margin-top: 3em;
@@ -17,7 +20,12 @@ font-weight:normal;
 
 </style>
 
-# Publications
+I work at the intersection of optimization, machine learning, and conservation.
+
+
+
+
+## Publications
 
 
 ### Decision-Making for Land Conservation: A Derivative-Free Optimization Framework with Nonlinear Inputs 
@@ -27,11 +35,11 @@ Cassidy K. Buhler and Hande Y. Benson
 <a href="https://arxiv.org/abs/2308.11549" target="_blank" rel="noopener noreferrer">Preprint</a>{: .btn--research} <a href="https://github.com/cassiebuhler/conservation-dfo" target="_blank"  rel="noopener noreferrer">Code</a>{: .btn--research}
 
 
->Buhler, C. K. and Benson, H. Y. Decision-making for land conservation: A derivative-free optimization framework with nonlinear inputs. To appear in *Proceedings of the 38th AAAI Conference on Artificial Intelligence*, 2024. Forthcoming.
+>Buhler, C. K. and Benson, H. Y. Decision-Making for Land Conservation: A Derivative-Free Optimization Framework with Nonlinear inputs. To appear in *Proceedings of the 38th AAAI Conference on Artificial Intelligence*, 2024. Forthcoming.
 
 
 
-### Optimal land conservation decisions for multiple species
+### Optimal Land Conservation Decisions for Multiple Species
 
 Cassidy K. Buhler and Hande Y. Benson 
 
@@ -43,7 +51,7 @@ Cassidy K. Buhler and Hande Y. Benson
 
 
 
-### Do mechanisms matter? Comparing cancer treatment strategies across mathematical models and outcome objectives
+### Do Mechanisms Matter? Comparing Cancer Treatment Strategies Across Mathematical Models and Outcome Objectives
 
 Cassidy K. Buhler, Rebecca S. Terry, Kathryn G. Link, Frederick R. Adler. 
 
@@ -58,9 +66,9 @@ Cassidy K. Buhler, Rebecca S. Terry, Kathryn G. Link, Frederick R. Adler.
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 <br>
-# Working Papers
+## Working Papers
 
-### Regularized step directions in conjugate gradient minimization for machine learning
+### Regularized Step Directions in Conjugate Gradient Minimization for Machine Learning
 Cassidy K. Buhler, Hande Y. Benson, David F. Shanno
 
 *Under 2nd round of review at Mathematical Programming Computation*
@@ -73,11 +81,11 @@ Cassidy K. Buhler, Hande Y. Benson, David F. Shanno
 
 
 
-### Regularized nonlinear conjugate gradient methods for machine learning
+### Regularized Nonlinear Conjugate Gradient Methods for Machine Learning
 Cassidy K. Buhler and Hande Y. Benson
 
 
-### Efficient solution of portfolio optimization problems via dimension reduction and sparsification
+### Efficient Solution of Portfolio Optimization Problems via Dimension Reduction and Sparsification
 Cassidy K. Buhler and Hande Y. Benson
 
 <a href="https://arxiv.org/abs/2306.12639" target="_blank"  rel="noopener noreferrer">Working Paper</a>{: .btn--research} 

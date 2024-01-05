@@ -11,7 +11,7 @@ redirect_from:
   }
   h2 {
 font-weight:normal;
-
+    color: #609162;
   }
 
 </style>
@@ -42,7 +42,7 @@ My full teaching statement can be read <a href="/files/BuhlerTeachingStatement.p
 
 
 ## Teaching Assistant
-Assists primary instructor with duties such as holding office hours, preparing assignments, and grading.
+*Assists primary instructor with duties such as holding office hours, preparing assignments, and grading.*
 
 | Course | Level | Quarter |
 | ---- | --- | --- |
@@ -55,7 +55,7 @@ Assists primary instructor with duties such as holding office hours, preparing a
 | OPR 320: Linear Models for Decision Making | U | Su2020, Sp2021 |
 | STAT 201: Intro to Business Statistics | U | Wi2020, Sp2020, Fa2021, Su2022, Sp2023 |
 | STAT 202: Business Statistics II | U | Su2021, Sp2023 |
-| STAT 205: Statistical Inference I  | U | p2020, Fa2021 |
+| STAT 205: Statistical Inference I  | U | Sp2020, Fa2021 |
 | STAT 206: Statistical Inference II | U | Su2021 |
 | STAT 510: Introduction to Statistics for Business Analytics | G (MBA) | Su2023 |
 | STAT 642: Data Mining for Business Analytics  | G (MS & PhD) | Wi2023 |

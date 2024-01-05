@@ -1,15 +1,13 @@
 ---
 layout: archive
+title: Software
 permalink: /software/
 author_profile: true
 redirect_from:
   - /software
 ---
 <style type='text/css'>
-  h1 {
-font-weight:normal;
-    color: #609162;
-  }
+
   h2 {
 font-weight:normal;
   }
