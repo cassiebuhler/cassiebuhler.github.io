@@ -8,20 +8,46 @@ redirect_from:
   - /research
 ---
 <style type='text/css'>
-  h2 {
-    color: #609162;
-margin-bottom: -1em;
+  	h2 {
+    	color: #609162;
+	margin-bottom: -1em;
+  	}
 
-  }
-  h3 {
-margin-top: 3em;
-font-weight:normal;
-  }
+  	h3 {
+	margin-top: 3em;
+	font-weight:normal;
+  	}
+
+	
+	p {
+	margin-left: 2em;
+	margin-bottom: -1em;
+	} 
+
+	.container {
+   	 position: relative;
+	margin-left: 2em;
+	margin-top: 15px;
+  	}	
+
+	.vertical {
+	border-left: 5px solid #609162;
+	height: 100%;
+	position: absolute;
+	margin-left: -1em;
+	margin-top: -1px;
+	display: inline-block;
+	}	
+	
+
+	br {
+	line-height: 200%;
+	}
+
 
 </style>
 
 I work at the intersection of optimization, machine learning, and conservation.
-
 
 
 
@@ -30,65 +56,130 @@ I work at the intersection of optimization, machine learning, and conservation.
 
 ### Decision-Making for Land Conservation: A Derivative-Free Optimization Framework with Nonlinear Inputs 
 
+
+<div class="container">
+  <div class="vertical"></div>
+
 Cassidy K. Buhler and Hande Y. Benson 
+<div style="line-height: 85%;">
+    <br>
+</div>
 
-<a href="https://arxiv.org/abs/2308.11549" target="_blank" rel="noopener noreferrer">Preprint</a>{: .btn--research} <a href="https://github.com/cassiebuhler/conservation-dfo" target="_blank"  rel="noopener noreferrer">Code</a>{: .btn--research}
+<a href="https://arxiv.org/abs/2308.11549" target="_blank" rel="noopener noreferrer" class = "btn--research">Preprint</a> <a href="https://github.com/cassiebuhler/conservation-dfo" target="_blank"  rel="noopener noreferrer" class = "btn--research">Code</a> 
 
+<div style="line-height: 85%;">
+    <br>
+</div>
 
->Buhler, C. K. and Benson, H. Y. Decision-Making for Land Conservation: A Derivative-Free Optimization Framework with Nonlinear inputs. To appear in *Proceedings of the 38th AAAI Conference on Artificial Intelligence*, 2024. Forthcoming.
+Buhler, C. K. & Benson, H. Y. (2024). Decision-Making for Land Conservation: A Derivative-Free Optimization Framework with Nonlinear inputs. To appear in <i>Proceedings of the 38th AAAI Conference on Artificial Intelligence</i>. Forthcoming. 
 
-
+</div>
 
 ### Optimal Land Conservation Decisions for Multiple Species
 
+<div class="container">
+  <div class="vertical"></div>
+
+
 Cassidy K. Buhler and Hande Y. Benson 
 
+<div style="line-height: 85%;">
+    <br>
+</div>
 
-<a href="https://arxiv.org/abs/2307.11863" target="_blank" rel="noopener noreferrer">Preprint</a>{: .btn--research}
+<a href="https://arxiv.org/abs/2307.11863" target="_blank" rel="noopener noreferrer" class = "btn--research">Preprint</a>
+<a href="https://nedsi.decisionsciences.org/wp-content/uploads/sites/5/2024/01/3134_ExOrdo-nedsi2023-Version-4.pdf" target="_blank" rel="noopener noreferrer" class = "btn--research">Article</a>
 
->C. K. Buhler and H. Y. Benson, "Optimal land conservation decisions for multiple species," In *Proceedings of the 52nd Northeast Decision Science Institute Annual Conference*, Washington, DC, March 2023. 
+<div style="line-height: 85%;">
+    <br>
+</div>
 
+Buhler, C. K. & Benson, H. Y. (2023). Optimal Land Conservation Decisions for Multiple Species. In <i>Proceedings of the 52nd Northeast Decision Science Institute Annual Conference</i> (Vol. 52, pp. 808-816).
 
-
+</div>
 
 ### Do Mechanisms Matter? Comparing Cancer Treatment Strategies Across Mathematical Models and Outcome Objectives
 
+<div class="container">
+  <div class="vertical"></div>
+
 Cassidy K. Buhler, Rebecca S. Terry, Kathryn G. Link, Frederick R. Adler. 
+<div style="line-height:85%;">
+    <br>
+</div>
 
-<a href="https://www.aimspress.com/article/doi/10.3934/mbe.2021315" target="_blank" rel="noopener noreferrer">Article</a>{: .btn--research}
+<a href="https://www.aimspress.com/article/doi/10.3934/mbe.2021315" target="_blank" rel="noopener noreferrer" class = "btn--research">Article</a>
 
->Cassidy K. Buhler, Rebecca S. Terry, Kathryn G. Link, Frederick R. Adler. Do mechanisms matter? Comparing cancer treatment strategies across mathematical models and outcome objectives[J]. Mathematical Biosciences and Engineering, 2021, 18(5): 6305-6327. doi: 10.3934/mbe.2021315
+<div style="line-height:85%;">
+    <br>
+</div>
 
+Cassidy K. Buhler, Rebecca S. Terry, Kathryn G. Link, Frederick R. Adler. Do mechanisms matter? Comparing cancer treatment strategies across mathematical models and outcome objectives[J]. <i>Mathematical Biosciences and Engineering</i>, 2021, 18(5): 6305-6327. doi: 10.3934/mbe.2021315
 
+</div>
 
+<div style="line-height:150%;">
+    <br>
+</div>
 
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-<br>
+
+
 ## Working Papers
 
 ### Regularized Step Directions in Conjugate Gradient Minimization for Machine Learning
+
+<div class="container">
+  <div class="vertical"></div>
+
 Cassidy K. Buhler, Hande Y. Benson, David F. Shanno
 
-*Under 2nd round of review at Mathematical Programming Computation*
+
+<div style="line-height: 85%;">
+    <br>
+</div>
 
 
 
-<a href="https://arxiv.org/abs/2110.06308" target="_blank" rel="noopener noreferrer">Preprint</a>{: .btn--research}
-<a href="https://github.com/cassiebuhler/ConminCG" target="_blank" rel="noopener noreferrer">Code</a>{: .btn--research}
+<a href="https://arxiv.org/abs/2100.06308" target="_blank" rel="noopener noreferrer" class = "btn--research">Preprint</a>
+<a href="https://github.com/cassiebuhler/ConminCG" target="_blank" rel="noopener noreferrer" class = "btn--research">Code</a>
+
+<div style="line-height:85%;">
+    <br>
+</div>
+
+<i>Under 2nd round of review at Mathematical Programming Computation</i>
+
+</div>
 
 
 
 
 ### Regularized Nonlinear Conjugate Gradient Methods for Machine Learning
+<div class="container">
+  <div class="vertical"></div>
+
 Cassidy K. Buhler and Hande Y. Benson
 
+</div>
 
 ### Efficient Solution of Portfolio Optimization Problems via Dimension Reduction and Sparsification
+
+<div class="container">
+  <div class="vertical"></div>
+
 Cassidy K. Buhler and Hande Y. Benson
 
-<a href="https://arxiv.org/abs/2306.12639" target="_blank"  rel="noopener noreferrer">Working Paper</a>{: .btn--research} 
-<a href="https://github.com/cassiebuhler/PODS" target="_blank"  rel="noopener noreferrer">Code</a>{: .btn--research}
+<div style="line-height: 85%;">
+    <br>
+</div>
+
+<a href="https://arxiv.org/abs/2306.12639" target="_blank"  rel="noopener noreferrer" class = "btn--research">Working Paper</a>
+<a href="https://github.com/cassiebuhler/PODS" target="_blank"  rel="noopener noreferrer" class = "btn--research">Code</a>
+
+</div>
+
 
 
