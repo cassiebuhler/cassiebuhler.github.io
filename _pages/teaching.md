@@ -53,11 +53,11 @@ My full teaching statement can be read <a href="/files/BuhlerTeachingStatement.p
 | OPM 341: Supply Chain Management | U | Sp2021, Sp2022, Fa2022 |
 | OPM 344: Revenue Management | U | Fa2022 |
 | OPR 320: Linear Models for Decision Making | U | Su2020, Sp2021 |
-| STAT 201: Intro to Business Statistics | U | Wi2020, Sp2020, Fa2021, Su2022, Sp2023 |
+| STAT 201: Intro to Business Statistics | U | Wi2020, Sp2020, Fa2021, Su2022, Sp2023, Wi2024 |
 | STAT 202: Business Statistics II | U | Su2021, Sp2023 |
 | STAT 205: Statistical Inference I  | U | Sp2020, Fa2021 |
 | STAT 206: Statistical Inference II | U | Su2021 |
-| STAT 510: Introduction to Statistics for Business Analytics | G (MBA) | Su2023 |
+| STAT 510: Introduction to Statistics for Business Analytics | G (MBA) | Su2023, Wi2024 |
 | STAT 642: Data Mining for Business Analytics  | G (MS & PhD) | Wi2023 |
 
 *Undergraduate (U), Graduate (G)*
