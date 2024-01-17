@@ -129,7 +129,7 @@ Cassidy K. Buhler, Rebecca S. Terry, Kathryn G. Link, Frederick R. Adler. Do mec
 
 ## Working Papers
 
-### Regularized Step Directions in Conjugate Gradient Minimization for Machine Learning
+### Regularized Step Directions in Nonlinear Conjugate Gradient Methods
 
 <div class="container">
   <div class="vertical"></div>
@@ -143,7 +143,7 @@ Cassidy K. Buhler, Hande Y. Benson, David F. Shanno
 
 
 
-<a href="https://arxiv.org/abs/2100.06308" target="_blank" rel="noopener noreferrer" class = "btn--research">Preprint</a>
+<a href="https://arxiv.org/abs/2110.06308" target="_blank" rel="noopener noreferrer" class = "btn--research">Preprint</a>
 <a href="https://github.com/cassiebuhler/ConminCG" target="_blank" rel="noopener noreferrer" class = "btn--research">Code</a>
 
 <div style="line-height:85%;">
