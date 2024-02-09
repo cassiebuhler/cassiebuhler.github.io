@@ -284,11 +284,6 @@ PLATFORMS
 DEPENDENCIES
   github-pages (= 228)
   jekyll (= 3.9.3)
-  jekyll-feed
-  jekyll-gist
-  jekyll-paginate
-  jekyll-redirect-from
-  jekyll-sitemap
   webrick (~> 1.8)
 
 BUNDLED WITH
