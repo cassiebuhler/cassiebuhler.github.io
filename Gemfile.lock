@@ -222,10 +222,20 @@ GEM
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
-    minitest (5.22.0)
+    minitest (5.22.2)
     mutex_m (0.2.0)
     net-http (0.4.1)
       uri
+    nokogiri (1.16.2-aarch64-linux)
+      racc (~> 1.4)
+    nokogiri (1.16.2-arm-linux)
+      racc (~> 1.4)
+    nokogiri (1.16.2-arm64-darwin)
+      racc (~> 1.4)
+    nokogiri (1.16.2-x86-linux)
+      racc (~> 1.4)
+    nokogiri (1.16.2-x86_64-darwin)
+      racc (~> 1.4)
     nokogiri (1.16.2-x86_64-linux)
       racc (~> 1.4)
     octokit (4.25.1)
@@ -267,15 +277,20 @@ GEM
     webrick (1.8.1)
 
 PLATFORMS
+  aarch64-linux
+  arm-linux
+  arm64-darwin
+  x86-linux
+  x86_64-darwin
   x86_64-linux
 
 DEPENDENCIES
   github-pages
   hawkins
-  jekyll
+  jekyll (= 3.9.3)
   jekyll-feed
   jekyll-sitemap
   webrick (~> 1.8)
 
 BUNDLED WITH
-   2.3.5
+   2.5.4
