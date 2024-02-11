@@ -46,8 +46,7 @@ redirect_from:
 
 </style>
 
-I work at the intersection of optimization, machine learning, and conservation.
-
+I work at the intersection of optimization, machine learning, and conservation. My research uses mixed-integer and derivative-free optimization to tackle environmental problems, specifically for conservation and natural resource management decisions. 
 
 
 ## Publications
