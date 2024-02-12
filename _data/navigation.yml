@@ -1,0 +1,16 @@
+# main links links
+main:
+  - title: "Home"
+    url: /
+
+  - title: "Research"
+    url: /research/
+        
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Software"
+    url: /software/
+
+  - title: "CV"
+    url: /cv/
