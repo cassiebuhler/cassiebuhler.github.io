@@ -19,6 +19,9 @@ The 30x30 initiative&mdash;preserving 30% of the earth's land and sea by 2030&md
 
 <a href="/files/ckbuhler_cv.pdf" target="_blank">Download CV</a>{: .btn--research}
 
+<a href="/files/ckbuhler_resume.pdf" target="_blank">Download Resume</a>{: .btn--research}
+
+
 Read more about my 
 
 - <a href="https://cassiebuhler.github.io/research/" target="_blank" rel="noopener noreferrer">Research</a>
