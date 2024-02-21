@@ -45,7 +45,11 @@ redirect_from:
 
 </style>
 
-I work at the intersection of optimization, machine learning, and conservation. My research uses mixed-integer and derivative-free optimization to tackle environmental problems, specifically for conservation and natural resource management decisions. 
+My research is at the boundary of optimization and machine learning, focusing on computational methods for mixed-integer and derivative-free optimization. I'm interested in using these tools to tackle environmental problems, specifically for conservation and natural resource management decisions. 
+
+
+
+The 30x30 initiative&mdash;preserving 30% of the earth's land and sea by 2030&mdash;is a particular interest of mine and I explore situations where optimization and machine learning responsibly support this goal. 
 
 
 ## Publications

@@ -11,11 +11,11 @@ redirect_from:
 
 I am a 5th-year Ph.D. candidate in the Decision Sciences & MIS Department at Drexel University. 
 
-My research is at the boundary of optimization and machine learning, focusing on computational methods for mixed-integer and derivative-free optimization. I'm interested in using these tools to tackle environmental problems, specifically for conservation and natural resource management decisions. 
+I work at the intersection of optimization, machine learning, and environmental conservation. My research uses mixed-integer and derivative-free optimization to tackle environmental problems, specifically for conservation decision-making.
 
-The 30x30 initiative&mdash;preserving 30% of the earth's land and sea by 2030&mdash;is a particular interest of mine and I explore situations where optimization and machine learning responsibly support this goal. 
 
-**I am currently on the job market.** I am especially interested in research positions at inclusive and diverse interdisciplinary labs. 
+**I am currently on the job market for a research position** (e.g. postdoctoral fellow, applied scientist, research scientist). I am particularly interested in roles which address environmental challenges using AI/ML and am **open to a broad range of areas** (e.g. climate science, agriculture, biodiversity conservation, energy, transportation, natural resources, etc.).
+
 
 <a href="/files/ckbuhler_cv.pdf" target="_blank">Download CV</a>{: .btn--research}
 
@@ -30,7 +30,9 @@ Read more about my
 
 
 ## Background 
-My background is in operations research where the bulk of my dissertation work was developing a quasi-Newton algorithm to solve large-scale nonlinear optimization problems more efficiently.  This algorithm is applicable to problems that require a fast solution when optimizing over big—and often messy—datasets (e.g. training neural networks). I am advised by Dr. Hande Benson. 
+My background is in operations research where the bulk of my dissertation work was developing a quasi-Newton algorithm to solve large-scale nonlinear optimization problems more efficiently.  This algorithm is applicable to problems that require a fast solution when optimizing over big—and often messy—datasets (e.g. training neural networks). 
+
+Midway through my PhD, I became more concerned with AI's impact on society. As such, I transitioned my work to align with "AI for Social Good". Most recently, my work has been accepted for publication at one of the top AI conferences, where I developed a novel optimization framework for spatial conservation planning.
 
 In addition to my Ph.D. studies, I will earn a graduate minor in Computational Data Science and am a member of the Drexel CS Theory Reading Group. Prior to this, I received a B.S. in Mathematics from the University of Utah where I studied mathematical models for treating prostate cancer with Dr. Fred Adler.
 
