@@ -67,6 +67,7 @@ Cassidy K. Buhler and Hande Y. Benson
 </div>
 
 <a href="https://arxiv.org/abs/2308.11549" target="_blank" rel="noopener noreferrer" class = "btn--research">Preprint</a> <a href="https://github.com/cassiebuhler/conservation-dfo" target="_blank"  rel="noopener noreferrer" class = "btn--research">Code</a> 
+<a href="/files/AAAI24_Poster.pdf" target="_blank"  rel="noopener noreferrer" class = "btn--research">Poster</a> 
 
 <div style="line-height: 85%;">
     <br>
