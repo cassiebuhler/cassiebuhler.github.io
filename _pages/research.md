@@ -66,14 +66,17 @@ Cassidy K. Buhler and Hande Y. Benson
     <br>
 </div>
 
-<a href="https://arxiv.org/abs/2308.11549" target="_blank" rel="noopener noreferrer" class = "btn--research">Preprint</a> <a href="https://github.com/cassiebuhler/conservation-dfo" target="_blank"  rel="noopener noreferrer" class = "btn--research">Code</a> 
+<a href="https://doi.org/10.1609/aaai.v38i20.30195" target="_blank" rel="noopener noreferrer" class = "btn--research">Article</a>
+<a href="https://arxiv.org/abs/2308.11549" target="_blank" rel="noopener noreferrer" class = "btn--research">Preprint</a>
+ <a href="https://github.com/cassiebuhler/conservation-dfo" target="_blank"  rel="noopener noreferrer" class = "btn--research">Code</a> 
 <a href="/files/AAAI24_Poster.pdf" target="_blank"  rel="noopener noreferrer" class = "btn--research">Poster</a> 
 
 <div style="line-height: 85%;">
     <br>
 </div>
 
-Buhler, C. K. & Benson, H. Y. (2024). Decision-Making for Land Conservation: A Derivative-Free Optimization Framework with Nonlinear inputs. To appear in <i>Proceedings of the 38th AAAI Conference on Artificial Intelligence</i>. Forthcoming. 
+Buhler, C. K., & Benson, H. Y. (2024). Decision-Making for Land Conservation: A Derivative-Free Optimization Framework with Nonlinear Inputs. <i>Proceedings of the AAAI Conference on Artificial Intelligence, 38</i>(20), 21932-21939. https://doi.org/10.1609/aaai.v38i20.30195
+
 
 </div>
 
@@ -96,7 +99,7 @@ Cassidy K. Buhler and Hande Y. Benson
     <br>
 </div>
 
-Buhler, C. K. & Benson, H. Y. (2023). Optimal Land Conservation Decisions for Multiple Species. In <i>Proceedings of the 52nd Northeast Decision Science Institute Annual Conference</i> (Vol. 52, pp. 808-816).
+Buhler, C. K., & Benson, H. Y. (2023). Optimal Land Conservation Decisions for Multiple Species. In <i>Proceedings of the 52nd Northeast Decision Science Institute Annual Conference</i> (Vol. 52, pp. 808-816).
 
 </div>
 
