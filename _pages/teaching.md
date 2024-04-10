@@ -48,7 +48,7 @@ My full teaching statement can be read <a href="/files/BuhlerTeachingStatement.p
 | Course | Level | Quarter |
 | ---- | --- | --- |
 | BSAN 360: Programming for Data Analytics | U | Sp2021 |
-| BSAN 601: Business Analytics for Managers | G (MBA) | Sp2024 |
+| BSAN 601: Business Analytics for Managers | G (MS & MBA) | Sp2024 |
 | MIS 612: Aligning Information Systems and Business Strategies | G (Executive MBA & MBA) | Fa2023 |
 | MIS 625: Management of Information Technology Operations | G (MBA) | Fa2023 |
 | OPM 200: Operations Management | U | Sp2020, Fa2021, Sp2023 |
