@@ -163,11 +163,30 @@ Cassidy K. Buhler, Hande Y. Benson, David F. Shanno
 
 
 ### Regularized Nonlinear Conjugate Gradient Methods for Machine Learning
+
 <div class="container">
   <div class="vertical"></div>
 
 Cassidy K. Buhler and Hande Y. Benson
 
+
+<div style="line-height: 85%;">
+    <br>
+</div>
+
+
+
+<a href="https://github.com/cassiebuhler/ConminCG" target="_blank" rel="noopener noreferrer" class = "btn--research">Code</a>
+
+<div style="line-height:85%;">
+    <br>
+</div>
+
+
+</div>
+
+
+<a href="https://github.com/cassiebuhler/ConminCG" target="_blank" rel="noopener noreferrer" class = "btn--research">Code</a>
 </div>
 
 ### Efficient Solution of Portfolio Optimization Problems via Dimension Reduction and Sparsification
