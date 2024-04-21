@@ -38,7 +38,7 @@
     padding: 0;
     clear: both;
     list-style-type: none;
-    font-size: $type-size-4;
+    font-size: $type-size-mast;
 
   }
 }
@@ -48,8 +48,19 @@
   list-style-type: none;
   white-space: nowrap;
 
+ a {
+    font-family: Cabin, sans-serif;
+  }
+
+}
+
+.masthead__title {
+  display: block;
+  list-style-type: none;
+  white-space: nowrap;
+
   &--lg {
-    padding-right: 2em;
+    padding-right: 3.3em;
     font-weight: 700;
   }
 }

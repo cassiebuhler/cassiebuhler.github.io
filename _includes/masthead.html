@@ -6,7 +6,9 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
+<img src="{{ "{{ base_path }}/images/logo.png" | relative_url }}" style = "padding-right: 13px; padding-top: 9px;" width = "56" height = "56"/> 
+          <li class="masthead__title masthead__title--lg">
+	{{ site.title }}</li>
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}

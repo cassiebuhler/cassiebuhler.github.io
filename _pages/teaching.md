@@ -5,45 +5,30 @@ author_profile: true
 redirect_from:
   - /teaching
 ---
-<style type='text/css'>
-  h1 {
-  }
-  h2 {
-font-weight:normal;
-    color: #609162;
-  }
-
-</style>
-
-I have taught and assisted dozens of classes in the LeBow College of Business at Drexel University. I have earned two awards for my teaching performance, along with student course evaluation scores above the college and department average. 
 
 
-I aim to demystify STEM topics (e.g. coding) by providing a safe environment to make mistakes and ask questions. My goal isn't to push students to become statisticians or data scientists. My goal is to provide students with more tools in their toolbox as they pursue their chosen careers.
+I have taught and assisted dozens of classes in the Decision Sciences & MIS Department at Drexel University, where I earned 2 teaching awards and course evaluation scores above college and department averages
 
-My full teaching statement can be read <a href="/files/BuhlerTeachingStatement.pdf" target="_blank" rel="noopener noreferrer"> here. </a> 
-
+I aim to demystify STEM topics (e.g. coding) by providing a safe environment to make mistakes and ask questions. My goal isn't to push students to become statisticians or data scientists. My goal is to provide students with more tools in their toolbox as they pursue their chosen careers. 
 
 
 ## Instructor
-*Responsible for all lectures, course materials, and grading.*
-- **BSAN 360: Programming for Data Analytics**
+- BSAN 360: Programming for Data Analytics
 	- Teaching evaluations from <a href="/files/BSAN-360_Winter2022.pdf" target="_blank" rel="noopener noreferrer">Winter 2022</a>.
 	- Language: R
 
 
-- **Ph.D. Programming Bootcamp**
+- Ph.D. Programming Bootcamp
 	- Workshop for incoming Ph.D. students during Summer 2021 and Summer 2022
 	- Language: Python 
 
-- **MIS 200: Management Information Systems (Recitation Section)**
-
+- MIS 200: Management Information Systems (Recitation Section)
 	- Teaching evaluations from <a href="/files/MIS-200_Fall2019.pdf" target="_blank" rel="noopener noreferrer">Fall 2019</a>,  <a href="/files/MIS-200_Fall2020.pdf" target="_blank" rel="noopener noreferrer">Fall 2020</a>, and <a href="/files/MIS-200_Winter2021.pdf" target="_blank" rel="noopener noreferrer">Winter 2021</a>. 
 	-  Tools: Excel, Microsoft Access, and HTML
 	
 
 
 ## Teaching Assistant
-*Assists primary instructor with duties such as holding office hours, preparing assignments, and grading.*
 
 | Course | Level | Quarter |
 | ---- | --- | --- |

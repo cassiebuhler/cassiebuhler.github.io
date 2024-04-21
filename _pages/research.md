@@ -8,7 +8,6 @@ redirect_from:
 ---
 <style type='text/css'>
   	h2 {
-    	color: #609162;
 	margin-bottom: -1em;
   	}
 
@@ -46,11 +45,14 @@ redirect_from:
 
 </style>
 
-My research is at the boundary of optimization and machine learning, focusing on computational methods for mixed-integer and derivative-free optimization. I'm interested in using these tools to tackle environmental problems, specifically for conservation and natural resource management decisions. 
 
 
+My research focuses on computational methods for mixed-integer nonlinear programming and derivative-free optimization, where I explore their applications in machine learning, spatial planning, and conservation decision-making.
 
-The 30x30 initiative&mdash;preserving 30% of the earth's land and sea by 2030&mdash;is a particular interest of mine and I explore situations where optimization and machine learning responsibly support this goal. 
+
+The 30x30 initiative&mdash;preserving 30% of the earth's lands and waters by 2030&mdash;is a particular interest of mine and I explore situations where optimization and machine learning responsibly support this goal. 
+
+
 
 
 ## Publications
@@ -179,16 +181,8 @@ Cassidy K. Buhler and Hande Y. Benson
 
 <a href="https://github.com/cassiebuhler/ConminCG" target="_blank" rel="noopener noreferrer" class = "btn--research">Code</a>
 
-<div style="line-height:85%;">
-    <br>
 </div>
 
-
-</div>
-
-
-<a href="https://github.com/cassiebuhler/ConminCG" target="_blank" rel="noopener noreferrer" class = "btn--research">Code</a>
-</div>
 
 ### Efficient Solution of Portfolio Optimization Problems via Dimension Reduction and Sparsification
 
