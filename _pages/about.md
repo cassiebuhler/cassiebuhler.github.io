@@ -24,10 +24,3 @@ Midway through my Ph.D., I became more concerned with AI’s impact on society. 
 <a href="/files/ckbuhler_cv.pdf" target="_blank">CV</a>{: .btn--research}
 <a href="/files/ckbuhler_resume.pdf" target="_blank">Resume</a>{: .btn--research}
 
-
-Read more about my 
-
-- <a href="https://cassiebuhler.github.io/research/" target="_blank" rel="noopener noreferrer">Research</a>
-- <a href="https://cassiebuhler.github.io/teaching/" target="_blank" rel="noopener noreferrer">Teaching</a>
-- <a href="https://cassiebuhler.github.io/software/" target="_blank" rel="noopener noreferrer">Software</a>
-

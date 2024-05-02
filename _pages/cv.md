@@ -1,18 +1,12 @@
 ---
-title: Curriculum Vitae & Resume
+title: "Curriculum Vitae & Resume"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
+<meta name="robots" content="noindex">
 
-{% include base_path %}
+<p>Click below to view my CV/resume as a PDF in a new tab.</p>
 
-
-
-
-
-<p id = "message">Click below to view my CV/resume as a PDF in a new tab.</p>
 
 <a id = "button" href="/files/ckbuhler_cv.pdf" target="_blank">CV</a>{: .btn--research}
 <a id = "button" href="/files/ckbuhler_resume.pdf" target="_blank">Resume</a>{: .btn--research}
