@@ -4,6 +4,8 @@ permalink: /software/
 author_profile: true
 redirect_from:
   - /software
+noindex: true
+
 ---
 <style type='text/css'>
 

@@ -2,6 +2,8 @@
 title: "Curriculum Vitae & Resume"
 permalink: /cv/
 author_profile: true
+noindex: true
+
 ---
 <meta name="robots" content="noindex">
 
