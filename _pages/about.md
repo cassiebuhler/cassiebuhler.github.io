@@ -14,9 +14,6 @@ Midway through my Ph.D., I became more concerned with AI’s impact on society. 
 
 
 
-**I am currently on the job market** for a research position as a postdoctoral fellow or data scientist. I am particularly interested in roles at the intersection of AI/ML and environmental science. 
-
-
 <a href="/files/ckbuhler_cv.pdf" target="_blank">CV</a>{: .btn--research}
 <a href="/files/ckbuhler_resume.pdf" target="_blank">Resume</a>{: .btn--research}
 
