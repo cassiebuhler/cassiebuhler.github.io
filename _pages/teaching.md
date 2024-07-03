@@ -8,9 +8,12 @@ noindex: true
 ---
 
 
-I have taught and assisted dozens of classes in the Decision Sciences & MIS Department at Drexel University, where I earned 2 teaching awards and course evaluation scores above college and department averages
+I have taught and assisted dozens of classes in the Decision Sciences & MIS Department at Drexel University.
 
-I aim to demystify STEM topics (e.g. coding) by providing a safe environment to make mistakes and ask questions. My goal isn't to push students to become statisticians or data scientists. My goal is to provide students with more tools in their toolbox as they pursue their chosen careers. 
+I aim to demystify STEM topics (e.g. coding) by providing a safe environment to make mistakes and ask questions. My goal isn't to push students to become statisticians or data scientists. Rather, I strive to equip students with more tools to navigate their careers in our data-abundant world.
+
+
+
 
 
 ## Instructor
