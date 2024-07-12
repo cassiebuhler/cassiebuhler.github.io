@@ -15,5 +15,4 @@ Midway through my Ph.D., I became more concerned with AI’s impact on society. 
 
 
 <a href="/files/ckbuhler_cv.pdf" target="_blank">CV</a>{: .btn--research}
-<a href="/files/ckbuhler_resume.pdf" target="_blank">Resume</a>{: .btn--research}
 
