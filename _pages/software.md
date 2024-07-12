@@ -68,7 +68,7 @@ An optimization algorithm with memoryless and matrix-free properties that solves
 <div style="line-height: 85%;">
     <br>
 </div>
- <a href="https://github.com/cassiebuhler/cassiebuhler/ConminCG" target="_blank"  rel="noopener noreferrer" class = "btn--research">Github</a> 
+ <a href="https://github.com/cassiebuhler/ConminCG" target="_blank"  rel="noopener noreferrer" class = "btn--research">Github</a> 
 
 
 </div>
