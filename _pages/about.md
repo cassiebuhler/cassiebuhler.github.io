@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. candidate interested in utilizing machine learning and optimization to tackle challenges in conservation and natural resource management decisions. 
+I'm interested in utilizing machine learning and optimization to tackle challenges in conservation and natural resource management decisions. 
 
 My background is in mathematics and operations research where my earlier dissertation work focused on developing algorithms to solve large-scale nonlinear optimization problems more efficiently.
 Midway through my Ph.D., I became more concerned with AI’s impact on society. As such, I transitioned my research to align with environmental applications and began developing computational tools to aid conservation decision-makers. 
