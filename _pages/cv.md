@@ -11,4 +11,3 @@ noindex: true
 
 
 <a id = "button" href="/files/ckbuhler_cv.pdf" target="_blank">CV</a>{: .btn--research}
-<a id = "button" href="/files/ckbuhler_resume.pdf" target="_blank">Resume</a>{: .btn--research}
