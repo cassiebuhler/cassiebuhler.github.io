@@ -48,14 +48,6 @@ noindex: true
 
 
 
-My research focuses on computational methods for mixed-integer nonlinear programming and derivative-free optimization, where I explore their applications in machine learning, spatial planning, and conservation decision-making.
-
-
-The 30x30 initiative&mdash;preserving 30% of the earth's lands and waters by 2030&mdash;is a particular interest of mine and I explore situations where optimization and machine learning responsibly support this goal. 
-
-
-
-
 ## Publications
 
 
