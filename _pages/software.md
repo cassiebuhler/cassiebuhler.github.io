@@ -69,6 +69,7 @@ An optimization algorithm with memoryless and matrix-free properties that solves
     <br>
 </div>
  <a href="https://github.com/cassiebuhler/ConminCG" target="_blank"  rel="noopener noreferrer" class = "btn--research">Github</a> 
+<a href="https://zenodo.org/doi/10.5281/zenodo.13315591"><img src="https://zenodo.org/badge/468032697.svg" alt="DOI"></a>
 
 
 </div>
