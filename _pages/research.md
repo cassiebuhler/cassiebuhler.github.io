@@ -50,6 +50,31 @@ noindex: true
 
 ## Publications
 
+### Regularized Step Directions in Nonlinear Conjugate Gradient Methods
+
+<div class="container">
+  <div class="vertical"></div>
+
+Cassidy K. Buhler, Hande Y. Benson, David F. Shanno
+
+
+<div style="line-height: 85%;">
+    <br>
+</div>
+
+
+
+<a href="https://arxiv.org/abs/2110.06308" target="_blank" rel="noopener noreferrer" class = "btn--research">Preprint</a>
+<a href="https://github.com/cassiebuhler/ConminCG/tree/c-implementation" target="_blank" rel="noopener noreferrer" class = "btn--research">Code</a>
+
+<div style="line-height:85%;">
+    <br>
+</div>
+
+<i>To appear in Mathematical Programming Computation</i>
+
+</div>
+
 
 ### Decision-Making for Land Conservation: A Derivative-Free Optimization Framework with Nonlinear Inputs 
 
@@ -129,31 +154,6 @@ Cassidy K. Buhler, Rebecca S. Terry, Kathryn G. Link, Frederick R. Adler. Do mec
 
 
 ## Working Papers
-
-### Regularized Step Directions in Nonlinear Conjugate Gradient Methods
-
-<div class="container">
-  <div class="vertical"></div>
-
-Cassidy K. Buhler, Hande Y. Benson, David F. Shanno
-
-
-<div style="line-height: 85%;">
-    <br>
-</div>
-
-
-
-<a href="https://arxiv.org/abs/2110.06308" target="_blank" rel="noopener noreferrer" class = "btn--research">Preprint</a>
-<a href="https://github.com/cassiebuhler/ConminCG" target="_blank" rel="noopener noreferrer" class = "btn--research">Code</a>
-
-<div style="line-height:85%;">
-    <br>
-</div>
-
-<i>Under 2nd round of review at Mathematical Programming Computation</i>
-
-</div>
 
 
 
