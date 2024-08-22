@@ -44,6 +44,8 @@ noindex: true
 	}
 
 
+
+
 </style>
 
 
@@ -73,6 +75,10 @@ Cassidy K. Buhler, Hande Y. Benson, David F. Shanno
 
 <i>To appear in Mathematical Programming Computation</i>
 
+<div class="tags">
+    <span class="tag">Nonlinear Optimization</span>
+    <span class="tag">Operations Research</span>
+</div>
 </div>
 
 
@@ -94,11 +100,18 @@ Cassidy K. Buhler and Hande Y. Benson
 
 <div style="line-height: 85%;">
     <br>
+
+
 </div>
 
 Buhler, C. K., & Benson, H. Y. (2024). Decision-Making for Land Conservation: A Derivative-Free Optimization Framework with Nonlinear Inputs. <i>Proceedings of the AAAI Conference on Artificial Intelligence, 38</i>(20), 21932-21939. https://doi.org/10.1609/aaai.v38i20.30195
 
+<div class="tags">
+    <span class="tag">Biodiversity Conservation</span>
+    <span class="tag">Mixed-Integer Nonlinear Programming</span>
+    <span class="tag">Operations Research</span>
 
+</div>
 </div>
 
 ### Optimal Land Conservation Decisions for Multiple Species
@@ -118,10 +131,17 @@ Cassidy K. Buhler and Hande Y. Benson
 
 <div style="line-height: 85%;">
     <br>
+
 </div>
 
 Buhler, C. K., & Benson, H. Y. (2023). Optimal Land Conservation Decisions for Multiple Species. In <i>Proceedings of the 52nd Northeast Decision Science Institute Annual Conference</i> (Vol. 52, pp. 808-816).
 
+
+<div class="tags">
+    <span class="tag">Biodiversity Conservation</span>
+    <span class="tag">Integer Linear Programming</span>
+    <span class="tag">Operations Research</span>
+</div>
 </div>
 
 ### Do Mechanisms Matter? Comparing Cancer Treatment Strategies Across Mathematical Models and Outcome Objectives
@@ -138,10 +158,16 @@ Cassidy K. Buhler, Rebecca S. Terry, Kathryn G. Link, Frederick R. Adler.
 
 <div style="line-height:85%;">
     <br>
+
+
 </div>
 
 Cassidy K. Buhler, Rebecca S. Terry, Kathryn G. Link, Frederick R. Adler. Do mechanisms matter? Comparing cancer treatment strategies across mathematical models and outcome objectives[J]. <i>Mathematical Biosciences and Engineering</i>, 2021, 18(5): 6305-6327. doi: 10.3934/mbe.2021315
 
+<div class="tags">
+    <span class="tag">Mathematical Modeling</span>
+    <span class="tag">Math Biology</span>
+</div>
 </div>
 
 <div style="line-height:150%;">
@@ -168,12 +194,22 @@ Cassidy K. Buhler and Hande Y. Benson
 
 <div style="line-height: 85%;">
     <br>
+
 </div>
 
 
 
 <a href="https://github.com/cassiebuhler/ConminCG" target="_blank" rel="noopener noreferrer" class = "btn--research">Code</a>
 
+<div style="line-height: 85%;">
+    <br>
+</div>
+
+<div class="tags">
+    <span class="tag">Nonlinear Optimization</span>
+    <span class="tag">Machine Learning</span>
+    <span class="tag">Operations Research</span>
+</div>
 </div>
 
 
@@ -186,11 +222,22 @@ Cassidy K. Buhler and Hande Y. Benson
 
 <div style="line-height: 85%;">
     <br>
+
 </div>
 
 <a href="https://arxiv.org/abs/2306.12639" target="_blank"  rel="noopener noreferrer" class = "btn--research">Working Paper</a>
 <a href="https://github.com/cassiebuhler/PODS" target="_blank"  rel="noopener noreferrer" class = "btn--research">Code</a>
 
+
+<div style="line-height: 85%;">
+    <br>
+</div>
+
+<div class="tags">
+    <span class="tag">Nonlinear Optimization</span>
+    <span class="tag">Machine Learning</span>
+    <span class="tag">Operations Research</span>
+</div>
 </div>
 
 

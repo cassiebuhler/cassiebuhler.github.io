@@ -1,0 +1,32 @@
+/* ==========================================================================
+   TAGS
+   ========================================================================== */
+
+/*
+   Default tag
+   ========================================================================== */
+
+.tags {
+    margin-top: 10px;
+}
+
+/* Tag Styles */
+.tag-label {
+    margin-right: 5px;
+    font-weight: regular;
+}
+
+.tags-section {
+    margin-top: 20px;
+}
+
+.tag {
+    font-family: $sans-serif !important;
+    display: inline-block;
+    background-color: mix(#fff, $link-color, 80%) !important;
+    color: #333;
+    border-radius: 15px; /* Pill shape */
+    padding: 5px 10px;
+    margin-right: 5px;
+    font-size: 0.7em;
+}
