@@ -48,9 +48,13 @@ noindex: true
 
 </style>
 
+I'm an interdisciplinary researcher interested in utilizing AI and optimization to tackle challenges in biodiversity conservation. 
 
+
+During my PhD, my earlier dissertation work centered on developing nonlinear optimization algorithms to solve large-scale problems more efficiently. After a few years, I became more concerned with AI’s impact on society. Through my quarter-life crisis, I discovered the environmental data science field! As such, I transitioned my work to align with environmental applications and focused on developing open science tools and optimization software to aid biodiversity conservation decision-makers.
 
 ## Publications
+
 
 ### Regularized Step Directions in Nonlinear Conjugate Gradient Methods
 
