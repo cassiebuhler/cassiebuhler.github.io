@@ -48,10 +48,12 @@ noindex: true
 
 </style>
 
-I'm an interdisciplinary researcher interested in utilizing AI and optimization to tackle challenges in biodiversity conservation. 
+
+My earlier research concentrated on nonlinear optimization where I developed algorithms to solve large-scale optimization problems more efficiently. This work is ideal for problems requiring a fast solution when optimizing over big datasets (e.g. training neural networks), as our method requires less storage and is computationally cheap. 
+
+Midway through my PhD, I became more concerned with AI’s impact on society. As such, I shifted focus to align my work with environmental applications and began developing optimization frameworks to aid conservation decision-makers. In particular, my work targets the 30x30 initiative (preserving 30% of the Earth’s lands and waters by 2030) by leveraging computational methods to support spatial planning and decision-making. 
 
 
-During my PhD, my earlier dissertation work centered on developing nonlinear optimization algorithms to solve large-scale problems more efficiently. After a few years, I became more concerned with AI’s impact on society. Through my quarter-life crisis, I discovered the environmental data science field! As such, I transitioned my work to align with environmental applications and focused on developing open science tools and optimization software to aid biodiversity conservation decision-makers.
 
 ## Publications
 
