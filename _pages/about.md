@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I'm an incoming postdoctoral associate at CU Boulder in the Environmental Data Science Innovation & Inclusion Lab (<a href="https://esiil.org/" target="_blank">ESIIL</a>). Prior to this, I completed my PhD at Drexel University where I studied operations research and computational data science. 
+I'm a postdoctoral associate at CU Boulder in the Environmental Data Science Innovation & Inclusion Lab (<a href="https://esiil.org/" target="_blank">ESIIL</a>). Prior to this, I completed my PhD at Drexel University where I studied operations research and computational data science. 
 
 
 My research utilizes AI and optimization to tackle challenges in biodiversity conservation. In particular, my work targets 30x30 (preserving 30% of the Earth’s lands and waters by 2030) by leveraging computational methods to support spatial planning and decision-making. During my postdoc, I will develop open science decision tools that address environmental goals while also prioritizing the needs and rights of those affected by these decisions.
