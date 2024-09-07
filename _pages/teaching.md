@@ -30,7 +30,7 @@ I aim to demystify STEM topics (e.g. coding) by providing a safe environment to 
 
 ## Teaching Assistant
 
-| Course | Level | Quarter(s) | Tool(s) Used |
+| Course | Level | Quarter(s) | Tool Used |
 | ---- | --- | --- | --- |
 | BSAN 360: Programming for Data Analytics | U | Sp2021 | R |
 | BSAN 601: Business Analytics for Managers | G (MS & MBA) | Sp2024 | Excel |
