@@ -39,6 +39,8 @@ noindex: true
   </p>
   <p style="line-height: 85%;">
     <a href="https://github.com/cassiebuhler/conservation-dfo" target="_blank" rel="noopener noreferrer" class="btn--research">Github</a>
+<a href="https://zenodo.org/doi/10.5281/zenodo.13742960"><img src="https://zenodo.org/badge/663126349.svg" alt="DOI">
+</a>
   </p>
 </div>
 
