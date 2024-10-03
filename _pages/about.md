@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I'm a postdoctoral associate at CU Boulder in the Environmental Data Science Innovation & Inclusion Lab (<a href="https://esiil.org/" target="_blank">ESIIL</a>). I hold a PhD from Drexel University where I studied operations research and computational data science. Prior to this, I earned a BS in mathematics from the University of Utah. 
+I'm a postdoctoral fellow at CU Boulder in the Environmental Data Science Innovation & Inclusion Lab (<a href="https://esiil.org/" target="_blank">ESIIL</a>). I hold a PhD from Drexel University where I studied operations research and computational data science. Prior to this, I earned a BS in mathematics from the University of Utah. 
 
 
 
