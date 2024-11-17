@@ -59,12 +59,17 @@ Midway through my PhD, I became more concerned with AI’s impact on society. As
     <a href="https://arxiv.org/abs/2110.06308" target="_blank" rel="noopener noreferrer" class="btn--research">Preprint</a>
     <a href="https://github.com/cassiebuhler/ConminCG/tree/c-implementation" target="_blank" rel="noopener noreferrer" class="btn--research">Code</a>
   </p>
-  <p>Buhler, C.K., Benson, H.Y. & Shanno, D.F. Regularized step directions in nonlinear conjugate gradient methods. <i>Mathematical Programming Computation.</I> (2024). https://doi.org/10.1007/s12532-024-00265-9</p>
+  <p>Buhler, C.K., Benson, H.Y. & Shanno, D.F. Regularized step directions in nonlinear conjugate gradient methods. <i>Mathematical Programming Computation.</I> 16, 629–664 (2024). https://doi.org/10.1007/s12532-024-00265-9</p>
   <div class="tags">
     <span class="tag">Nonlinear Optimization</span>
     <span class="tag">Operations Research</span>
   </div>
 </div>
+
+
+
+
+
 
 ### Decision-Making for Land Conservation: A Derivative-Free Optimization Framework with Nonlinear Inputs
 
@@ -77,7 +82,7 @@ Midway through my PhD, I became more concerned with AI’s impact on society. As
     <a href="https://github.com/cassiebuhler/conservation-dfo" target="_blank" rel="noopener noreferrer" class="btn--research">Code</a>
     <a href="/files/AAAI24_Poster.pdf" target="_blank" rel="noopener noreferrer" class="btn--research">Poster</a>
   </p>
-  <p>Buhler, C. K., & Benson, H. Y. (2024). Decision-Making for Land Conservation: A Derivative-Free Optimization Framework with Nonlinear Inputs. <i>Proceedings of the AAAI Conference on Artificial Intelligence, 38</i>(20), 21932-21939. https://doi.org/10.1609/aaai.v38i20.30195</p>
+  <p>Buhler, C. K. & Benson, H. Y. (2024). Decision-Making for Land Conservation: A Derivative-Free Optimization Framework with Nonlinear Inputs. <i>Proceedings of the AAAI Conference on Artificial Intelligence, 38</i>(20), 21932-21939. https://doi.org/10.1609/aaai.v38i20.30195</p>
   <div class="tags">
     <span class="tag">Biodiversity Conservation</span>
     <span class="tag">Mixed-Integer Nonlinear Programming</span>
