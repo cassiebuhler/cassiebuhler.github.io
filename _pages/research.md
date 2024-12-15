@@ -56,12 +56,13 @@ Midway through my PhD, I became more concerned with AI’s impact on society. As
   <p>Cassidy K. Buhler and Carl Boettiger</p>
   <p>
 <a href="/files/AGU24_poster_web_accessible.pdf" target="_blank" rel="noopener noreferrer" class="btn--research">Poster</a>
+    <a href="https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1639129" target="_blank" rel="noopener noreferrer" class="btn--research">Abstract</a>
 <a href="https://huggingface.co/spaces/boettiger-lab/ca-30x30" target="_blank" rel="noopener noreferrer" class="btn--research">Tool</a>
 <a href="https://huggingface.co/spaces/boettiger-lab/ca-30x30/tree/main" target="_blank" rel="noopener noreferrer" class="btn--research">Code</a>
   </p>
   <div class="tags">
     <span class="tag">Biodiversity Conservation</span>
-    <span class="tag">AI</span>
+    <span class="tag">Artifical Intelligence</span>
   </div>
 </div>
 
