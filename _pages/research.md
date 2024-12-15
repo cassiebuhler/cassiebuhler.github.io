@@ -47,7 +47,24 @@ My earlier research concentrated on nonlinear optimization, where I developed me
 
 Midway through my PhD, I became more concerned with AI’s impact on society. As such, I shifted focus to align my work with environmental applications and began developing optimization frameworks to aid conservationists. In particular, my work leverages computational methods to support spatial planning and decision-making for biodiversity conservation.
 
-## Publications
+## Projects & Publications
+
+### Exploring Innovation in Biodiversity Conservation Decision-Making Through Open Science and Generative AI
+
+<div class="container">
+  <div class="vertical"></div>
+  <p>Cassidy K. Buhler and Carl Boettiger</p>
+  <p>
+<a href="/files/AGU24_poster_web_accessible.pdf" target="_blank" rel="noopener noreferrer" class="btn--research">Poster</a>
+<a href="https://huggingface.co/spaces/boettiger-lab/ca-30x30" target="_blank" rel="noopener noreferrer" class="btn--research">Tool</a>
+<a href="https://huggingface.co/spaces/boettiger-lab/ca-30x30/tree/main" target="_blank" rel="noopener noreferrer" class="btn--research">Code</a>
+  </p>
+  <div class="tags">
+    <span class="tag">Biodiversity Conservation</span>
+    <span class="tag">AI</span>
+  </div>
+</div>
+
 
 ### Regularized Step Directions in Nonlinear Conjugate Gradient Methods
 
