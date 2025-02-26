@@ -9,7 +9,10 @@ noindex: true
 
 <style type='text/css'>
   h2 {
+    font-size: 24px;
     margin-bottom: -1em;
+    font-weight: bold;
+
   }
 
   h3 {
@@ -27,7 +30,10 @@ noindex: true
     margin-left: 2em;
     margin-top: 15px;
   }
-
+  h2:nth-of-type(2),
+  h2:nth-of-type(3) {
+    margin-top: 3em;
+}
   .vertical {
     border-left: 5px solid #609162;
     height: 100%;
@@ -45,9 +51,11 @@ noindex: true
 
 My earlier research concentrated on nonlinear optimization, where I developed methods to efficiently solve large-scale optimization problems and explored the intersection of optimization and machine learning.
 
-Midway through my PhD, I became more concerned with AI’s impact on society. As such, I shifted focus to align my work with environmental applications and began developing optimization frameworks to aid conservationists. In particular, my work leverages computational methods to support spatial planning and decision-making for biodiversity conservation.
+Midway through my PhD, I became more concerned with AI’s impact on society. As such, I shifted focus to align my work with environmental applications and began developing optimization frameworks to aid conservationists. In particular, my work leverages computational methods (AI, optimization, etc) to support planning and decision-making for biodiversity conservation.
 
-## Projects & Publications
+
+
+## Current Projects 
 
 ### Exploring Innovation in Biodiversity Conservation Decision-Making Through Open Science and Generative AI
 
@@ -62,9 +70,42 @@ Midway through my PhD, I became more concerned with AI’s impact on society. As
   </p>
   <div class="tags">
     <span class="tag">Biodiversity Conservation</span>
-    <span class="tag">Artifical Intelligence</span>
+    <span class="tag">LLMs</span>
   </div>
 </div>
+
+### Maka Sitomniya: Preserving Mother Earth by Asserting Lakota Sovereignty in Earth Data Science (ESIIL Working Group #16)
+
+<div class="container">
+  <div class="vertical"></div>
+  <p>
+<a href="https://cu-esiil.github.io/Maka-Sitomniya/" target="_blank" rel="noopener noreferrer" class="btn--research">Website</a>
+  </p>
+  <div class="tags">
+    <span class="tag">Tribal Engagement</span>
+    <span class="tag">Environmental Data Science</span>
+    <span class="tag">Climate Resilience</span>
+
+  </div>
+</div>
+
+### California Biodiversity Network: 30x30 Biodiversity Assessment (Working Group) 
+
+<div class="container">
+  <div class="vertical"></div>
+  <p>
+<a href="https://cabiodiversitynetwork.org/30x30-partnership/" target="_blank" rel="noopener noreferrer" class="btn--research">Website</a>
+  </p>
+  <div class="tags">
+    <span class="tag">Biodiversity Conservation</span>
+    <span class="tag">Environmental Data Science</span>
+    <span class="tag">Climate Resilience</span>
+
+  </div>
+</div>
+
+
+## Publications
 
 
 ### Regularized Step Directions in Nonlinear Conjugate Gradient Methods
@@ -104,6 +145,7 @@ Midway through my PhD, I became more concerned with AI’s impact on society. As
   <div class="tags">
     <span class="tag">Biodiversity Conservation</span>
     <span class="tag">Mixed-Integer Nonlinear Programming</span>
+    <span class="tag">AI</span>
     <span class="tag">Operations Research</span>
   </div>
 </div>
@@ -142,7 +184,7 @@ Midway through my PhD, I became more concerned with AI’s impact on society. As
 </div>
 
 
-## Preprints
+## Preprints/Misc
 
 
 ### Efficient Solution of Portfolio Optimization Problems via Dimension Reduction and Sparsification
@@ -161,8 +203,6 @@ Midway through my PhD, I became more concerned with AI’s impact on society. As
   </div>
 </div>
 
-
-## Working Papers
 
 ### Regularized Nonlinear Conjugate Gradient Methods for Machine Learning
 

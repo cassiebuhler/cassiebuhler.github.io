@@ -30,6 +30,24 @@ noindex: true
   }
 </style>
 
+
+### CA 30x30 Planning & Assessment Prototype
+
+<div class="container">
+  <div class="vertical"></div>
+  <p>
+Proof of concept for a decision support tool developed in partnership with California Biodiversity Network participants through a co-design process. The tool can answer complex, real world natural language queries asked by conservation partner organizations, responding with reproducible, verifiable data summaries, charts, maps and text through careful integration of open weights language models and cloud optimized data.
+  </p>
+  <p style="line-height: 85%;">
+    <a href="https://huggingface.co/spaces/boettiger-lab/ca-30x30" target="_blank" rel="noopener noreferrer" class="btn--research">Hugging Face</a>
+    <a href="https://github.com/boettiger-lab/ca-30x30" target="_blank" rel="noopener noreferrer" class="btn--research">Github</a>
+<a href="https://doi.org/10.5281/zenodo.14933818"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.14933818.svg" alt="DOI"></a>
+  </p>
+</div>
+
+<br>
+
+
 ### Decision-Making for Land Conservation: A Derivative-Free Optimization Framework
 
 <div class="container">
