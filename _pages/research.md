@@ -70,6 +70,7 @@ Midway through my PhD, I became more concerned with AI’s impact on society. As
   </p>
   <div class="tags">
     <span class="tag">Biodiversity Conservation</span>
+    <span class="tag">Open Science</span>
     <span class="tag">LLMs</span>
   </div>
 </div>
@@ -99,11 +100,24 @@ Midway through my PhD, I became more concerned with AI’s impact on society. As
   <div class="tags">
     <span class="tag">Biodiversity Conservation</span>
     <span class="tag">Environmental Data Science</span>
-    <span class="tag">Climate Resilience</span>
-
+    <span class="tag">Conservation Policy</span>
   </div>
 </div>
 
+### Leveraging NASA Data to Guide Biodiversity Conservation Investments with the Trust for Public Land
+
+<div class="container">
+  <div class="vertical"></div>
+  <p>
+<a href="/files/BDEC2025_poster.pdf" target="_blank" rel="noopener noreferrer" class="btn--research">Poster</a>
+<a href="https://huggingface.co/spaces/boettiger-lab/tpl" target="_blank" rel="noopener noreferrer" class="btn--research">Tool</a>
+  </p>
+  <div class="tags">
+    <span class="tag">Biodiversity Conservation</span>
+    <span class="tag">LLMs</span>
+    <span class="tag">Conservation Ballot Measures</span>
+  </div>
+</div>
 
 ## Publications
 
