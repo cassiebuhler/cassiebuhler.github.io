@@ -30,6 +30,20 @@ noindex: true
   }
 </style>
 
+### CA 30x30 Planning & Assessment Tool (California Biodiversity Network Edition)
+
+<div class="container">
+  <div class="vertical"></div>
+  <p>
+A decision-support tool developed in collaboration with the California Biodiversity Network to align with the CA 30x30 Biodiversity Assessment. The tool can answer complex, real world natural language queries asked by conservation partner organizations, responding with reproducible, verifiable data summaries, charts, maps and text through careful integration of open weights language models and cloud optimized ecological and socio-environmental data. With this tool, you can explore habitats and features that support biodiversity within California’s 30x30 conservation areas, other conservation areas, and non-conserved lands. This tool provides insight into what is conserved, what is lacking protection, and opportunities to fill these gaps.
+  </p>
+  <p style="line-height: 85%;">
+    <a href="https://huggingface.co/spaces/boettiger-lab/ca-30x30-cbn" target="_blank" rel="noopener noreferrer" class="btn--research">Hugging Face</a>
+    <a href="https://github.com/boettiger-lab/cbn-taskforce" target="_blank" rel="noopener noreferrer" class="btn--research">Github</a>
+<a href="https://doi.org/10.5281/zenodo.16809867"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.16809867.svg" alt="DOI"></a>
+  </p>
+</div>
+<br>
 
 ### CA 30x30 Planning & Assessment Prototype
 
@@ -44,9 +58,7 @@ Proof of concept for a decision support tool developed in partnership with Calif
 <a href="https://doi.org/10.5281/zenodo.14933818"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.14933818.svg" alt="DOI"></a>
   </p>
 </div>
-
 <br>
-
 
 ### Decision-Making for Land Conservation: A Derivative-Free Optimization Framework
 
