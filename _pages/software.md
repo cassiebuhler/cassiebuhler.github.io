@@ -39,8 +39,7 @@ noindex: true
   <p style="line-height: 85%;">
     <a href="https://huggingface.co/spaces/boettiger-lab/ca-30x30-cbn" target="_blank" rel="noopener noreferrer" class="btn--research">Hugging Face</a>
     <a href="https://github.com/boettiger-lab/cbn-taskforce" target="_blank" rel="noopener noreferrer" class="btn--research">Github</a>
-    <a href="https://doi.org/10.5281/zenodo.16809867">
-      <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.16809867.svg" alt="DOI">
+    <a href="https://doi.org/10.5281/zenodo.16988638"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.16988638.svg" alt="DOI"></a>
     </a>
   </p>
 </div>
