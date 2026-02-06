@@ -50,12 +50,27 @@ noindex: true
 <div class="container">
   <div class="vertical"></div>
   <p>
-An interactive conservation decision-support tool that integrates protected areas, conservation finance, climate, biodiversity, and social vulnerability data into a unified exploratory interface. The application combines geospatial visualization with a natural-language chatbot that generates SQL queries over H3-indexed spatial datasets, enabling real-time spatial joins across conservation investments, ballot measures, irrecoverable carbon, species richness, legislative districts, and environmental justice indicators to support rapid analysis of conservation patterns, gaps, and opportunities. Users can explore protected lands, funding flows, and socio-ecological priorities while dynamically intersecting datasets at multiple scales through on-the-fly H3 indexing and model-generated queries. The tool draws on public datasets including Trust for Public Land's Conservation Almanac and LandVote, the U.S. Climate and Economic Justice Screening Tool (Justice40), and the CDC Social Vulnerability Index, supporting multiple open-weights language models for reproducible, extensible conservation analytics and decision support.
+Conservation decision-support tool that integrates protected areas, conservation finance, climate, biodiversity, and social vulnerability data into a unified exploratory interface. The application combines geospatial visualization with a natural-language chatbot that generates SQL queries over H3-indexed spatial datasets, enabling real-time spatial joins across conservation investments, ballot measures, irrecoverable carbon, species richness, legislative districts, and environmental justice indicators. The tool draws on public datasets including Trust for Public Land's Conservation Almanac and LandVote, the U.S. Climate and Economic Justice Screening Tool (Justice40), and the CDC Social Vulnerability Index, supporting multiple open-weights language models for reproducible, extensible conservation analytics and decision support.
   </p>
   <p style="line-height: 85%;">
     <a href="https://huggingface.co/spaces/boettiger-lab/tpl" target="_blank" rel="noopener noreferrer" class="btn--research">Hugging Face</a>
     <a href="https://github.com/boettiger-lab/tpl" target="_blank" rel="noopener noreferrer" class="btn--research">Github</a>
     <a href="https://doi.org/10.5281/zenodo.18500622"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.18500623.svg" alt="DOI">
+    </a>
+  </p>
+</div>
+<br>
+
+### LandVote LLM Decision-Support Prototype
+<div class="container">
+  <div class="vertical"></div>
+  <p>
+An interactive decision-support and exploratory analysis tool for U.S. land conservation ballot measures, integrating the Trust for Public Land LandVote database with election, social vulnerability, and environmental datasets. The application combines a lightweight web interface with a open-weights language models to enable natural-language querying of conservation funding, voting outcomes, and jurisdictional trends.
+  </p>
+  <p style="line-height: 85%;">
+    <a href="https://huggingface.co/spaces/boettiger-lab/landvote" target="_blank" rel="noopener noreferrer" class="btn--research">Hugging Face</a>
+    <a href="https://github.com/boettiger-lab/landvote" target="_blank" rel="noopener noreferrer" class="btn--research">Github</a>
+    <a href="https://doi.org/10.5281/zenodo.18500783"><img src="https://zenodo.org/badge/1082074799.svg" alt="DOI">
     </a>
   </p>
 </div>
