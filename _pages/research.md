@@ -121,6 +121,22 @@ Midway through my PhD, I became more concerned with AI’s impact on society. As
 
 ## Publications
 
+### California’s 30 x 30 Initiative at its Midpoint: A Biodiversity Assessment Snapshot of the State’s Conservation Areas
+
+<div class="container">
+  <div class="vertical"></div>
+  <p>Jeanette Howard, Carrie Schloss, Rachael Olliff Yang, Alicia Canales, Charlotte K. Stanley, Megan Webb, David Ackerly, Carl Boettiger, <b>Cassie Buhler</b>, Steven Monfort, Gary Bucciarelli, Rachel Meyer, Ariel Levi Simons, Jun Bando, Liz Chamberlin, Sam Veloz, Cole Dickison, Avery Hill, Rebecca Johnson, Ryan Hill, Amanda Kochanek, Dan Rademacher, Lisa Micheli, Kristeen Penrod, Giovanni Rapacciuolo, Nathaniel Roth, Dena Spatz, Daniel Gluesenkamp, and collaborators</p>
+  <p>
+    <a href="https://www.cnps.org/artemisia-journal/californias-30-x-30-initiative-at-its-midpoint-44874" target="_blank" rel="noopener noreferrer" class="btn--research">Article</a>
+    <a href="https://publications.cnps.org/books/Artemisia-V51N2-full-book/#p=3" target="_blank" rel="noopener noreferrer" class="btn--research">Issue (PDF)</a>
+  </p>
+<p>Howard, J., et al. (2026). “California’s 30 x 30 initiative at its midpoint: A biodiversity assessment snapshot of the state’s conservation areas.” <i>Artemisia</i>, 51(2), California Native Plant Society.</p>
+  <div class="tags">
+    <span class="tag">Biodiversity Conservation</span>
+    <span class="tag">Conservation Policy</span>
+  </div>
+</div>
+
 
 ### Regularized Step Directions in Nonlinear Conjugate Gradient Methods
 
