@@ -30,7 +30,6 @@ noindex: true
   }
 </style>
 
-
 ### CA 30x30 Planning & Assessment Tool (California Biodiversity Network Edition)
 <div class="container">
   <div class="vertical"></div>
@@ -40,8 +39,12 @@ noindex: true
   <p style="line-height: 85%;">
     <a href="https://huggingface.co/spaces/boettiger-lab/ca-30x30-cbn" target="_blank" rel="noopener noreferrer" class="btn--research">Hugging Face</a>
     <a href="https://github.com/boettiger-lab/cbn-taskforce" target="_blank" rel="noopener noreferrer" class="btn--research">Github</a>
-    <a href="https://doi.org/10.5281/zenodo.16988638"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.16988638.svg" alt="DOI">
+    <a href="https://doi.org/10.5281/zenodo.16988638" target="_blank" rel="noopener noreferrer">
+      <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.16988638.svg" alt="DOI">
     </a>
+  </p>
+  <p>
+    Buhler, C. K., & Boettiger, C. (2025). <i>CA 30x30 Planning & Assessment Tool</i> (v1.0.6). Zenodo. https://doi.org/10.5281/zenodo.16988638
   </p>
 </div>
 <br>
@@ -50,13 +53,17 @@ noindex: true
 <div class="container">
   <div class="vertical"></div>
   <p>
-Conservation decision-support tool that integrates protected areas, conservation finance, climate, biodiversity, and social vulnerability data into a unified exploratory interface. The application combines geospatial visualization with a natural-language chatbot that generates SQL queries over H3-indexed spatial datasets, enabling real-time spatial joins across conservation investments, ballot measures, irrecoverable carbon, species richness, legislative districts, and environmental justice indicators. The tool draws on public datasets including Trust for Public Land's Conservation Almanac and LandVote, the U.S. Climate and Economic Justice Screening Tool (Justice40), and the CDC Social Vulnerability Index, supporting multiple open-weights language models for reproducible, extensible conservation analytics and decision support.
+    Conservation decision-support tool that integrates protected areas, conservation finance, climate, biodiversity, and social vulnerability data into a unified exploratory interface. The application combines geospatial visualization with a natural-language chatbot that generates SQL queries over H3-indexed spatial datasets, enabling real-time spatial joins across conservation investments, ballot measures, irrecoverable carbon, species richness, legislative districts, and environmental justice indicators. The tool draws on public datasets including Trust for Public Land's Conservation Almanac and LandVote, the U.S. Climate and Economic Justice Screening Tool (Justice40), and the CDC Social Vulnerability Index, supporting multiple open-weights language models for reproducible, extensible conservation analytics and decision support.
   </p>
   <p style="line-height: 85%;">
     <a href="https://huggingface.co/spaces/boettiger-lab/tpl" target="_blank" rel="noopener noreferrer" class="btn--research">Hugging Face</a>
     <a href="https://github.com/boettiger-lab/tpl" target="_blank" rel="noopener noreferrer" class="btn--research">Github</a>
-    <a href="https://doi.org/10.5281/zenodo.18500622"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.18500623.svg" alt="DOI">
+    <a href="https://doi.org/10.5281/zenodo.18500622" target="_blank" rel="noopener noreferrer">
+      <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.18500622.svg" alt="DOI">
     </a>
+  </p>
+  <p>
+    Buhler, C. K., & Boettiger, C. (2026). <i>LLM Decision-Support Prototype using Trust for Public Land Data</i> (v2.3). Zenodo. https://doi.org/10.5281/zenodo.18500622
   </p>
 </div>
 <br>
@@ -65,20 +72,22 @@ Conservation decision-support tool that integrates protected areas, conservation
 <div class="container">
   <div class="vertical"></div>
   <p>
-An interactive decision-support and exploratory analysis tool for U.S. land conservation ballot measures, integrating the Trust for Public Land LandVote database with election, social vulnerability, and environmental datasets. The application combines a lightweight web interface with a open-weights language models to enable natural-language querying of conservation funding, voting outcomes, and jurisdictional trends.
+    An interactive decision-support and exploratory analysis tool for U.S. land conservation ballot measures, integrating the Trust for Public Land LandVote database with election, social vulnerability, and environmental datasets. The application combines a lightweight web interface with open-weights language models to enable natural-language querying of conservation funding, voting outcomes, and jurisdictional trends.
   </p>
   <p style="line-height: 85%;">
     <a href="https://huggingface.co/spaces/boettiger-lab/landvote" target="_blank" rel="noopener noreferrer" class="btn--research">Hugging Face</a>
     <a href="https://github.com/boettiger-lab/landvote" target="_blank" rel="noopener noreferrer" class="btn--research">Github</a>
-    <a href="https://doi.org/10.5281/zenodo.18500783"><img src="https://zenodo.org/badge/1082074799.svg" alt="DOI">
+    <a href="https://doi.org/10.5281/zenodo.18500783" target="_blank" rel="noopener noreferrer">
+      <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.18500783.svg" alt="DOI">
     </a>
+  </p>
+  <p>
+    Buhler, C. K., & Boettiger, C. (2026). <i>LandVote LLM Decision-Support Prototype</i> (v1.1). Zenodo. https://doi.org/10.5281/zenodo.18500783
   </p>
 </div>
 <br>
 
-
 ### CA 30x30 Planning & Assessment Prototype
-
 <div class="container">
   <div class="vertical"></div>
   <p>
@@ -87,39 +96,47 @@ An interactive decision-support and exploratory analysis tool for U.S. land cons
   <p style="line-height: 85%;">
     <a href="https://huggingface.co/spaces/boettiger-lab/ca-30x30" target="_blank" rel="noopener noreferrer" class="btn--research">Hugging Face</a>
     <a href="https://github.com/boettiger-lab/ca-30x30" target="_blank" rel="noopener noreferrer" class="btn--research">Github</a>
-<a href="https://doi.org/10.5281/zenodo.14933818"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.14933818.svg" alt="DOI"></a>
+    <a href="https://doi.org/10.5281/zenodo.14933817" target="_blank" rel="noopener noreferrer">
+      <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.14933817.svg" alt="DOI">
+    </a>
+  </p>
+  <p>
+    Buhler, C. K., & Boettiger, C. (2025). <i>CA 30x30 Planning & Assessment Prototype</i> (v0.0.1). Zenodo. https://doi.org/10.5281/zenodo.14933817
   </p>
 </div>
 <br>
 
 ### Decision-Making for Land Conservation: A Derivative-Free Optimization Framework
-
 <div class="container">
   <div class="vertical"></div>
   <p>
-    A spatial planning tool that utilizes mixed-integer nonlinear programming (MINLP), thus can be paired with ecological software (e.g. population viability analysis). Existing spatial tools typically only allow linear inputs and discrete variables. However, our MINLP framework enables the use of linear <i>and</i> nonlinear inputs, as well as both continuous <i>and</i>  discrete variables. 
+    A spatial planning tool that utilizes mixed-integer nonlinear programming (MINLP), thus can be paired with ecological software (e.g. population viability analysis). Existing spatial tools typically only allow linear inputs and discrete variables. However, our MINLP framework enables the use of linear <i>and</i> nonlinear inputs, as well as both continuous <i>and</i> discrete variables.
   </p>
   <p style="line-height: 85%;">
     <a href="https://github.com/cassiebuhler/conservation-dfo" target="_blank" rel="noopener noreferrer" class="btn--research">Github</a>
-<a href="https://zenodo.org/doi/10.5281/zenodo.13742960"><img src="https://zenodo.org/badge/663126349.svg" alt="DOI">
-</a>
+    <a href="https://doi.org/10.5281/zenodo.13742961" target="_blank" rel="noopener noreferrer">
+      <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.13742961.svg" alt="DOI">
+    </a>
+  </p>
+  <p>
+    Buhler, C. K., & Benson, H. Y. (2024). <i>Conservation-DFO: Initial Release</i> (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.13742961
   </p>
 </div>
 <br>
 
 ### Conmin-CG: Hybrid Cubic Regularization of Conjugate Gradient Minimization Method
-
 <div class="container">
   <div class="vertical"></div>
   <p>
-    A quasi-Newton optimization algorithm that improves the step quality of conjugate gradient methods by selectively using cubic regularization. Compared to its non-regularized counterpart, this method exhibited fewer iteration counts and faster runtime when solving unconstrained optimization problems during numerical testing. 
+    A quasi-Newton optimization algorithm that improves the step quality of conjugate gradient methods by selectively using cubic regularization. Compared to its non-regularized counterpart, this method exhibited fewer iteration counts and faster runtime when solving unconstrained optimization problems during numerical testing.
   </p>
   <p style="line-height: 85%;">
     <a href="https://github.com/cassiebuhler/ConminCG" target="_blank" rel="noopener noreferrer" class="btn--research">Github</a>
-    <a href="https://zenodo.org/doi/10.5281/zenodo.13315591">
-      <img src="https://zenodo.org/badge/468032697.svg" alt="DOI">
+    <a href="https://doi.org/10.5281/zenodo.13315592" target="_blank" rel="noopener noreferrer">
+      <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.13315592.svg" alt="DOI">
     </a>
   </p>
+  <p>
+    Buhler, C. K., & Benson, H. Y. (2024). <i>Conmin-CG: Initial Release</i> (v1.0). Zenodo. https://doi.org/10.5281/zenodo.13315592
+  </p>
 </div>
-
----
