@@ -119,6 +119,32 @@ Midway through my PhD, I became more concerned with AI’s impact on society. As
   </div>
 </div>
 
+
+## Datasets
+
+### State-Level 30×30 Conservation Policy Implementation and Progress Across the United States
+
+<div class="container">
+  <div class="vertical"></div>
+  <p>
+    A curated dataset tracking the implementation and progress of 30×30 conservation policies across U.S. states. The dataset compiles policy commitments, conservation designations, and progress indicators to support comparative analysis of state-level biodiversity conservation efforts.
+  </p>
+  <p style="line-height: 85%;">
+    <a href="https://source.coop/cassiebuhler/30x30-state-policy" target="_blank" rel="noopener noreferrer" class="btn--research">Dataset</a>
+    <a href="https://doi.org/10.5281/zenodo.18500885">
+      <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.18500885.svg" alt="DOI">
+    </a>
+  </p>
+  <p>
+    Buhler, C. K. (2026). <i>State-level 30×30 conservation policy implementation and progress across the United States</i> (v1.4) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.18500885
+  </p>
+  <div class="tags">
+    <span class="tag">Biodiversity Conservation</span>
+    <span class="tag">Conservation Policy</span>
+    <span class="tag">Open Data</span>
+  </div>
+</div>
+
 ## Publications
 
 ### California’s 30 x 30 Initiative at its Midpoint: A Biodiversity Assessment Snapshot of the State’s Conservation Areas
