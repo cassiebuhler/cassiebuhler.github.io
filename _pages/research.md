@@ -75,34 +75,6 @@ Midway through my PhD, I became more concerned with AI’s impact on society. As
   </div>
 </div>
 
-### Maka Sitomniya: Preserving Mother Earth by Asserting Lakota Sovereignty in Earth Data Science (ESIIL Working Group #16)
-
-<div class="container">
-  <div class="vertical"></div>
-  <p>
-<a href="https://cu-esiil.github.io/Maka-Sitomniya/" target="_blank" rel="noopener noreferrer" class="btn--research">Website</a>
-  </p>
-  <div class="tags">
-    <span class="tag">Tribal Engagement</span>
-    <span class="tag">Environmental Data Science</span>
-    <span class="tag">Climate Resilience</span>
-
-  </div>
-</div>
-
-### California Biodiversity Network: 30x30 Biodiversity Assessment (Working Group) 
-
-<div class="container">
-  <div class="vertical"></div>
-  <p>
-<a href="https://cabiodiversitynetwork.org/30x30-partnership/" target="_blank" rel="noopener noreferrer" class="btn--research">Website</a>
-  </p>
-  <div class="tags">
-    <span class="tag">Biodiversity Conservation</span>
-    <span class="tag">Environmental Data Science</span>
-    <span class="tag">Conservation Policy</span>
-  </div>
-</div>
 
 ### Leveraging NASA Data to Guide Biodiversity Conservation Investments with the Trust for Public Land
 
@@ -119,6 +91,50 @@ Midway through my PhD, I became more concerned with AI’s impact on society. As
   </div>
 </div>
 
+### Developing Best Practices for Large Language Models in Environmental Science (ESIIL Working Group)
+
+<div class="container">
+  <div class="vertical"></div>
+  <p>
+<a href="https://cu-esiil.github.io/envirollm/" target="_blank" rel="noopener noreferrer" class="btn--research">Website</a>
+  </p>
+  <div class="tags">
+    <span class="tag">LLMs</span>
+    <span class="tag">Environmental Data Science</span>
+    <span class="tag">AI Policy</span>
+
+  </div>
+</div>
+
+
+### California Biodiversity Network: 30x30 Biodiversity Assessment (Working Group) 
+
+<div class="container">
+  <div class="vertical"></div>
+  <p>
+<a href="https://cabiodiversitynetwork.org/30x30-partnership/" target="_blank" rel="noopener noreferrer" class="btn--research">Website</a>
+  </p>
+  <div class="tags">
+    <span class="tag">Biodiversity Conservation</span>
+    <span class="tag">Environmental Data Science</span>
+    <span class="tag">Conservation Policy</span>
+  </div>
+</div>
+
+### Maka Sitomniya: Preserving Mother Earth by Asserting Lakota Sovereignty in Earth Data Science (ESIIL Working Group)
+
+<div class="container">
+  <div class="vertical"></div>
+  <p>
+<a href="https://cu-esiil.github.io/Maka-Sitomniya/" target="_blank" rel="noopener noreferrer" class="btn--research">Website</a>
+  </p>
+  <div class="tags">
+    <span class="tag">Tribal Engagement</span>
+    <span class="tag">Environmental Data Science</span>
+    <span class="tag">Climate Resilience</span>
+
+  </div>
+</div>
 
 ## Datasets
 
