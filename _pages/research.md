@@ -49,11 +49,7 @@ noindex: true
 
 </style>
 
-My earlier research concentrated on nonlinear optimization, where I developed methods to efficiently solve large-scale optimization problems and explored the intersection of optimization and machine learning.
-
-Midway through my PhD, I became more concerned with AI’s impact on society. As such, I shifted focus to align my work with environmental applications and began developing optimization frameworks to aid conservationists. In particular, my work leverages computational methods (AI, optimization, etc) to support planning and decision-making for biodiversity conservation.
-
-
+My research utilizes AI and mathematical optimization to tackle challenges in biodiversity conservation and natural resource management.
 
 ## Current Projects 
 
