@@ -49,8 +49,6 @@ noindex: true
 
 </style>
 
-My research utilizes AI and mathematical optimization to tackle challenges in biodiversity conservation and natural resource management.
-
 ## Current Projects 
 
 ### Exploring Innovation in Biodiversity Conservation Decision-Making Through Open Science and Generative AI
