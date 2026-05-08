@@ -15,7 +15,7 @@ I hold a PhD in operations research from Drexel University, with a graduate mino
 # Research
 My research develops mathematical optimization and AI methods for conservation and natural resource decision-making. I codevelop <a href="https://cassiebuhler.github.io/software/" target="_blank">open-source decision-support tools</a> with practitioners and stakeholders, with attention to how such tools shape policy and practice. This work combines LLMs with optimization to make complex spatial data usable, helping users prioritize where to protect land, where to invest, and how to track policy progress. Recent projects span state, regional, and national scales, including <a href="https://www.cnps.org/artemisia-journal/californias-30-x-30-initiative-at-its-midpoint-44874" target="_blank">California's 30x30 assessment</a> with the California Biodiversity Network, conservation prioritization in the Greater Yellowstone Ecosystem, and investment guidance with the Trust for Public Land. 
 
-I'm always interested in new collaborations that bring methods and practice together on real-world environmental problems.
+I'm always interested in new collaborations! 
 
 
 <a href="/files/ckbuhler_cv.pdf" target="_blank">CV</a>{: .btn--research}
