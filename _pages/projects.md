@@ -18,9 +18,8 @@ noindex: true
 
   h3 {
     margin-top: 3em;
-    font-size: 20px;
+    font-size: 22px;
     font-weight: 700;
-    color: #314E52;
   }
 
   p {
@@ -119,7 +118,7 @@ I co-develop conservation decision-support tools across the efforts below, spann
 
 <div class="container">
   <div class="vertical"></div>
-  <p class="partner">Statewide & national</p>
+  <p class="partner">Statewide & National</p>
   <p>
     Guiding biodiversity conservation investment with the Trust for Public Land, using NASA and open data to inform where conservation funding can have the greatest impact. The work spans conservation finance and land-protection ballot measures at state and national scales. <!-- TODO: two additional TPL tools coming — add buttons + DOIs once published -->
   </p>
