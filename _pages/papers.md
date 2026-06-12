@@ -3,7 +3,7 @@ permalink: /papers/
 title: "Papers"
 author_profile: true
 redirect_from:
-  - /research
+  - /papers
 noindex: true
 ---
 
