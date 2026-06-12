@@ -18,7 +18,9 @@ noindex: true
 
   h3 {
     margin-top: 3em;
-    font-weight: normal;
+    font-size: 20px;
+    font-weight: 700;
+    color: #314E52;
   }
 
   p {
@@ -57,7 +59,7 @@ I co-develop conservation decision-support tools across the efforts below, spann
 
 <div class="container">
   <div class="vertical"></div>
-  <p class="partner">Statewide · California Biodiversity Network</p>
+  <p class="partner">Statewide</p>
   <p>
     California's 30x30 initiative commits the state to conserving 30% of its lands and coastal waters by 2030. Working with the California Biodiversity Network, this effort supports the state's Biodiversity Assessment — tracking conservation progress and surfacing where the gaps remain.
   </p>
