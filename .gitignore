@@ -1,2 +1,10 @@
 _site/
 
+_data/.ipynb_checkpoints/navigation-checkpoint.yml
+_pages/.ipynb_checkpoints/datasets-checkpoint.md
+_pages/.ipynb_checkpoints/papers-checkpoint.md
+_pages/.ipynb_checkpoints/software-checkpoint.md
+_pages/.ipynb_checkpoints/projects-checkpoint.md
+.ipynb_checkpoints/_config-checkpoint.yml
+.ipynb_checkpoints/.gitignore-checkpoint
+files/.ipynb_checkpoints/ckbuhler_cv-checkpoint.pdf

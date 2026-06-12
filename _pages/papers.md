@@ -1,6 +1,6 @@
 ---
-permalink: /research/
-title: "Research"
+permalink: /papers/
+title: "Papers"
 author_profile: true
 redirect_from:
   - /research
@@ -49,112 +49,6 @@ noindex: true
 
 </style>
 
-## Current Projects 
-
-### Exploring Innovation in Biodiversity Conservation Decision-Making Through Open Science and Generative AI
-
-<div class="container">
-  <div class="vertical"></div>
-  <p>Cassidy K. Buhler and Carl Boettiger</p>
-  <p>
-<a href="/files/AGU24_poster_web_accessible.pdf" target="_blank" rel="noopener noreferrer" class="btn--research">Poster</a>
-    <a href="https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1639129" target="_blank" rel="noopener noreferrer" class="btn--research">Abstract</a>
-<a href="https://huggingface.co/spaces/boettiger-lab/ca-30x30" target="_blank" rel="noopener noreferrer" class="btn--research">Tool</a>
-<a href="https://huggingface.co/spaces/boettiger-lab/ca-30x30/tree/main" target="_blank" rel="noopener noreferrer" class="btn--research">Code</a>
-  </p>
-  <div class="tags">
-    <span class="tag">Biodiversity Conservation</span>
-    <span class="tag">Open Science</span>
-    <span class="tag">LLMs</span>
-  </div>
-</div>
-
-
-### Leveraging NASA Data to Guide Biodiversity Conservation Investments with the Trust for Public Land
-
-<div class="container">
-  <div class="vertical"></div>
-  <p>
-<a href="/files/BDEC2025_poster.pdf" target="_blank" rel="noopener noreferrer" class="btn--research">Poster</a>
-<a href="https://huggingface.co/spaces/boettiger-lab/tpl" target="_blank" rel="noopener noreferrer" class="btn--research">Tool</a>
-  </p>
-  <div class="tags">
-    <span class="tag">Biodiversity Conservation</span>
-    <span class="tag">LLMs</span>
-    <span class="tag">Conservation Ballot Measures</span>
-  </div>
-</div>
-
-### Developing Best Practices for Large Language Models in Environmental Science (ESIIL Working Group)
-
-<div class="container">
-  <div class="vertical"></div>
-  <p>
-<a href="https://cu-esiil.github.io/envirollm/" target="_blank" rel="noopener noreferrer" class="btn--research">Website</a>
-  </p>
-  <div class="tags">
-    <span class="tag">LLMs</span>
-    <span class="tag">Environmental Data Science</span>
-    <span class="tag">AI Policy</span>
-
-  </div>
-</div>
-
-
-### California Biodiversity Network: 30x30 Biodiversity Assessment (Working Group) 
-
-<div class="container">
-  <div class="vertical"></div>
-  <p>
-<a href="https://cabiodiversitynetwork.org/30x30-partnership/" target="_blank" rel="noopener noreferrer" class="btn--research">Website</a>
-  </p>
-  <div class="tags">
-    <span class="tag">Biodiversity Conservation</span>
-    <span class="tag">Environmental Data Science</span>
-    <span class="tag">Conservation Policy</span>
-  </div>
-</div>
-
-### Maka Sitomniya: Preserving Mother Earth by Asserting Lakota Sovereignty in Earth Data Science (ESIIL Working Group)
-
-<div class="container">
-  <div class="vertical"></div>
-  <p>
-<a href="https://cu-esiil.github.io/Maka-Sitomniya/" target="_blank" rel="noopener noreferrer" class="btn--research">Website</a>
-  </p>
-  <div class="tags">
-    <span class="tag">Tribal Engagement</span>
-    <span class="tag">Environmental Data Science</span>
-    <span class="tag">Climate Resilience</span>
-
-  </div>
-</div>
-
-## Datasets
-
-### State-Level 30×30 Conservation Policy Implementation and Progress Across the United States
-
-<div class="container">
-  <div class="vertical"></div>
-  <p>
-    A curated dataset tracking the implementation and progress of 30×30 conservation policies across U.S. states. The dataset compiles policy commitments, conservation designations, and progress indicators to support comparative analysis of state-level biodiversity conservation efforts.
-  </p>
-  <p style="line-height: 85%;">
-    <a href="https://source.coop/cassiebuhler/30x30-state-policy" target="_blank" rel="noopener noreferrer" class="btn--research">Dataset</a>
-    <a href="https://doi.org/10.5281/zenodo.18500885">
-      <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.18500885.svg" alt="DOI">
-    </a>
-  </p>
-  <p>
-    Buhler, C. K. (2026). <i>State-level 30×30 conservation policy implementation and progress across the United States</i> (v1.4) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.18500885
-  </p>
-  <div class="tags">
-    <span class="tag">Biodiversity Conservation</span>
-    <span class="tag">Conservation Policy</span>
-    <span class="tag">Open Data</span>
-  </div>
-</div>
-
 ## Publications
 
 ### California’s 30 x 30 Initiative at its Midpoint: A Biodiversity Assessment Snapshot of the State’s Conservation Areas
@@ -190,9 +84,6 @@ noindex: true
     <span class="tag">Operations Research</span>
   </div>
 </div>
-
-
-
 
 
 

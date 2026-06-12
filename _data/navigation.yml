@@ -3,11 +3,17 @@ main:
   - title: "Home"
     url: /
 
-  - title: "Research"
+  - title: "Projects"
     url: /research/
+
+  - title: "Papers"
+    url: /papers/
 
   - title: "Software"
     url: /software/
+    
+  - title: "Datasets"
+    url: /datasets/
 
   - title: "Teaching"
     url: /teaching/
