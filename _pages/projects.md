@@ -59,7 +59,7 @@ I co-develop conservation decision-support tools across the efforts below, spann
   <div class="vertical"></div>
   <p class="partner">Statewide · California Biodiversity Network</p>
   <p>
-    An LLM-powered decision-support tool supporting California's 30x30 Biodiversity Assessment. It lets users explore the state's 30x30 conservation areas, other protected lands, and non-conserved areas through natural-language queries over ecological, climate, and socio-environmental data, revealing what is protected, what isn't, and where the gaps are.
+    California's 30x30 initiative commits the state to conserving 30% of its lands and coastal waters by 2030. Working with the California Biodiversity Network, this effort supports the state's Biodiversity Assessment — tracking conservation progress and surfacing where the gaps remain.
   </p>
   <p>
     <a href="https://huggingface.co/spaces/boettiger-lab/ca-30x30-cbn" target="_blank" rel="noopener noreferrer" class="btn--research">Tool</a>
@@ -81,7 +81,7 @@ I co-develop conservation decision-support tools across the efforts below, spann
   <div class="vertical"></div>
   <p class="partner">Regional</p>
   <p>
-    Developing conservation prioritization tools for the Greater Yellowstone Ecosystem. The demo linked below illustrates the approach using open data.
+    Conservation prioritization across the Greater Yellowstone Ecosystem, one of the largest intact temperate ecosystems on Earth. This effort develops methods to help partners decide where conservation action can do the most for biodiversity across a complex, multi-jurisdictional landscape.
   </p>
   <p>
     <a href="https://wyoming-public-demo.nrp-nautilus.io/" target="_blank" rel="noopener noreferrer" class="btn--research">Public Demo</a>
@@ -100,7 +100,7 @@ I co-develop conservation decision-support tools across the efforts below, spann
   <div class="vertical"></div>
   <p class="partner">International</p>
   <p>
-    A decision-support tool for exploring marine conservation under the High Seas Treaty, integrating open data on areas beyond national jurisdiction with an open-weights language model for natural-language spatial analysis.
+    The High Seas Treaty establishes the first framework for creating marine protected areas in waters beyond national jurisdiction. This effort helps bring scientific evidence and data into the criteria behind high seas MPA proposals, alongside researchers working on marine conservation globally.
   </p>
   <p>
     <a href="https://high-seas.nrp-nautilus.io/" target="_blank" rel="noopener noreferrer" class="btn--research">Tool</a>
@@ -119,7 +119,7 @@ I co-develop conservation decision-support tools across the efforts below, spann
   <div class="vertical"></div>
   <p class="partner">Statewide & national</p>
   <p>
-    Leveraging NASA data to guide biodiversity conservation investments. The tool integrates protected areas, conservation finance, climate, biodiversity, and social vulnerability data into a unified interface, pairing geospatial visualization with a natural-language chatbot over TPL's Conservation Almanac and LandVote databases. <!-- TODO: two additional TPL tools coming — add buttons + DOIs once published -->
+    Guiding biodiversity conservation investment with the Trust for Public Land, using NASA and open data to inform where conservation funding can have the greatest impact. The work spans conservation finance and land-protection ballot measures at state and national scales. <!-- TODO: two additional TPL tools coming — add buttons + DOIs once published -->
   </p>
   <p>
     <a href="https://huggingface.co/spaces/boettiger-lab/tpl" target="_blank" rel="noopener noreferrer" class="btn--research">Tool</a>
