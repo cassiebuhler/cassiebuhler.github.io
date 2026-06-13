@@ -30,6 +30,24 @@ noindex: true
   }
 </style>
 
+### geo-agent: A Reusable Library for Map-Based Applications with LLM-Powered Data Analysis
+<div class="container">
+  <div class="vertical"></div>
+  <p>
+    An open-source library for building map-based applications with LLM-powered data analysis. geo-agent is the shared framework behind several of the conservation decision-support tools below, pairing interactive geospatial visualization with natural-language querying over cloud-optimized spatial data.
+  </p>
+  <p style="line-height: 85%;">
+    <a href="https://github.com/boettiger-lab/geo-agent" target="_blank" rel="noopener noreferrer" class="btn--research">Github</a>
+    <a href="https://doi.org/10.5281/zenodo.20673849" target="_blank" rel="noopener noreferrer">
+      <img src="https://zenodo.org/badge/1151803996.svg" alt="DOI">
+    </a>
+  </p>
+  <p>
+    Boettiger, C., & Buhler, C. K. (2026). <i>geo-agent: A Reusable Library for Map-Based Applications with LLM-Powered Data Analysis</i> (v3.11.0). Zenodo. https://doi.org/10.5281/zenodo.20673850
+  </p>
+</div>
+<br>
+
 ### CA 30x30 Planning & Assessment Tool (California Biodiversity Network Edition)
 <div class="container">
   <div class="vertical"></div>
