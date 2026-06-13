@@ -54,7 +54,7 @@ noindex: true
 
 I co-develop conservation decision-support tools across the efforts below, spanning policy, regional, and organizational collaborations.
 
-### CA 30x30
+### California 30x30
 
 <div class="container">
   <div class="vertical"></div>
