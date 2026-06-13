@@ -93,7 +93,7 @@ noindex: true
     A national conservation decision-support tool integrating protected areas, conservation finance, climate, biodiversity, and social vulnerability data. Built on the geo-agent framework, it pairs interactive maps with a natural-language agent that writes SQL over H3-indexed spatial data, enabling real-time joins across conservation investments, ballot measures, carbon, species richness, legislative districts, and environmental justice indicators. It draws on TPL's Conservation Almanac and LandVote, the U.S. Climate and Economic Justice Screening Tool (Justice40), and the CDC Social Vulnerability Index.
   </p>
   <p style="line-height: 85%;">
-    <a href="https://huggingface.co/spaces/boettiger-lab/tpl" target="_blank" rel="noopener noreferrer" class="btn--research">Hugging Face</a>
+    <a href="https://tpl.nrp-nautilus.io" target="_blank" rel="noopener noreferrer" class="btn--research">App</a>
     <a href="https://github.com/boettiger-lab/tpl" target="_blank" rel="noopener noreferrer" class="btn--research">Github</a>
     <a href="https://doi.org/10.5281/zenodo.18500623" target="_blank" rel="noopener noreferrer">
       <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.18500623.svg" alt="DOI">
