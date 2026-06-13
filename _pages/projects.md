@@ -84,7 +84,7 @@ I co-develop conservation decision-support tools across the efforts below, spann
     Conservation prioritization across the Greater Yellowstone Ecosystem, one of the largest intact temperate ecosystems on Earth. This effort develops methods to help partners decide where conservation action can do the most for biodiversity across a complex, multi-jurisdictional landscape.
   </p>
   <p>
-    <a href="https://wyoming-public-demo.nrp-nautilus.io/" target="_blank" rel="noopener noreferrer" class="btn--research">Public Demo</a>
+    <a href="https://wyoming-public-demo.nrp-nautilus.io/" target="_blank" rel="noopener noreferrer" class="btn--research">Tool</a>
     <a href="https://github.com/boettiger-lab/wyoming-public-demo" target="_blank" rel="noopener noreferrer" class="btn--research">Code</a>
   </p>
   <div class="tags">
@@ -119,12 +119,13 @@ I co-develop conservation decision-support tools across the efforts below, spann
   <div class="vertical"></div>
   <p class="partner">Statewide & National</p>
   <p>
-    Guiding biodiversity conservation investment with the Trust for Public Land, using NASA and open data to inform where conservation funding can have the greatest impact. The work spans conservation finance and land-protection ballot measures at state and national scales. <!-- TODO: two additional TPL tools coming — add buttons + DOIs once published -->
+    Guiding biodiversity conservation investment with the Trust for Public Land, using NASA and open data to inform where conservation funding can have the greatest impact. The work spans conservation finance and land-protection ballot measures at state and national scales.
   </p>
   <p>
-    <a href="https://huggingface.co/spaces/boettiger-lab/tpl" target="_blank" rel="noopener noreferrer" class="btn--research">Tool</a>
-    <a href="https://github.com/boettiger-lab/tpl" target="_blank" rel="noopener noreferrer" class="btn--research">Code</a>
-    <a href="https://huggingface.co/spaces/boettiger-lab/landvote" target="_blank" rel="noopener noreferrer" class="btn--research">LandVote</a>
+    <a href="https://tpl.nrp-nautilus.io/" target="_blank" rel="noopener noreferrer" class="btn--research">National Tool</a>
+    <a href="https://github.com/boettiger-lab/tpl" target="_blank" rel="noopener noreferrer" class="btn--research">National Code</a>
+    <a href="https://tpl-ca.nrp-nautilus.io/" target="_blank" rel="noopener noreferrer" class="btn--research">CA Tool</a>
+    <a href="https://github.com/boettiger-lab/tpl-ca" target="_blank" rel="noopener noreferrer" class="btn--research">CA Code</a>
     <a href="/files/BDEC2025_poster.pdf" target="_blank" rel="noopener noreferrer" class="btn--research">Poster</a>
   </p>
   <div class="tags">
