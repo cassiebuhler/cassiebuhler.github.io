@@ -52,7 +52,7 @@ noindex: true
 
 </style>
 
-I co-develop conservation decision-support tools across the efforts below, spanning policy, regional, and organizational collaborations. The tools, code, papers, and data are collected on the <a href="/software/">Software</a>, <a href="/papers/">Papers</a>, and <a href="/datasets/">Datasets</a> pages.
+I co-develop conservation decision-support tools across the efforts below, spanning policy, regional, and organizational collaborations.
 
 ### CA 30x30
 
