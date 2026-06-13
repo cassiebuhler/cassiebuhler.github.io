@@ -48,6 +48,82 @@ noindex: true
 </div>
 <br>
 
+### geo-agent: High Seas
+<div class="container">
+  <div class="vertical"></div>
+  <p>
+    An interactive marine conservation decision-support tool for the high seas — the areas of the ocean beyond national jurisdiction. Built on the geo-agent framework, it pairs interactive maps with a natural-language agent that runs SQL over H3-indexed ocean data, letting users explore candidate high seas marine protected areas, exclusive economic zone boundaries, seafloor geomorphology, bathymetry, protected-area coverage, and global fishing-effort data.
+  </p>
+  <p style="line-height: 85%;">
+    <a href="https://high-seas.nrp-nautilus.io" target="_blank" rel="noopener noreferrer" class="btn--research">App</a>
+    <a href="https://github.com/boettiger-lab/bosl-high-seas" target="_blank" rel="noopener noreferrer" class="btn--research">Github</a>
+    <a href="https://doi.org/10.5281/zenodo.20674176" target="_blank" rel="noopener noreferrer">
+      <img src="https://zenodo.org/badge/1194160096.svg" alt="DOI">
+    </a>
+  </p>
+  <p>
+    Boettiger, C., & Buhler, C. K. (2026). <i>geo-agent: High Seas</i> (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20674177
+  </p>
+</div>
+<br>
+
+### geo-agent: Public GYE
+<div class="container">
+  <div class="vertical"></div>
+  <p>
+    An interactive decision-support tool for wildlife habitat and public lands in the Greater Yellowstone Ecosystem, centered on Wyoming. Built on the geo-agent framework, it pairs interactive maps with a natural-language agent that runs SQL over H3-indexed data, letting users explore Wyoming Game & Fish Department seasonal wildlife range data, public land management boundaries, and related habitat datasets.
+  </p>
+  <p style="line-height: 85%;">
+    <a href="https://wyoming-public-demo.nrp-nautilus.io" target="_blank" rel="noopener noreferrer" class="btn--research">App</a>
+    <a href="https://github.com/boettiger-lab/wyoming-public-demo" target="_blank" rel="noopener noreferrer" class="btn--research">Github</a>
+    <a href="https://doi.org/10.5281/zenodo.20674178" target="_blank" rel="noopener noreferrer">
+      <img src="https://zenodo.org/badge/1173817623.svg" alt="DOI">
+    </a>
+  </p>
+  <p>
+    Boettiger, C., & Buhler, C. K. (2026). <i>geo-agent: Public GYE</i> (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20674179
+  </p>
+</div>
+<br>
+
+### geo-agent: Trust for Public Land
+<div class="container">
+  <div class="vertical"></div>
+  <p>
+    A national conservation decision-support tool integrating protected areas, conservation finance, climate, biodiversity, and social vulnerability data. Built on the geo-agent framework, it pairs interactive maps with a natural-language agent that writes SQL over H3-indexed spatial data, enabling real-time joins across conservation investments, ballot measures, carbon, species richness, legislative districts, and environmental justice indicators. It draws on TPL's Conservation Almanac and LandVote, the U.S. Climate and Economic Justice Screening Tool (Justice40), and the CDC Social Vulnerability Index.
+  </p>
+  <p style="line-height: 85%;">
+    <a href="https://huggingface.co/spaces/boettiger-lab/tpl" target="_blank" rel="noopener noreferrer" class="btn--research">Hugging Face</a>
+    <a href="https://github.com/boettiger-lab/tpl" target="_blank" rel="noopener noreferrer" class="btn--research">Github</a>
+    <a href="https://doi.org/10.5281/zenodo.18500623" target="_blank" rel="noopener noreferrer">
+      <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.18500623.svg" alt="DOI">
+    </a>
+  </p>
+  <p>
+    Buhler, C. K., & Boettiger, C. (2026). <i>geo-agent: Trust for Public Land</i> (v3.0.1). Zenodo. https://doi.org/10.5281/zenodo.18500623
+  </p>
+</div>
+<br>
+
+### geo-agent: Trust for Public Land (CA)
+<div class="container">
+  <div class="vertical"></div>
+  <p>
+    A California-focused conservation decision-support tool for the Trust for Public Land. Built on the geo-agent framework, it pairs interactive maps with a natural-language agent that runs SQL over H3-indexed data, letting staff, legislators, and advocates explore land conservation investment recorded in the Conservation Almanac, carbon stocks, legislative and congressional districts, and Indigenous lands to support conservation planning and policy advocacy.
+  </p>
+  <p style="line-height: 85%;">
+    <a href="https://tpl-ca.nrp-nautilus.io" target="_blank" rel="noopener noreferrer" class="btn--research">App</a>
+    <a href="https://github.com/boettiger-lab/tpl-ca" target="_blank" rel="noopener noreferrer" class="btn--research">Github</a>
+    <a href="https://doi.org/10.5281/zenodo.20674186" target="_blank" rel="noopener noreferrer">
+      <img src="https://zenodo.org/badge/1183721470.svg" alt="DOI">
+    </a>
+  </p>
+  <p>
+    Boettiger, C., & Buhler, C. K. (2026). <i>geo-agent: Trust for Public Land (CA)</i> (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20674187
+  </p>
+</div>
+<br>
+
 ### CA 30x30 Planning & Assessment Tool (California Biodiversity Network Edition)
 <div class="container">
   <div class="vertical"></div>
@@ -63,25 +139,6 @@ noindex: true
   </p>
   <p>
     Buhler, C. K., & Boettiger, C. (2025). <i>CA 30x30 Planning & Assessment Tool</i> (v1.0.6). Zenodo. https://doi.org/10.5281/zenodo.16988638
-  </p>
-</div>
-<br>
-
-### LLM Decision-Support Prototype using Trust for Public Land Data
-<div class="container">
-  <div class="vertical"></div>
-  <p>
-    Conservation decision-support tool that integrates protected areas, conservation finance, climate, biodiversity, and social vulnerability data into a unified interface. Combines geospatial visualization with a natural-language chatbot that generates SQL queries over H3-indexed spatial datasets, enabling real-time spatial joins across conservation investments, ballot measures, irrecoverable carbon, species richness, legislative districts, and environmental justice indicators. The tool draws on public datasets including TPL's Conservation Almanac and LandVote, the U.S. Climate and Economic Justice Screening Tool (Justice40), and the CDC Social Vulnerability Index, supporting open-weights language models for reproducible conservation analytics and decision support.
-  </p>
-  <p style="line-height: 85%;">
-    <a href="https://huggingface.co/spaces/boettiger-lab/tpl" target="_blank" rel="noopener noreferrer" class="btn--research">Hugging Face</a>
-    <a href="https://github.com/boettiger-lab/tpl" target="_blank" rel="noopener noreferrer" class="btn--research">Github</a>
-    <a href="https://doi.org/10.5281/zenodo.18500622" target="_blank" rel="noopener noreferrer">
-      <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.18500622.svg" alt="DOI">
-    </a>
-  </p>
-  <p>
-    Buhler, C. K., & Boettiger, C. (2026). <i>LLM Decision-Support Prototype using Trust for Public Land Data</i> (v2.3). Zenodo. https://doi.org/10.5281/zenodo.18500622
   </p>
 </div>
 <br>
@@ -158,3 +215,4 @@ noindex: true
     Buhler, C. K., & Benson, H. Y. (2024). <i>Conmin-CG: Initial Release</i> (v1.0). Zenodo. https://doi.org/10.5281/zenodo.13315592
   </p>
 </div>
+<br>
