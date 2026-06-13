@@ -12,7 +12,6 @@ noindex: true
     font-size: 24px;
     margin-bottom: -1em;
     font-weight: bold;
-
   }
 
   h3 {
@@ -33,7 +32,7 @@ noindex: true
   h2:nth-of-type(2),
   h2:nth-of-type(3) {
     margin-top: 3em;
-}
+  }
   .vertical {
     border-left: 5px solid #609162;
     height: 100%;

@@ -12,7 +12,6 @@ noindex: true
     font-size: 24px;
     margin-bottom: -1em;
     font-weight: bold;
-
   }
 
   h3 {
@@ -33,7 +32,7 @@ noindex: true
   h2:nth-of-type(2),
   h2:nth-of-type(3) {
     margin-top: 3em;
-}
+  }
   .vertical {
     border-left: 5px solid #609162;
     height: 100%;
@@ -60,7 +59,7 @@ noindex: true
     <a href="https://www.cnps.org/artemisia-journal/californias-30-x-30-initiative-at-its-midpoint-44874" target="_blank" rel="noopener noreferrer" class="btn--research">Article</a>
     <a href="https://publications.cnps.org/books/Artemisia-V51N2-full-book/#p=3" target="_blank" rel="noopener noreferrer" class="btn--research">Issue (PDF)</a>
   </p>
-<p>Howard, J., et al. (2026). “California’s 30 x 30 initiative at its midpoint: A biodiversity assessment snapshot of the state’s conservation areas.” <i>Artemisia</i>, 51(2), California Native Plant Society.</p>
+  <p>Howard, J., et al. (2026). “California’s 30 x 30 initiative at its midpoint: A biodiversity assessment snapshot of the state’s conservation areas.” <i>Artemisia</i>, 51(2), California Native Plant Society.</p>
   <div class="tags">
     <span class="tag">Biodiversity Conservation</span>
     <span class="tag">Conservation Policy</span>
@@ -74,7 +73,7 @@ noindex: true
   <div class="vertical"></div>
   <p>Cassidy K. Buhler, Hande Y. Benson, David F. Shanno</p>
   <p>
-<a href="https://link.springer.com/article/10.1007/s12532-024-00265-9" target="_blank" rel="noopener noreferrer" class="btn--research">Article</a>
+    <a href="https://link.springer.com/article/10.1007/s12532-024-00265-9" target="_blank" rel="noopener noreferrer" class="btn--research">Article</a>
     <a href="https://arxiv.org/abs/2110.06308" target="_blank" rel="noopener noreferrer" class="btn--research">Preprint</a>
     <a href="https://github.com/cassiebuhler/ConminCG/tree/c-implementation" target="_blank" rel="noopener noreferrer" class="btn--research">Code</a>
   </p>

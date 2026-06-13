@@ -13,7 +13,6 @@ noindex: true
     margin-top: 3em;
     margin-bottom: -1em;
     font-weight: bold;
-
   }
 
   h3 {
