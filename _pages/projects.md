@@ -52,7 +52,7 @@ noindex: true
 
 </style>
 
-I co-develop conservation decision-support tools that help decide where to protect, where to invest, and how to track policy progress — across the efforts below.
+I co-develop conservation decision-support tools across the efforts below, spanning policy, regional, and organizational collaborations. These tools help decide where to protect, where to invest, and how to track policy progress.
 
 ### California 30x30
 
