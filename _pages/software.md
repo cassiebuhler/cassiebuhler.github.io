@@ -39,7 +39,7 @@ noindex: true
   <p style="line-height: 85%;">
     <a href="https://github.com/boettiger-lab/geo-agent" target="_blank" rel="noopener noreferrer" class="btn--research">Github</a>
     <a href="https://doi.org/10.5281/zenodo.20673849" target="_blank" rel="noopener noreferrer">
-      <img src="https://zenodo.org/badge/1151803996.svg" alt="DOI">
+      <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.20673849.svg" alt="DOI">
     </a>
   </p>
   <p>
@@ -58,7 +58,7 @@ noindex: true
     <a href="https://high-seas.nrp-nautilus.io" target="_blank" rel="noopener noreferrer" class="btn--research">App</a>
     <a href="https://github.com/boettiger-lab/bosl-high-seas" target="_blank" rel="noopener noreferrer" class="btn--research">Github</a>
     <a href="https://doi.org/10.5281/zenodo.20674176" target="_blank" rel="noopener noreferrer">
-      <img src="https://zenodo.org/badge/1194160096.svg" alt="DOI">
+      <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.20674176.svg" alt="DOI">
     </a>
   </p>
   <p>
@@ -77,7 +77,7 @@ noindex: true
     <a href="https://wyoming-public-demo.nrp-nautilus.io" target="_blank" rel="noopener noreferrer" class="btn--research">App</a>
     <a href="https://github.com/boettiger-lab/wyoming-public-demo" target="_blank" rel="noopener noreferrer" class="btn--research">Github</a>
     <a href="https://doi.org/10.5281/zenodo.20674178" target="_blank" rel="noopener noreferrer">
-      <img src="https://zenodo.org/badge/1173817623.svg" alt="DOI">
+      <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.20674178.svg" alt="DOI">
     </a>
   </p>
   <p>
@@ -115,7 +115,7 @@ noindex: true
     <a href="https://tpl-ca.nrp-nautilus.io" target="_blank" rel="noopener noreferrer" class="btn--research">App</a>
     <a href="https://github.com/boettiger-lab/tpl-ca" target="_blank" rel="noopener noreferrer" class="btn--research">Github</a>
     <a href="https://doi.org/10.5281/zenodo.20674186" target="_blank" rel="noopener noreferrer">
-      <img src="https://zenodo.org/badge/1183721470.svg" alt="DOI">
+      <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.20674186.svg" alt="DOI">
     </a>
   </p>
   <p>
