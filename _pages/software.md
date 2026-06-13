@@ -95,12 +95,12 @@ noindex: true
   <p style="line-height: 85%;">
     <a href="https://tpl.nrp-nautilus.io" target="_blank" rel="noopener noreferrer" class="btn--research">App</a>
     <a href="https://github.com/boettiger-lab/tpl" target="_blank" rel="noopener noreferrer" class="btn--research">Github</a>
-    <a href="https://doi.org/10.5281/zenodo.18500623" target="_blank" rel="noopener noreferrer">
-      <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.18500623.svg" alt="DOI">
+    <a href="https://doi.org/10.5281/zenodo.18500622" target="_blank" rel="noopener noreferrer">
+      <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.18500622.svg" alt="DOI">
     </a>
   </p>
   <p>
-    Buhler, C. K., & Boettiger, C. (2026). <i>geo-agent: Trust for Public Land</i> (v3.0.1). Zenodo. https://doi.org/10.5281/zenodo.18500623
+    Buhler, C. K., & Boettiger, C. (2026). <i>geo-agent: Trust for Public Land</i> (v3.0.1). Zenodo. https://doi.org/10.5281/zenodo.20674109
   </p>
 </div>
 <br>
