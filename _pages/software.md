@@ -62,7 +62,7 @@ noindex: true
     </a>
   </p>
   <p>
-    Boettiger, C., & Buhler, C. K. (2026). <i>High Seas Explorer</i> (v1.0.2). Zenodo. https://doi.org/10.5281/zenodo.20693579
+    Boettiger, C., & Buhler, C. K. (2026). <i>High Seas Explorer</i> (v1.0.3). Zenodo. https://doi.org/10.5281/zenodo.20693689
   </p>
 </div>
 <br>
@@ -81,7 +81,7 @@ noindex: true
     </a>
   </p>
   <p>
-    Boettiger, C., & Buhler, C. K. (2026). <i>Public GYE Explorer</i> (v1.0.1). Zenodo. https://doi.org/10.5281/zenodo.20693270
+    Boettiger, C., & Buhler, C. K. (2026). <i>Public GYE Explorer</i> (v1.0.2). Zenodo. https://doi.org/10.5281/zenodo.20693688
   </p>
 </div>
 <br>
@@ -100,7 +100,7 @@ noindex: true
     </a>
   </p>
   <p>
-    Buhler, C. K., & Boettiger, C. (2026). <i>Trust for Public Land Explorer</i> (v3.0.4). Zenodo. https://doi.org/10.5281/zenodo.20693523
+    Buhler, C. K., & Boettiger, C. (2026). <i>Trust for Public Land Explorer</i> (v3.0.5). Zenodo. https://doi.org/10.5281/zenodo.20693686
   </p>
 </div>
 <br>
@@ -119,7 +119,7 @@ noindex: true
     </a>
   </p>
   <p>
-    Boettiger, C., & Buhler, C. K. (2026). <i>Trust for Public Land California Explorer</i> (v1.0.1). Zenodo. https://doi.org/10.5281/zenodo.20693534
+    Boettiger, C., & Buhler, C. K. (2026). <i>Trust for Public Land California Explorer</i> (v1.0.2). Zenodo. https://doi.org/10.5281/zenodo.20693687
   </p>
 </div>
 <br>
@@ -138,7 +138,7 @@ noindex: true
     </a>
   </p>
   <p>
-    Buhler, C. K., & Boettiger, C. (2025). <i>CA 30x30 Planning & Assessment Tool</i> (v1.0.6). Zenodo. https://doi.org/10.5281/zenodo.16988638
+    Buhler, C. K., & Boettiger, C. (2026). <i>CA 30x30 Planning & Assessment Tool</i> (v1.0.7). Zenodo. https://doi.org/10.5281/zenodo.19561674
   </p>
 </div>
 <br>
