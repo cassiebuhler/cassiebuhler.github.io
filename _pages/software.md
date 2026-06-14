@@ -30,11 +30,11 @@ noindex: true
   }
 </style>
 
-### geo-agent: A Reusable Library for Map-Based Applications with LLM-Powered Data Analysis
+### GLEN (Geospatial LLM-Enabled Navigator): A reusable library for map-based applications with LLM-powered data analysis
 <div class="container">
   <div class="vertical"></div>
   <p>
-    An open-source library for building map-based applications with LLM-powered data analysis. geo-agent is the shared framework behind several of the conservation decision-support tools below, pairing interactive geospatial visualization with natural-language querying over cloud-optimized spatial data.
+    An open-source library for building map-based applications with LLM-powered data analysis. GLEN is the shared framework behind several of the conservation decision-support tools below, pairing interactive geospatial visualization with natural-language querying over cloud-optimized spatial data.
   </p>
   <p style="line-height: 85%;">
     <a href="https://github.com/boettiger-lab/geo-agent" target="_blank" rel="noopener noreferrer" class="btn--research">Github</a>
@@ -43,16 +43,16 @@ noindex: true
     </a>
   </p>
   <p>
-    Boettiger, C., & Buhler, C. K. (2026). <i>geo-agent: A Reusable Library for Map-Based Applications with LLM-Powered Data Analysis</i> (v3.11.0). Zenodo. https://doi.org/10.5281/zenodo.20673850
+    Boettiger, C., & Buhler, C. K. (2026). <i>GLEN (Geospatial LLM-Enabled Navigator): A reusable library for map-based applications with LLM-powered data analysis</i> (v3.11.1). Zenodo. https://doi.org/10.5281/zenodo.20693215
   </p>
 </div>
 <br>
 
-### geo-agent: High Seas
+### High Seas Explorer
 <div class="container">
   <div class="vertical"></div>
   <p>
-    An interactive marine conservation decision-support tool for the high seas — the areas of the ocean beyond national jurisdiction. Built on the geo-agent framework, it pairs interactive maps with a natural-language agent that runs SQL over H3-indexed ocean data, letting users explore candidate high seas marine protected areas, exclusive economic zone boundaries, seafloor geomorphology, bathymetry, protected-area coverage, and global fishing-effort data.
+    An interactive marine conservation decision-support tool for the high seas — the areas of the ocean beyond national jurisdiction. Built on the GLEN framework, it pairs interactive maps with a natural-language agent that runs SQL over H3-indexed ocean data, letting users explore candidate high seas marine protected areas, exclusive economic zone boundaries, seafloor geomorphology, bathymetry, protected-area coverage, and global fishing-effort data.
   </p>
   <p style="line-height: 85%;">
     <a href="https://high-seas.nrp-nautilus.io" target="_blank" rel="noopener noreferrer" class="btn--research">App</a>
@@ -62,16 +62,16 @@ noindex: true
     </a>
   </p>
   <p>
-    Boettiger, C., & Buhler, C. K. (2026). <i>geo-agent: High Seas</i> (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20674177
+    Boettiger, C., & Buhler, C. K. (2026). <i>High Seas Explorer</i> (v1.0.2). Zenodo. https://doi.org/10.5281/zenodo.20693579
   </p>
 </div>
 <br>
 
-### geo-agent: Public GYE
+### Public GYE Explorer
 <div class="container">
   <div class="vertical"></div>
   <p>
-    An interactive decision-support tool for wildlife habitat and public lands in the Greater Yellowstone Ecosystem, centered on Wyoming. Built on the geo-agent framework, it pairs interactive maps with a natural-language agent that runs SQL over H3-indexed data, letting users explore Wyoming Game & Fish Department seasonal wildlife range data, public land management boundaries, and related habitat datasets.
+    An interactive decision-support tool for wildlife habitat and public lands in the Greater Yellowstone Ecosystem, centered on Wyoming. Built on the GLEN framework, it pairs interactive maps with a natural-language agent that runs SQL over H3-indexed data, letting users explore Wyoming Game & Fish Department seasonal wildlife range data, public land management boundaries, and related habitat datasets.
   </p>
   <p style="line-height: 85%;">
     <a href="https://wyoming-public-demo.nrp-nautilus.io" target="_blank" rel="noopener noreferrer" class="btn--research">App</a>
@@ -81,16 +81,16 @@ noindex: true
     </a>
   </p>
   <p>
-    Boettiger, C., & Buhler, C. K. (2026). <i>geo-agent: Public GYE</i> (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20674179
+    Boettiger, C., & Buhler, C. K. (2026). <i>Public GYE Explorer</i> (v1.0.1). Zenodo. https://doi.org/10.5281/zenodo.20693270
   </p>
 </div>
 <br>
 
-### geo-agent: Trust for Public Land
+### Trust for Public Land Explorer
 <div class="container">
   <div class="vertical"></div>
   <p>
-    A national conservation decision-support tool integrating protected areas, conservation finance, climate, biodiversity, and social vulnerability data. Built on the geo-agent framework, it pairs interactive maps with a natural-language agent that writes SQL over H3-indexed spatial data, enabling real-time joins across conservation investments, ballot measures, carbon, species richness, legislative districts, and environmental justice indicators. It draws on TPL's Conservation Almanac and LandVote, the U.S. Climate and Economic Justice Screening Tool (Justice40), and the CDC Social Vulnerability Index.
+    A national conservation decision-support tool integrating protected areas, conservation finance, climate, biodiversity, and social vulnerability data. Built on the GLEN framework, it pairs interactive maps with a natural-language agent that writes SQL over H3-indexed spatial data, enabling real-time joins across conservation investments, ballot measures, carbon, species richness, legislative districts, and environmental justice indicators. It draws on TPL's Conservation Almanac and LandVote, the U.S. Climate and Economic Justice Screening Tool (Justice40), and the CDC Social Vulnerability Index.
   </p>
   <p style="line-height: 85%;">
     <a href="https://tpl.nrp-nautilus.io" target="_blank" rel="noopener noreferrer" class="btn--research">App</a>
@@ -100,16 +100,16 @@ noindex: true
     </a>
   </p>
   <p>
-    Buhler, C. K., & Boettiger, C. (2026). <i>geo-agent: Trust for Public Land</i> (v3.0.1). Zenodo. https://doi.org/10.5281/zenodo.20674109
+    Buhler, C. K., & Boettiger, C. (2026). <i>Trust for Public Land Explorer</i> (v3.0.4). Zenodo. https://doi.org/10.5281/zenodo.20693523
   </p>
 </div>
 <br>
 
-### geo-agent: Trust for Public Land (CA)
+### Trust for Public Land California Explorer
 <div class="container">
   <div class="vertical"></div>
   <p>
-    A California-focused conservation decision-support tool for the Trust for Public Land. Built on the geo-agent framework, it pairs interactive maps with a natural-language agent that runs SQL over H3-indexed data, letting staff, legislators, and advocates explore land conservation investment recorded in the Conservation Almanac, carbon stocks, legislative and congressional districts, and Indigenous lands to support conservation planning and policy advocacy.
+    A California-focused conservation decision-support tool for the Trust for Public Land. Built on the GLEN framework, it pairs interactive maps with a natural-language agent that runs SQL over H3-indexed data, letting staff, legislators, and advocates explore land conservation investment recorded in the Conservation Almanac, carbon stocks, legislative and congressional districts, and Indigenous lands to support conservation planning and policy advocacy.
   </p>
   <p style="line-height: 85%;">
     <a href="https://tpl-ca.nrp-nautilus.io" target="_blank" rel="noopener noreferrer" class="btn--research">App</a>
@@ -119,7 +119,7 @@ noindex: true
     </a>
   </p>
   <p>
-    Boettiger, C., & Buhler, C. K. (2026). <i>geo-agent: Trust for Public Land (CA)</i> (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20674187
+    Boettiger, C., & Buhler, C. K. (2026). <i>Trust for Public Land California Explorer</i> (v1.0.1). Zenodo. https://doi.org/10.5281/zenodo.20693534
   </p>
 </div>
 <br>
