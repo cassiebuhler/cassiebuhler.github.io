@@ -50,6 +50,21 @@ noindex: true
 
 ## Publications
 
+### Why Scientists Should Lead the Shift Away from AI Mega Data Centres
+
+<div class="container">
+  <div class="vertical"></div>
+  <p>Cassidy K. Buhler, Fernando Pérez, & Carl Boettiger</p>
+  <p>
+    <a href="https://www.nature.com/articles/d41586-026-02451-2" target="_blank" rel="noopener noreferrer" class="btn--research">Article</a>
+  </p>
+  <p>Buhler, C. K., Pérez, F., & Boettiger, C. (2026). Why scientists should lead the shift away from AI mega data centres. <i>Nature</i>, 656(8127), 296–298. https://doi.org/10.1038/d41586-026-02451-2</p>
+  <div class="tags">
+    <span class="tag">AI</span>
+    <span class="tag">Open Science</span>
+  </div>
+</div>
+
 ### California’s 30 x 30 Initiative at its Midpoint: A Biodiversity Assessment Snapshot of the State’s Conservation Areas
 
 <div class="container">
