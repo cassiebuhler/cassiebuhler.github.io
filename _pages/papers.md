@@ -65,6 +65,21 @@ noindex: true
   </div>
 </div>
 
+### California’s 30x30 Initiative in 2025: A Biodiversity Assessment of the State’s 30x30 Conservation Areas
+
+<div class="container">
+  <div class="vertical"></div>
+  <p>Carrie Schloss, Jeanette Howard, Rachael Olliff Yang, Nathaniel Roth, Cole Dickison, Alicia Canales, Charlotte K. Stanley, Megan Webb, David Ackerly, Carl Boettiger, <b>Cassie Buhler</b>, Steven Monfort, Gary Bucciarelli, Rachel Meyer, Ariel Levi Simons, Jun Bando, Liz Chamberlin, Sam Veloz, Avery Hill, Rebecca Johnson, Ryan Hill, Amanda Kochanek, Dan Rademacher, Lisa Micheli, Kristeen Penrod, Giovanni Rapacciuolo, Dena Spatz, and Daniel Gluesenkamp</p>
+  <p>
+    <a href="https://cabiodiversitynetwork.org/wp-content/uploads/2026/08/CBN-Biodiversity-Assessment-2025-Final-Report.pdf" target="_blank" rel="noopener noreferrer" class="btn--research">Report (PDF)</a>
+  </p>
+  <p>Schloss, C., et al. (2026). <i>California’s 30x30 initiative in 2025: A biodiversity assessment of the state’s 30x30 conservation areas</i>. California Biodiversity Network.</p>
+  <div class="tags">
+    <span class="tag">Biodiversity Conservation</span>
+    <span class="tag">Conservation Policy</span>
+  </div>
+</div>
+
 ### California’s 30 x 30 Initiative at its Midpoint: A Biodiversity Assessment Snapshot of the State’s Conservation Areas
 
 <div class="container">
