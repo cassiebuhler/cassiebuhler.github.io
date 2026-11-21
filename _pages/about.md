@@ -13,10 +13,9 @@ I'm a postdoctoral researcher at the <a href="https://dse.berkeley.edu/" target=
 My early research focused on nonlinear optimization, developing algorithms to solve large-scale problems in machine learning. Midway through my PhD, I became concerned about how AI was being used and looked for ways to apply my expertise with more public benefit, which led me to environmental science.
 
 # Research
-My research develops mathematical optimization and AI methods for conservation and natural resource decision-making. I codevelop <a href="/software/">open-source decision-support tools</a> with practitioners and stakeholders, combining LLMs with optimization to make complex spatial data usable. <a href="/projects/">Recent projects</a> span state to international scales — California's 30x30, the Greater Yellowstone Ecosystem, and the High Seas Treaty. 
+My research develops mathematical optimization and AI methods for conservation and natural resource decision-making. I codevelop <a href="/software/">open-source decision-support tools</a> with practitioners and stakeholders, combining LLMs with optimization to make complex spatial data usable. These tools are built on <a href="https://schmidtdse.github.io/glen-website/" target="_blank">GLEN</a>, an open-source library I co-created that lets people ask questions of conservation data in plain language. <a href="/projects/">Recent projects</a> span state to international scales — California's 30x30, the Greater Yellowstone Ecosystem, and the High Seas Treaty.
 
 I'm always interested in new collaborations! 
-
 
 <a href="/files/ckbuhler_cv.pdf" target="_blank">CV</a>{: .btn--research}
 
